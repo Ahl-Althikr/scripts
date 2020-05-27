@@ -104,6 +104,11 @@ def click_element(element):
     except:
         driver.execute_script('arguments[0].click();', element)
 
+def set_default(obj):
+    if isinstance(obj, set):
+        return list(obj)
+    raise TypeError
+
 # ------------------------------------------------
 # Selectors
 # ------------------------------------------------
@@ -356,16 +361,16 @@ except (KeyboardInterrupt, SystemExit):
     pass
 finally:
     with open(FILE_NAME.format('languages'), 'w') as languages_file:
-        json.dump(languages, languages_file, indent=args.indent)
+        json.dump(languages, languages_file, indent=args.indent, default=set_default)
     with open(FILE_NAME.format('verses'), 'w') as verses_file:
-        json.dump(verses, verses_file, indent=args.indent)
+        json.dump(verses, verses_file, indent=args.indent, default=set_default)
     with open(FILE_NAME.format('pages'), 'w') as pages_file:
-        json.dump(pages, pages_file, indent=args.indent)
+        json.dump(pages, pages_file, indent=args.indent, default=set_default)
     with open(FILE_NAME.format('chapters'), 'w') as chapters_file:
-        json.dump(chapters, chapters_file, indent=args.indent)
+        json.dump(chapters, chapters_file, indent=args.indent, default=set_default)
     with open(FILE_NAME.format('sections'), 'w') as sections_file:
-        json.dump(sections, sections_file, indent=args.indent)
+        json.dump(sections, sections_file, indent=args.indent, default=set_default)
     with open(FILE_NAME.format('explanations'), 'w') as explanations_file:
-        json.dump(explanations, explanations_file, indent=args.indent)
+        json.dump(explanations, explanations_file, indent=args.indent, default=set_default)
         
     driver.quit()

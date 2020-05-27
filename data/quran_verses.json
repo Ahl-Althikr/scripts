@@ -1132,5 +1132,39 @@
     "page": 6,
     "section": 1,
     "chapter": 2
+  },
+  "2:36": {
+    "id": "2:36",
+    "number": 36,
+    "arabic_unicodes": [
+      "\ufbe8",
+      "\ufbe9",
+      "\ufbea",
+      "\ufbeb",
+      "\ufbec",
+      "\ufbed",
+      "\ufbee",
+      "\ufbef",
+      "\ufbf0",
+      "\ufbf1",
+      "\ufbf2",
+      "\ufbf3",
+      "\ufbf4",
+      "\ufbf5",
+      "\ufbf6",
+      "\ufbf7",
+      "\ufbf8",
+      "\ufbf9",
+      "\ufbfa",
+      "\ufbfb",
+      "\ufbfc",
+      "\ufbfd"
+    ],
+    "explanations": [
+      "2:36"
+    ],
+    "page": 6,
+    "section": 1,
+    "chapter": 2
   }
 }
