@@ -39,20 +39,22 @@ import argparse
 # Command Line Arguments
 # ------------------------------------------------
 parser = argparse.ArgumentParser(description='Scrap the Mushafmakkah Quran Web App')
+parser.add_argument('-l', '--log', help='Log scrapping data', action='store_true')
 parser.add_argument('-b', '--browser', help='Show browser', action='store_true')
-parser.add_argument('-ttf', '--fonts', help='Show fonts', action='store_true')
-parser.add_argument('-l', '--log', help='Log scrapping data in realtime', action='store_true')
-parser.add_argument('-lwd', '--log-width', help='Log width size', type=int, default=20)
-parser.add_argument('-qw', '--query-wait', help='Set query wait time out', type=float, default=10)
-parser.add_argument('-sw', '--script-wait', help='Set script wait time out', type=float, default=10)
-parser.add_argument('-lw', '--load-wait', help='Set load wait time out', type=float, default=10)
-parser.add_argument('-f', '--file-prefix', help='Set file name prefix', default='data/quran_')
+parser.add_argument('-f', '--fonts', help='Show fonts', action='store_true')
+
+parser.add_argument('-d', '--delimiter', help='Set verse delimiter', default=':')
 parser.add_argument('-i', '--indent', help='Set output indentation', type=int, default=2)
+
+parser.add_argument('-fp', '--file-prefix', help='Set file name prefix', default='data/quran_')
 parser.add_argument('-ps', '--page-start', help='Fetch from page', type=int, default=1)
 parser.add_argument('-cs', '--chapter-start', help='Fetch from chapter', type=int, default=1)
 parser.add_argument('-vs', '--verse-start', help='Fetch from verse', type=int, default=1)
 parser.add_argument('-pe', '--page-end', help='Fetch to page', type=int, default=604)
-parser.add_argument('-d', '--delimiter', help='Verse delimiter', default=':')
+
+parser.add_argument('-qw', '--query-wait', help='Set query wait time out', type=float, default=10)
+parser.add_argument('-sw', '--script-wait', help='Set script wait time out', type=float, default=10)
+parser.add_argument('-lw', '--load-wait', help='Set load wait time out', type=float, default=10)
 
 args = parser.parse_args()
 
@@ -63,6 +65,7 @@ URL = 'https://web.mushafmakkah.com/#!/?sura='+str(args.chapter_start)+'&aya='+s
 FILE_NAME = args.file_prefix + '{0}.json'
 TEXT_ATTR = 'innerText'
 NO_BASMALA = (1, 9)
+LOG_WIDTH = 20
 
 # ------------------------------------------------
 # Config
@@ -102,9 +105,9 @@ wait = WebDriverWait(driver, args.query_wait)
 
 def log(key, value, wrapper=None):
     if args.log:
-        if wrapper is not None: print(wrapper * args.log_width)
+        if wrapper is not None: print(wrapper * LOG_WIDTH)
         print(key + ': ' + str(value))
-        if wrapper is not None: print(wrapper * args.log_width)
+        if wrapper is not None: print(wrapper * LOG_WIDTH)
 
 def click_element(element):
     try:
