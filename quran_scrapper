@@ -94,7 +94,7 @@ driver = webdriver.Chrome(options=chrome_options)
 driver.set_page_load_timeout(args.load_wait)
 driver.set_script_timeout(args.script_wait)
 driver.rewrite_rules = [
-    (r'(https?://).*(mp3|reciters|woff2|woff|png|gif|svg|jpg).*' if args.fonts else r'(https?://).*(mp3|reciters|ttf|woff2|woff|png|gif|svg|jpg).*', 'http://127.0.0.1')
+    (r'(https?://).*(mp3|reciters|woff2|woff|png|gif|svg|jpg).*' if args.browser and args.fonts else r'(https?://).*(mp3|reciters|ttf|woff2|woff|png|gif|svg|jpg).*', 'http://127.0.0.1')
 ]
 
 wait = WebDriverWait(driver, args.query_wait)
