@@ -259,6 +259,13 @@ languages = {
 }
 
 # ------------------------------------------------
+# Track Data
+# ------------------------------------------------
+
+current_chapter = 0
+current_section = 0
+
+# ------------------------------------------------
 # Read Exisitng Data
 # ------------------------------------------------
     
@@ -271,8 +278,10 @@ try:
         pages = json.load(pages_file)
     with open(FILE_NAME.format('chapters')) as chapters_file:
         chapters = json.load(chapters_file)
+        current_chapter = list(chapters.keys())[-1]
     with open(FILE_NAME.format('sections')) as sections_file:
         sections = json.load(sections_file)
+        current_section = list(sections.keys())[-1]
     with open(FILE_NAME.format('explanations')) as explanations_file:
         explanations = json.load(explanations_file)
 except:
@@ -285,16 +294,13 @@ except:
 if __name__ != '__main__':
     exit()
 try:
-    current_chapter = 0
-    current_section = 0
-
     click_element(get_explanation_tab_element())
 
     for page_element in get_page_list_elements()[args.page_start-1:args.page_end-1]:
         click_element(page_element.find_element_by_css_selector(PAGE_CLICK))
 
         page_number = get_page_number(page_element)
-        page_id = page_number
+        page_id = str(page_number)
         pages[page_id] = {
             'id': page_id,
             'number': page_number,
@@ -319,8 +325,8 @@ try:
 
             verse_id = str(chapter_number) + ':' + str(verse_number)
             explanation_id = verse_id
-            chapter_id = chapter_number
-            section_id = section_number
+            chapter_id = str(chapter_number)
+            section_id = str(section_number)
 
             explanations[explanation_id] = {
                 'id': explanation_id,

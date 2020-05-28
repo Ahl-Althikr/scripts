@@ -12,9 +12,9 @@
     "explanations": [
       "1:1"
     ],
-    "page": 1,
-    "section": 1,
-    "chapter": 1
+    "page": "1",
+    "section": "1",
+    "chapter": "1"
   },
   "1:2": {
     "id": "1:2",
@@ -29,9 +29,9 @@
     "explanations": [
       "1:2"
     ],
-    "page": 1,
-    "section": 1,
-    "chapter": 1
+    "page": "1",
+    "section": "1",
+    "chapter": "1"
   },
   "1:3": {
     "id": "1:3",
@@ -44,9 +44,9 @@
     "explanations": [
       "1:3"
     ],
-    "page": 1,
-    "section": 1,
-    "chapter": 1
+    "page": "1",
+    "section": "1",
+    "chapter": "1"
   },
   "1:4": {
     "id": "1:4",
@@ -60,9 +60,9 @@
     "explanations": [
       "1:4"
     ],
-    "page": 1,
-    "section": 1,
-    "chapter": 1
+    "page": "1",
+    "section": "1",
+    "chapter": "1"
   },
   "1:5": {
     "id": "1:5",
@@ -77,9 +77,9 @@
     "explanations": [
       "1:5"
     ],
-    "page": 1,
-    "section": 1,
-    "chapter": 1
+    "page": "1",
+    "section": "1",
+    "chapter": "1"
   },
   "1:6": {
     "id": "1:6",
@@ -93,9 +93,9 @@
     "explanations": [
       "1:6"
     ],
-    "page": 1,
-    "section": 1,
-    "chapter": 1
+    "page": "1",
+    "section": "1",
+    "chapter": "1"
   },
   "1:7": {
     "id": "1:7",
@@ -115,9 +115,9 @@
     "explanations": [
       "1:7"
     ],
-    "page": 1,
-    "section": 1,
-    "chapter": 1
+    "page": "1",
+    "section": "1",
+    "chapter": "1"
   },
   "2:1": {
     "id": "2:1",
@@ -129,9 +129,9 @@
     "explanations": [
       "2:1"
     ],
-    "page": 2,
-    "section": 1,
-    "chapter": 2
+    "page": "2",
+    "section": "1",
+    "chapter": "2"
   },
   "2:2": {
     "id": "2:2",
@@ -151,9 +151,9 @@
     "explanations": [
       "2:2"
     ],
-    "page": 2,
-    "section": 1,
-    "chapter": 2
+    "page": "2",
+    "section": "1",
+    "chapter": "2"
   },
   "2:3": {
     "id": "2:3",
@@ -172,9 +172,9 @@
     "explanations": [
       "2:3"
     ],
-    "page": 2,
-    "section": 1,
-    "chapter": 2
+    "page": "2",
+    "section": "1",
+    "chapter": "2"
   },
   "2:4": {
     "id": "2:4",
@@ -197,9 +197,9 @@
     "explanations": [
       "2:4"
     ],
-    "page": 2,
-    "section": 1,
-    "chapter": 2
+    "page": "2",
+    "section": "1",
+    "chapter": "2"
   },
   "2:5": {
     "id": "2:5",
@@ -219,9 +219,9 @@
     "explanations": [
       "2:5"
     ],
-    "page": 2,
-    "section": 1,
-    "chapter": 2
+    "page": "2",
+    "section": "1",
+    "chapter": "2"
   },
   "2:6": {
     "id": "2:6",
@@ -243,9 +243,9 @@
     "explanations": [
       "2:6"
     ],
-    "page": 3,
-    "section": 1,
-    "chapter": 2
+    "page": "3",
+    "section": "1",
+    "chapter": "2"
   },
   "2:7": {
     "id": "2:7",
@@ -270,9 +270,9 @@
     "explanations": [
       "2:7"
     ],
-    "page": 3,
-    "section": 1,
-    "chapter": 2
+    "page": "3",
+    "section": "1",
+    "chapter": "2"
   },
   "2:8": {
     "id": "2:8",
@@ -294,9 +294,9 @@
     "explanations": [
       "2:8"
     ],
-    "page": 3,
-    "section": 1,
-    "chapter": 2
+    "page": "3",
+    "section": "1",
+    "chapter": "2"
   },
   "2:9": {
     "id": "2:9",
@@ -317,9 +317,9 @@
     "explanations": [
       "2:9"
     ],
-    "page": 3,
-    "section": 1,
-    "chapter": 2
+    "page": "3",
+    "section": "1",
+    "chapter": "2"
   },
   "2:10": {
     "id": "2:10",
@@ -343,9 +343,9 @@
     "explanations": [
       "2:10"
     ],
-    "page": 3,
-    "section": 1,
-    "chapter": 2
+    "page": "3",
+    "section": "1",
+    "chapter": "2"
   },
   "2:11": {
     "id": "2:11",
@@ -367,9 +367,9 @@
     "explanations": [
       "2:11"
     ],
-    "page": 3,
-    "section": 1,
-    "chapter": 2
+    "page": "3",
+    "section": "1",
+    "chapter": "2"
   },
   "2:12": {
     "id": "2:12",
@@ -387,9 +387,9 @@
     "explanations": [
       "2:12"
     ],
-    "page": 3,
-    "section": 1,
-    "chapter": 2
+    "page": "3",
+    "section": "1",
+    "chapter": "2"
   },
   "2:13": {
     "id": "2:13",
@@ -420,9 +420,9 @@
     "explanations": [
       "2:13"
     ],
-    "page": 3,
-    "section": 1,
-    "chapter": 2
+    "page": "3",
+    "section": "1",
+    "chapter": "2"
   },
   "2:14": {
     "id": "2:14",
@@ -449,9 +449,9 @@
     "explanations": [
       "2:14"
     ],
-    "page": 3,
-    "section": 1,
-    "chapter": 2
+    "page": "3",
+    "section": "1",
+    "chapter": "2"
   },
   "2:15": {
     "id": "2:15",
@@ -469,9 +469,9 @@
     "explanations": [
       "2:15"
     ],
-    "page": 3,
-    "section": 1,
-    "chapter": 2
+    "page": "3",
+    "section": "1",
+    "chapter": "2"
   },
   "2:16": {
     "id": "2:16",
@@ -493,9 +493,9 @@
     "explanations": [
       "2:16"
     ],
-    "page": 3,
-    "section": 1,
-    "chapter": 2
+    "page": "3",
+    "section": "1",
+    "chapter": "2"
   },
   "2:17": {
     "id": "2:17",
@@ -523,9 +523,9 @@
     "explanations": [
       "2:17"
     ],
-    "page": 4,
-    "section": 1,
-    "chapter": 2
+    "page": "4",
+    "section": "1",
+    "chapter": "2"
   },
   "2:18": {
     "id": "2:18",
@@ -542,9 +542,9 @@
     "explanations": [
       "2:18"
     ],
-    "page": 4,
-    "section": 1,
-    "chapter": 2
+    "page": "4",
+    "section": "1",
+    "chapter": "2"
   },
   "2:19": {
     "id": "2:19",
@@ -575,9 +575,9 @@
     "explanations": [
       "2:19"
     ],
-    "page": 4,
-    "section": 1,
-    "chapter": 2
+    "page": "4",
+    "section": "1",
+    "chapter": "2"
   },
   "2:20": {
     "id": "2:20",
@@ -616,9 +616,9 @@
     "explanations": [
       "2:20"
     ],
-    "page": 4,
-    "section": 1,
-    "chapter": 2
+    "page": "4",
+    "section": "1",
+    "chapter": "2"
   },
   "2:21": {
     "id": "2:21",
@@ -640,9 +640,9 @@
     "explanations": [
       "2:21"
     ],
-    "page": 4,
-    "section": 1,
-    "chapter": 2
+    "page": "4",
+    "section": "1",
+    "chapter": "2"
   },
   "2:22": {
     "id": "2:22",
@@ -677,9 +677,9 @@
     "explanations": [
       "2:22"
     ],
-    "page": 4,
-    "section": 1,
-    "chapter": 2
+    "page": "4",
+    "section": "1",
+    "chapter": "2"
   },
   "2:23": {
     "id": "2:23",
@@ -710,9 +710,9 @@
     "explanations": [
       "2:23"
     ],
-    "page": 4,
-    "section": 1,
-    "chapter": 2
+    "page": "4",
+    "section": "1",
+    "chapter": "2"
   },
   "2:24": {
     "id": "2:24",
@@ -737,9 +737,9 @@
     "explanations": [
       "2:24"
     ],
-    "page": 4,
-    "section": 1,
-    "chapter": 2
+    "page": "4",
+    "section": "1",
+    "chapter": "2"
   },
   "2:25": {
     "id": "2:25",
@@ -788,9 +788,9 @@
     "explanations": [
       "2:25"
     ],
-    "page": 5,
-    "section": 1,
-    "chapter": 2
+    "page": "5",
+    "section": "1",
+    "chapter": "2"
   },
   "2:26": {
     "id": "2:26",
@@ -845,9 +845,9 @@
     "explanations": [
       "2:26"
     ],
-    "page": 5,
-    "section": 1,
-    "chapter": 2
+    "page": "5",
+    "section": "1",
+    "chapter": "2"
   },
   "2:27": {
     "id": "2:27",
@@ -879,9 +879,9 @@
     "explanations": [
       "2:27"
     ],
-    "page": 5,
-    "section": 1,
-    "chapter": 2
+    "page": "5",
+    "section": "1",
+    "chapter": "2"
   },
   "2:28": {
     "id": "2:28",
@@ -906,9 +906,9 @@
     "explanations": [
       "2:28"
     ],
-    "page": 5,
-    "section": 1,
-    "chapter": 2
+    "page": "5",
+    "section": "1",
+    "chapter": "2"
   },
   "2:29": {
     "id": "2:29",
@@ -939,9 +939,9 @@
     "explanations": [
       "2:29"
     ],
-    "page": 5,
-    "section": 1,
-    "chapter": 2
+    "page": "5",
+    "section": "1",
+    "chapter": "2"
   },
   "2:30": {
     "id": "2:30",
@@ -982,9 +982,9 @@
     "explanations": [
       "2:30"
     ],
-    "page": 6,
-    "section": 1,
-    "chapter": 2
+    "page": "6",
+    "section": "1",
+    "chapter": "2"
   },
   "2:31": {
     "id": "2:31",
@@ -1010,9 +1010,9 @@
     "explanations": [
       "2:31"
     ],
-    "page": 6,
-    "section": 1,
-    "chapter": 2
+    "page": "6",
+    "section": "1",
+    "chapter": "2"
   },
   "2:32": {
     "id": "2:32",
@@ -1036,9 +1036,9 @@
     "explanations": [
       "2:32"
     ],
-    "page": 6,
-    "section": 1,
-    "chapter": 2
+    "page": "6",
+    "section": "1",
+    "chapter": "2"
   },
   "2:33": {
     "id": "2:33",
@@ -1072,9 +1072,9 @@
     "explanations": [
       "2:33"
     ],
-    "page": 6,
-    "section": 1,
-    "chapter": 2
+    "page": "6",
+    "section": "1",
+    "chapter": "2"
   },
   "2:34": {
     "id": "2:34",
@@ -1098,9 +1098,9 @@
     "explanations": [
       "2:34"
     ],
-    "page": 6,
-    "section": 1,
-    "chapter": 2
+    "page": "6",
+    "section": "1",
+    "chapter": "2"
   },
   "2:35": {
     "id": "2:35",
@@ -1129,9 +1129,9 @@
     "explanations": [
       "2:35"
     ],
-    "page": 6,
-    "section": 1,
-    "chapter": 2
+    "page": "6",
+    "section": "1",
+    "chapter": "2"
   },
   "2:36": {
     "id": "2:36",
@@ -1163,9 +1163,9 @@
     "explanations": [
       "2:36"
     ],
-    "page": 6,
-    "section": 1,
-    "chapter": 2
+    "page": "6",
+    "section": "1",
+    "chapter": "2"
   },
   "2:37": {
     "id": "2:37",
@@ -1188,9 +1188,9 @@
     "explanations": [
       "2:37"
     ],
-    "page": 6,
-    "section": 1,
-    "chapter": 2
+    "page": "6",
+    "section": "1",
+    "chapter": "2"
   },
   "2:38": {
     "id": "2:38",
@@ -1219,9 +1219,9 @@
     "explanations": [
       "2:38"
     ],
-    "page": 7,
-    "section": 1,
-    "chapter": 2
+    "page": "7",
+    "section": "1",
+    "chapter": "2"
   },
   "2:39": {
     "id": "2:39",
@@ -1243,9 +1243,9 @@
     "explanations": [
       "2:39"
     ],
-    "page": 7,
-    "section": 1,
-    "chapter": 2
+    "page": "7",
+    "section": "1",
+    "chapter": "2"
   },
   "2:40": {
     "id": "2:40",
@@ -1269,9 +1269,9 @@
     "explanations": [
       "2:40"
     ],
-    "page": 7,
-    "section": 1,
-    "chapter": 2
+    "page": "7",
+    "section": "1",
+    "chapter": "2"
   },
   "2:41": {
     "id": "2:41",
@@ -1301,9 +1301,9 @@
     "explanations": [
       "2:41"
     ],
-    "page": 7,
-    "section": 1,
-    "chapter": 2
+    "page": "7",
+    "section": "1",
+    "chapter": "2"
   },
   "2:42": {
     "id": "2:42",
@@ -1322,9 +1322,9 @@
     "explanations": [
       "2:42"
     ],
-    "page": 7,
-    "section": 1,
-    "chapter": 2
+    "page": "7",
+    "section": "1",
+    "chapter": "2"
   },
   "2:43": {
     "id": "2:43",
@@ -1342,9 +1342,9 @@
     "explanations": [
       "2:43"
     ],
-    "page": 7,
-    "section": 1,
-    "chapter": 2
+    "page": "7",
+    "section": "1",
+    "chapter": "2"
   },
   "2:44": {
     "id": "2:44",
@@ -1367,9 +1367,9 @@
     "explanations": [
       "2:44"
     ],
-    "page": 7,
-    "section": 1,
-    "chapter": 2
+    "page": "7",
+    "section": "1",
+    "chapter": "2"
   },
   "2:45": {
     "id": "2:45",
@@ -1389,9 +1389,9 @@
     "explanations": [
       "2:45"
     ],
-    "page": 7,
-    "section": 1,
-    "chapter": 2
+    "page": "7",
+    "section": "1",
+    "chapter": "2"
   },
   "2:46": {
     "id": "2:46",
@@ -1410,9 +1410,9 @@
     "explanations": [
       "2:46"
     ],
-    "page": 7,
-    "section": 1,
-    "chapter": 2
+    "page": "7",
+    "section": "1",
+    "chapter": "2"
   },
   "2:47": {
     "id": "2:47",
@@ -1434,9 +1434,9 @@
     "explanations": [
       "2:47"
     ],
-    "page": 7,
-    "section": 1,
-    "chapter": 2
+    "page": "7",
+    "section": "1",
+    "chapter": "2"
   },
   "2:48": {
     "id": "2:48",
@@ -1466,9 +1466,9 @@
     "explanations": [
       "2:48"
     ],
-    "page": 7,
-    "section": 1,
-    "chapter": 2
+    "page": "7",
+    "section": "1",
+    "chapter": "2"
   },
   "2:49": {
     "id": "2:49",
@@ -1498,9 +1498,9 @@
     "explanations": [
       "2:49"
     ],
-    "page": 8,
-    "section": 1,
-    "chapter": 2
+    "page": "8",
+    "section": "1",
+    "chapter": "2"
   },
   "2:50": {
     "id": "2:50",
@@ -1521,9 +1521,9 @@
     "explanations": [
       "2:50"
     ],
-    "page": 8,
-    "section": 1,
-    "chapter": 2
+    "page": "8",
+    "section": "1",
+    "chapter": "2"
   },
   "2:51": {
     "id": "2:51",
@@ -1546,9 +1546,9 @@
     "explanations": [
       "2:51"
     ],
-    "page": 8,
-    "section": 1,
-    "chapter": 2
+    "page": "8",
+    "section": "1",
+    "chapter": "2"
   },
   "2:52": {
     "id": "2:52",
@@ -1567,9 +1567,9 @@
     "explanations": [
       "2:52"
     ],
-    "page": 8,
-    "section": 1,
-    "chapter": 2
+    "page": "8",
+    "section": "1",
+    "chapter": "2"
   },
   "2:53": {
     "id": "2:53",
@@ -1587,9 +1587,9 @@
     "explanations": [
       "2:53"
     ],
-    "page": 8,
-    "section": 1,
-    "chapter": 2
+    "page": "8",
+    "section": "1",
+    "chapter": "2"
   },
   "2:54": {
     "id": "2:54",
@@ -1627,9 +1627,9 @@
     "explanations": [
       "2:54"
     ],
-    "page": 8,
-    "section": 1,
-    "chapter": 2
+    "page": "8",
+    "section": "1",
+    "chapter": "2"
   },
   "2:55": {
     "id": "2:55",
@@ -1654,9 +1654,9 @@
     "explanations": [
       "2:55"
     ],
-    "page": 8,
-    "section": 1,
-    "chapter": 2
+    "page": "8",
+    "section": "1",
+    "chapter": "2"
   },
   "2:56": {
     "id": "2:56",
@@ -1674,9 +1674,9 @@
     "explanations": [
       "2:56"
     ],
-    "page": 8,
-    "section": 1,
-    "chapter": 2
+    "page": "8",
+    "section": "1",
+    "chapter": "2"
   },
   "2:57": {
     "id": "2:57",
@@ -1707,9 +1707,9 @@
     "explanations": [
       "2:57"
     ],
-    "page": 8,
-    "section": 1,
-    "chapter": 2
+    "page": "8",
+    "section": "1",
+    "chapter": "2"
   },
   "2:58": {
     "id": "2:58",
@@ -1741,9 +1741,9 @@
     "explanations": [
       "2:58"
     ],
-    "page": 9,
-    "section": 1,
-    "chapter": 2
+    "page": "9",
+    "section": "1",
+    "chapter": "2"
   },
   "2:59": {
     "id": "2:59",
@@ -1772,9 +1772,9 @@
     "explanations": [
       "2:59"
     ],
-    "page": 9,
-    "section": 1,
-    "chapter": 2
+    "page": "9",
+    "section": "1",
+    "chapter": "2"
   },
   "2:60": {
     "id": "2:60",
@@ -1817,9 +1817,9 @@
     "explanations": [
       "2:60"
     ],
-    "page": 9,
-    "section": 1,
-    "chapter": 2
+    "page": "9",
+    "section": "1",
+    "chapter": "2"
   },
   "2:61": {
     "id": "2:61",
@@ -1894,9 +1894,9 @@
     "explanations": [
       "2:61"
     ],
-    "page": 9,
-    "section": 1,
-    "chapter": 2
+    "page": "9",
+    "section": "1",
+    "chapter": "2"
   },
   "2:62": {
     "id": "2:62",
@@ -1931,9 +1931,9 @@
     "explanations": [
       "2:62"
     ],
-    "page": 10,
-    "section": 1,
-    "chapter": 2
+    "page": "10",
+    "section": "1",
+    "chapter": "2"
   },
   "2:63": {
     "id": "2:63",
@@ -1959,9 +1959,9 @@
     "explanations": [
       "2:63"
     ],
-    "page": 10,
-    "section": 1,
-    "chapter": 2
+    "page": "10",
+    "section": "1",
+    "chapter": "2"
   },
   "2:64": {
     "id": "2:64",
@@ -1986,9 +1986,9 @@
     "explanations": [
       "2:64"
     ],
-    "page": 10,
-    "section": 1,
-    "chapter": 2
+    "page": "10",
+    "section": "1",
+    "chapter": "2"
   },
   "2:65": {
     "id": "2:65",
@@ -2011,9 +2011,9 @@
     "explanations": [
       "2:65"
     ],
-    "page": 10,
-    "section": 1,
-    "chapter": 2
+    "page": "10",
+    "section": "1",
+    "chapter": "2"
   },
   "2:66": {
     "id": "2:66",
@@ -2033,9 +2033,9 @@
     "explanations": [
       "2:66"
     ],
-    "page": 10,
-    "section": 1,
-    "chapter": 2
+    "page": "10",
+    "section": "1",
+    "chapter": "2"
   },
   "2:67": {
     "id": "2:67",
@@ -2068,9 +2068,9 @@
     "explanations": [
       "2:67"
     ],
-    "page": 10,
-    "section": 1,
-    "chapter": 2
+    "page": "10",
+    "section": "1",
+    "chapter": "2"
   },
   "2:68": {
     "id": "2:68",
@@ -2106,9 +2106,9 @@
     "explanations": [
       "2:68"
     ],
-    "page": 10,
-    "section": 1,
-    "chapter": 2
+    "page": "10",
+    "section": "1",
+    "chapter": "2"
   },
   "2:69": {
     "id": "2:69",
@@ -2138,9 +2138,9 @@
     "explanations": [
       "2:69"
     ],
-    "page": 10,
-    "section": 1,
-    "chapter": 2
+    "page": "10",
+    "section": "1",
+    "chapter": "2"
   },
   "2:70": {
     "id": "2:70",
@@ -2168,9 +2168,9 @@
     "explanations": [
       "2:70"
     ],
-    "page": 11,
-    "section": 1,
-    "chapter": 2
+    "page": "11",
+    "section": "1",
+    "chapter": "2"
   },
   "2:71": {
     "id": "2:71",
@@ -2207,9 +2207,9 @@
     "explanations": [
       "2:71"
     ],
-    "page": 11,
-    "section": 1,
-    "chapter": 2
+    "page": "11",
+    "section": "1",
+    "chapter": "2"
   },
   "2:72": {
     "id": "2:72",
@@ -2231,9 +2231,9 @@
     "explanations": [
       "2:72"
     ],
-    "page": 11,
-    "section": 1,
-    "chapter": 2
+    "page": "11",
+    "section": "1",
+    "chapter": "2"
   },
   "2:73": {
     "id": "2:73",
@@ -2256,9 +2256,9 @@
     "explanations": [
       "2:73"
     ],
-    "page": 11,
-    "section": 1,
-    "chapter": 2
+    "page": "11",
+    "section": "1",
+    "chapter": "2"
   },
   "2:74": {
     "id": "2:74",
@@ -2310,9 +2310,9 @@
     "explanations": [
       "2:74"
     ],
-    "page": 11,
-    "section": 1,
-    "chapter": 2
+    "page": "11",
+    "section": "1",
+    "chapter": "2"
   },
   "2:75": {
     "id": "2:75",
@@ -2343,9 +2343,9 @@
     "explanations": [
       "2:75"
     ],
-    "page": 11,
-    "section": 1,
-    "chapter": 2
+    "page": "11",
+    "section": "1",
+    "chapter": "2"
   },
   "2:76": {
     "id": "2:76",
@@ -2380,9 +2380,9 @@
     "explanations": [
       "2:76"
     ],
-    "page": 11,
-    "section": 1,
-    "chapter": 2
+    "page": "11",
+    "section": "1",
+    "chapter": "2"
   },
   "2:77": {
     "id": "2:77",
@@ -2402,9 +2402,9 @@
     "explanations": [
       "2:77"
     ],
-    "page": 12,
-    "section": 1,
-    "chapter": 2
+    "page": "12",
+    "section": "1",
+    "chapter": "2"
   },
   "2:78": {
     "id": "2:78",
@@ -2426,9 +2426,9 @@
     "explanations": [
       "2:78"
     ],
-    "page": 12,
-    "section": 1,
-    "chapter": 2
+    "page": "12",
+    "section": "1",
+    "chapter": "2"
   },
   "2:79": {
     "id": "2:79",
@@ -2464,9 +2464,9 @@
     "explanations": [
       "2:79"
     ],
-    "page": 12,
-    "section": 1,
-    "chapter": 2
+    "page": "12",
+    "section": "1",
+    "chapter": "2"
   },
   "2:80": {
     "id": "2:80",
@@ -2502,9 +2502,9 @@
     "explanations": [
       "2:80"
     ],
-    "page": 12,
-    "section": 1,
-    "chapter": 2
+    "page": "12",
+    "section": "1",
+    "chapter": "2"
   },
   "2:81": {
     "id": "2:81",
@@ -2530,9 +2530,9 @@
     "explanations": [
       "2:81"
     ],
-    "page": 12,
-    "section": 1,
-    "chapter": 2
+    "page": "12",
+    "section": "1",
+    "chapter": "2"
   },
   "2:82": {
     "id": "2:82",
@@ -2554,9 +2554,9 @@
     "explanations": [
       "2:82"
     ],
-    "page": 12,
-    "section": 1,
-    "chapter": 2
+    "page": "12",
+    "section": "1",
+    "chapter": "2"
   },
   "2:83": {
     "id": "2:83",
@@ -2596,9 +2596,9 @@
     "explanations": [
       "2:83"
     ],
-    "page": 12,
-    "section": 1,
-    "chapter": 2
+    "page": "12",
+    "section": "1",
+    "chapter": "2"
   },
   "2:84": {
     "id": "2:84",
@@ -2624,9 +2624,9 @@
     "explanations": [
       "2:84"
     ],
-    "page": 13,
-    "section": 1,
-    "chapter": 2
+    "page": "13",
+    "section": "1",
+    "chapter": "2"
   },
   "2:85": {
     "id": "2:85",
@@ -2690,9 +2690,9 @@
     "explanations": [
       "2:85"
     ],
-    "page": 13,
-    "section": 1,
-    "chapter": 2
+    "page": "13",
+    "section": "1",
+    "chapter": "2"
   },
   "2:86": {
     "id": "2:86",
@@ -2717,9 +2717,9 @@
     "explanations": [
       "2:86"
     ],
-    "page": 13,
-    "section": 1,
-    "chapter": 2
+    "page": "13",
+    "section": "1",
+    "chapter": "2"
   },
   "2:87": {
     "id": "2:87",
@@ -2760,9 +2760,9 @@
     "explanations": [
       "2:87"
     ],
-    "page": 13,
-    "section": 1,
-    "chapter": 2
+    "page": "13",
+    "section": "1",
+    "chapter": "2"
   },
   "2:88": {
     "id": "2:88",
@@ -2784,9 +2784,9 @@
     "explanations": [
       "2:88"
     ],
-    "page": 13,
-    "section": 1,
-    "chapter": 2
+    "page": "13",
+    "section": "1",
+    "chapter": "2"
   },
   "2:89": {
     "id": "2:89",
@@ -2824,9 +2824,9 @@
     "explanations": [
       "2:89"
     ],
-    "page": 14,
-    "section": 1,
-    "chapter": 2
+    "page": "14",
+    "section": "1",
+    "chapter": "2"
   },
   "2:90": {
     "id": "2:90",
@@ -2866,9 +2866,9 @@
     "explanations": [
       "2:90"
     ],
-    "page": 14,
-    "section": 1,
-    "chapter": 2
+    "page": "14",
+    "section": "1",
+    "chapter": "2"
   },
   "2:91": {
     "id": "2:91",
@@ -2910,9 +2910,9 @@
     "explanations": [
       "2:91"
     ],
-    "page": 14,
-    "section": 1,
-    "chapter": 2
+    "page": "14",
+    "section": "1",
+    "chapter": "2"
   },
   "2:92": {
     "id": "2:92",
@@ -2935,9 +2935,9 @@
     "explanations": [
       "2:92"
     ],
-    "page": 14,
-    "section": 1,
-    "chapter": 2
+    "page": "14",
+    "section": "1",
+    "chapter": "2"
   },
   "2:93": {
     "id": "2:93",
@@ -2977,9 +2977,9 @@
     "explanations": [
       "2:93"
     ],
-    "page": 14,
-    "section": 1,
-    "chapter": 2
+    "page": "14",
+    "section": "1",
+    "chapter": "2"
   },
   "2:94": {
     "id": "2:94",
@@ -3007,9 +3007,9 @@
     "explanations": [
       "2:94"
     ],
-    "page": 15,
-    "section": 1,
-    "chapter": 2
+    "page": "15",
+    "section": "1",
+    "chapter": "2"
   },
   "2:95": {
     "id": "2:95",
@@ -3030,9 +3030,9 @@
     "explanations": [
       "2:95"
     ],
-    "page": 15,
-    "section": 1,
-    "chapter": 2
+    "page": "15",
+    "section": "1",
+    "chapter": "2"
   },
   "2:96": {
     "id": "2:96",
@@ -3070,9 +3070,9 @@
     "explanations": [
       "2:96"
     ],
-    "page": 15,
-    "section": 1,
-    "chapter": 2
+    "page": "15",
+    "section": "1",
+    "chapter": "2"
   },
   "2:97": {
     "id": "2:97",
@@ -3101,9 +3101,9 @@
     "explanations": [
       "2:97"
     ],
-    "page": 15,
-    "section": 1,
-    "chapter": 2
+    "page": "15",
+    "section": "1",
+    "chapter": "2"
   },
   "2:98": {
     "id": "2:98",
@@ -3126,9 +3126,9 @@
     "explanations": [
       "2:98"
     ],
-    "page": 15,
-    "section": 1,
-    "chapter": 2
+    "page": "15",
+    "section": "1",
+    "chapter": "2"
   },
   "2:99": {
     "id": "2:99",
@@ -3150,9 +3150,9 @@
     "explanations": [
       "2:99"
     ],
-    "page": 15,
-    "section": 1,
-    "chapter": 2
+    "page": "15",
+    "section": "1",
+    "chapter": "2"
   },
   "2:100": {
     "id": "2:100",
@@ -3174,9 +3174,9 @@
     "explanations": [
       "2:100"
     ],
-    "page": 15,
-    "section": 1,
-    "chapter": 2
+    "page": "15",
+    "section": "1",
+    "chapter": "2"
   },
   "2:101": {
     "id": "2:101",
@@ -3209,9 +3209,9 @@
     "explanations": [
       "2:101"
     ],
-    "page": 15,
-    "section": 1,
-    "chapter": 2
+    "page": "15",
+    "section": "1",
+    "chapter": "2"
   },
   "2:102": {
     "id": "2:102",
@@ -3304,9 +3304,9 @@
     "explanations": [
       "2:102"
     ],
-    "page": 16,
-    "section": 1,
-    "chapter": 2
+    "page": "16",
+    "section": "1",
+    "chapter": "2"
   },
   "2:103": {
     "id": "2:103",
@@ -3330,9 +3330,9 @@
     "explanations": [
       "2:103"
     ],
-    "page": 16,
-    "section": 1,
-    "chapter": 2
+    "page": "16",
+    "section": "1",
+    "chapter": "2"
   },
   "2:104": {
     "id": "2:104",
@@ -3356,9 +3356,9 @@
     "explanations": [
       "2:104"
     ],
-    "page": 16,
-    "section": 1,
-    "chapter": 2
+    "page": "16",
+    "section": "1",
+    "chapter": "2"
   },
   "2:105": {
     "id": "2:105",
@@ -3396,9 +3396,9 @@
     "explanations": [
       "2:105"
     ],
-    "page": 16,
-    "section": 1,
-    "chapter": 2
+    "page": "16",
+    "section": "1",
+    "chapter": "2"
   },
   "2:106": {
     "id": "2:106",
@@ -3430,9 +3430,9 @@
     "explanations": [
       "2:106"
     ],
-    "page": 17,
-    "section": 1,
-    "chapter": 2
+    "page": "17",
+    "section": "1",
+    "chapter": "2"
   },
   "2:107": {
     "id": "2:107",
@@ -3461,9 +3461,9 @@
     "explanations": [
       "2:107"
     ],
-    "page": 17,
-    "section": 1,
-    "chapter": 2
+    "page": "17",
+    "section": "1",
+    "chapter": "2"
   },
   "2:108": {
     "id": "2:108",
@@ -3493,9 +3493,9 @@
     "explanations": [
       "2:108"
     ],
-    "page": 17,
-    "section": 1,
-    "chapter": 2
+    "page": "17",
+    "section": "1",
+    "chapter": "2"
   },
   "2:109": {
     "id": "2:109",
@@ -3541,9 +3541,9 @@
     "explanations": [
       "2:109"
     ],
-    "page": 17,
-    "section": 1,
-    "chapter": 2
+    "page": "17",
+    "section": "1",
+    "chapter": "2"
   },
   "2:110": {
     "id": "2:110",
@@ -3573,9 +3573,9 @@
     "explanations": [
       "2:110"
     ],
-    "page": 17,
-    "section": 1,
-    "chapter": 2
+    "page": "17",
+    "section": "1",
+    "chapter": "2"
   },
   "2:111": {
     "id": "2:111",
@@ -3606,9 +3606,9 @@
     "explanations": [
       "2:111"
     ],
-    "page": 17,
-    "section": 1,
-    "chapter": 2
+    "page": "17",
+    "section": "1",
+    "chapter": "2"
   },
   "2:112": {
     "id": "2:112",
@@ -3637,9 +3637,9 @@
     "explanations": [
       "2:112"
     ],
-    "page": 17,
-    "section": 1,
-    "chapter": 2
+    "page": "17",
+    "section": "1",
+    "chapter": "2"
   },
   "2:113": {
     "id": "2:113",
@@ -3683,9 +3683,9 @@
     "explanations": [
       "2:113"
     ],
-    "page": 18,
-    "section": 1,
-    "chapter": 2
+    "page": "18",
+    "section": "1",
+    "chapter": "2"
   },
   "2:114": {
     "id": "2:114",
@@ -3728,9 +3728,9 @@
     "explanations": [
       "2:114"
     ],
-    "page": 18,
-    "section": 1,
-    "chapter": 2
+    "page": "18",
+    "section": "1",
+    "chapter": "2"
   },
   "2:115": {
     "id": "2:115",
@@ -3755,9 +3755,9 @@
     "explanations": [
       "2:115"
     ],
-    "page": 18,
-    "section": 1,
-    "chapter": 2
+    "page": "18",
+    "section": "1",
+    "chapter": "2"
   },
   "2:116": {
     "id": "2:116",
@@ -3785,9 +3785,9 @@
     "explanations": [
       "2:116"
     ],
-    "page": 18,
-    "section": 1,
-    "chapter": 2
+    "page": "18",
+    "section": "1",
+    "chapter": "2"
   },
   "2:117": {
     "id": "2:117",
@@ -3810,9 +3810,9 @@
     "explanations": [
       "2:117"
     ],
-    "page": 18,
-    "section": 1,
-    "chapter": 2
+    "page": "18",
+    "section": "1",
+    "chapter": "2"
   },
   "2:118": {
     "id": "2:118",
@@ -3850,9 +3850,9 @@
     "explanations": [
       "2:118"
     ],
-    "page": 18,
-    "section": 1,
-    "chapter": 2
+    "page": "18",
+    "section": "1",
+    "chapter": "2"
   },
   "2:119": {
     "id": "2:119",
@@ -3874,9 +3874,9 @@
     "explanations": [
       "2:119"
     ],
-    "page": 18,
-    "section": 1,
-    "chapter": 2
+    "page": "18",
+    "section": "1",
+    "chapter": "2"
   },
   "2:120": {
     "id": "2:120",
@@ -3920,9 +3920,9 @@
     "explanations": [
       "2:120"
     ],
-    "page": 19,
-    "section": 1,
-    "chapter": 2
+    "page": "19",
+    "section": "1",
+    "chapter": "2"
   },
   "2:121": {
     "id": "2:121",
@@ -3949,9 +3949,9 @@
     "explanations": [
       "2:121"
     ],
-    "page": 19,
-    "section": 1,
-    "chapter": 2
+    "page": "19",
+    "section": "1",
+    "chapter": "2"
   },
   "2:122": {
     "id": "2:122",
@@ -3973,9 +3973,9 @@
     "explanations": [
       "2:122"
     ],
-    "page": 19,
-    "section": 1,
-    "chapter": 2
+    "page": "19",
+    "section": "1",
+    "chapter": "2"
   },
   "2:123": {
     "id": "2:123",
@@ -4004,9 +4004,9 @@
     "explanations": [
       "2:123"
     ],
-    "page": 19,
-    "section": 1,
-    "chapter": 2
+    "page": "19",
+    "section": "1",
+    "chapter": "2"
   },
   "2:124": {
     "id": "2:124",
@@ -4040,9 +4040,9 @@
     "explanations": [
       "2:124"
     ],
-    "page": 19,
-    "section": 1,
-    "chapter": 2
+    "page": "19",
+    "section": "1",
+    "chapter": "2"
   },
   "2:125": {
     "id": "2:125",
@@ -4076,9 +4076,9 @@
     "explanations": [
       "2:125"
     ],
-    "page": 19,
-    "section": 1,
-    "chapter": 2
+    "page": "19",
+    "section": "1",
+    "chapter": "2"
   },
   "2:126": {
     "id": "2:126",
@@ -4121,9 +4121,9 @@
     "explanations": [
       "2:126"
     ],
-    "page": 19,
-    "section": 1,
-    "chapter": 2
+    "page": "19",
+    "section": "1",
+    "chapter": "2"
   },
   "2:127": {
     "id": "2:127",
@@ -4149,9 +4149,9 @@
     "explanations": [
       "2:127"
     ],
-    "page": 20,
-    "section": 1,
-    "chapter": 2
+    "page": "20",
+    "section": "1",
+    "chapter": "2"
   },
   "2:128": {
     "id": "2:128",
@@ -4180,9 +4180,9 @@
     "explanations": [
       "2:128"
     ],
-    "page": 20,
-    "section": 1,
-    "chapter": 2
+    "page": "20",
+    "section": "1",
+    "chapter": "2"
   },
   "2:129": {
     "id": "2:129",
@@ -4210,9 +4210,9 @@
     "explanations": [
       "2:129"
     ],
-    "page": 20,
-    "section": 1,
-    "chapter": 2
+    "page": "20",
+    "section": "1",
+    "chapter": "2"
   },
   "2:130": {
     "id": "2:130",
@@ -4243,9 +4243,9 @@
     "explanations": [
       "2:130"
     ],
-    "page": 20,
-    "section": 1,
-    "chapter": 2
+    "page": "20",
+    "section": "1",
+    "chapter": "2"
   },
   "2:131": {
     "id": "2:131",
@@ -4266,9 +4266,9 @@
     "explanations": [
       "2:131"
     ],
-    "page": 20,
-    "section": 1,
-    "chapter": 2
+    "page": "20",
+    "section": "1",
+    "chapter": "2"
   },
   "2:132": {
     "id": "2:132",
@@ -4295,9 +4295,9 @@
     "explanations": [
       "2:132"
     ],
-    "page": 20,
-    "section": 1,
-    "chapter": 2
+    "page": "20",
+    "section": "1",
+    "chapter": "2"
   },
   "2:133": {
     "id": "2:133",
@@ -4336,9 +4336,9 @@
     "explanations": [
       "2:133"
     ],
-    "page": 20,
-    "section": 1,
-    "chapter": 2
+    "page": "20",
+    "section": "1",
+    "chapter": "2"
   },
   "2:134": {
     "id": "2:134",
@@ -4366,9 +4366,9 @@
     "explanations": [
       "2:134"
     ],
-    "page": 20,
-    "section": 1,
-    "chapter": 2
+    "page": "20",
+    "section": "1",
+    "chapter": "2"
   },
   "2:135": {
     "id": "2:135",
@@ -4396,9 +4396,9 @@
     "explanations": [
       "2:135"
     ],
-    "page": 21,
-    "section": 1,
-    "chapter": 2
+    "page": "21",
+    "section": "1",
+    "chapter": "2"
   },
   "2:136": {
     "id": "2:136",
@@ -4440,9 +4440,9 @@
     "explanations": [
       "2:136"
     ],
-    "page": 21,
-    "section": 1,
-    "chapter": 2
+    "page": "21",
+    "section": "1",
+    "chapter": "2"
   },
   "2:137": {
     "id": "2:137",
@@ -4475,9 +4475,9 @@
     "explanations": [
       "2:137"
     ],
-    "page": 21,
-    "section": 1,
-    "chapter": 2
+    "page": "21",
+    "section": "1",
+    "chapter": "2"
   },
   "2:138": {
     "id": "2:138",
@@ -4499,9 +4499,9 @@
     "explanations": [
       "2:138"
     ],
-    "page": 21,
-    "section": 1,
-    "chapter": 2
+    "page": "21",
+    "section": "1",
+    "chapter": "2"
   },
   "2:139": {
     "id": "2:139",
@@ -4526,9 +4526,9 @@
     "explanations": [
       "2:139"
     ],
-    "page": 21,
-    "section": 1,
-    "chapter": 2
+    "page": "21",
+    "section": "1",
+    "chapter": "2"
   },
   "2:140": {
     "id": "2:140",
@@ -4572,9 +4572,9 @@
     "explanations": [
       "2:140"
     ],
-    "page": 21,
-    "section": 1,
-    "chapter": 2
+    "page": "21",
+    "section": "1",
+    "chapter": "2"
   },
   "2:141": {
     "id": "2:141",
@@ -4602,9 +4602,9 @@
     "explanations": [
       "2:141"
     ],
-    "page": 21,
-    "section": 1,
-    "chapter": 2
+    "page": "21",
+    "section": "1",
+    "chapter": "2"
   },
   "2:142": {
     "id": "2:142",
@@ -4639,9 +4639,9 @@
     "explanations": [
       "2:142"
     ],
-    "page": 22,
-    "section": 2,
-    "chapter": 2
+    "page": "22",
+    "section": "2",
+    "chapter": "2"
   },
   "2:143": {
     "id": "2:143",
@@ -4701,9 +4701,9 @@
     "explanations": [
       "2:143"
     ],
-    "page": 22,
-    "section": 2,
-    "chapter": 2
+    "page": "22",
+    "section": "2",
+    "chapter": "2"
   },
   "2:144": {
     "id": "2:144",
@@ -4753,9 +4753,9 @@
     "explanations": [
       "2:144"
     ],
-    "page": 22,
-    "section": 2,
-    "chapter": 2
+    "page": "22",
+    "section": "2",
+    "chapter": "2"
   },
   "2:145": {
     "id": "2:145",
@@ -4801,9 +4801,9 @@
     "explanations": [
       "2:145"
     ],
-    "page": 22,
-    "section": 2,
-    "chapter": 2
+    "page": "22",
+    "section": "2",
+    "chapter": "2"
   },
   "2:146": {
     "id": "2:146",
@@ -4829,9 +4829,9 @@
     "explanations": [
       "2:146"
     ],
-    "page": 23,
-    "section": 2,
-    "chapter": 2
+    "page": "23",
+    "section": "2",
+    "chapter": "2"
   },
   "2:147": {
     "id": "2:147",
@@ -4849,9 +4849,9 @@
     "explanations": [
       "2:147"
     ],
-    "page": 23,
-    "section": 2,
-    "chapter": 2
+    "page": "23",
+    "section": "2",
+    "chapter": "2"
   },
   "2:148": {
     "id": "2:148",
@@ -4884,9 +4884,9 @@
     "explanations": [
       "2:148"
     ],
-    "page": 23,
-    "section": 2,
-    "chapter": 2
+    "page": "23",
+    "section": "2",
+    "chapter": "2"
   },
   "2:149": {
     "id": "2:149",
@@ -4916,9 +4916,9 @@
     "explanations": [
       "2:149"
     ],
-    "page": 23,
-    "section": 2,
-    "chapter": 2
+    "page": "23",
+    "section": "2",
+    "chapter": "2"
   },
   "2:150": {
     "id": "2:150",
@@ -4961,9 +4961,9 @@
     "explanations": [
       "2:150"
     ],
-    "page": 23,
-    "section": 2,
-    "chapter": 2
+    "page": "23",
+    "section": "2",
+    "chapter": "2"
   },
   "2:151": {
     "id": "2:151",
@@ -4991,9 +4991,9 @@
     "explanations": [
       "2:151"
     ],
-    "page": 23,
-    "section": 2,
-    "chapter": 2
+    "page": "23",
+    "section": "2",
+    "chapter": "2"
   },
   "2:152": {
     "id": "2:152",
@@ -5010,9 +5010,9 @@
     "explanations": [
       "2:152"
     ],
-    "page": 23,
-    "section": 2,
-    "chapter": 2
+    "page": "23",
+    "section": "2",
+    "chapter": "2"
   },
   "2:153": {
     "id": "2:153",
@@ -5034,9 +5034,9 @@
     "explanations": [
       "2:153"
     ],
-    "page": 23,
-    "section": 2,
-    "chapter": 2
+    "page": "23",
+    "section": "2",
+    "chapter": "2"
   },
   "2:154": {
     "id": "2:154",
@@ -5061,9 +5061,9 @@
     "explanations": [
       "2:154"
     ],
-    "page": 24,
-    "section": 2,
-    "chapter": 2
+    "page": "24",
+    "section": "2",
+    "chapter": "2"
   },
   "2:155": {
     "id": "2:155",
@@ -5087,9 +5087,9 @@
     "explanations": [
       "2:155"
     ],
-    "page": 24,
-    "section": 2,
-    "chapter": 2
+    "page": "24",
+    "section": "2",
+    "chapter": "2"
   },
   "2:156": {
     "id": "2:156",
@@ -5110,9 +5110,9 @@
     "explanations": [
       "2:156"
     ],
-    "page": 24,
-    "section": 2,
-    "chapter": 2
+    "page": "24",
+    "section": "2",
+    "chapter": "2"
   },
   "2:157": {
     "id": "2:157",
@@ -5133,9 +5133,9 @@
     "explanations": [
       "2:157"
     ],
-    "page": 24,
-    "section": 2,
-    "chapter": 2
+    "page": "24",
+    "section": "2",
+    "chapter": "2"
   },
   "2:158": {
     "id": "2:158",
@@ -5173,9 +5173,9 @@
     "explanations": [
       "2:158"
     ],
-    "page": 24,
-    "section": 2,
-    "chapter": 2
+    "page": "24",
+    "section": "2",
+    "chapter": "2"
   },
   "2:159": {
     "id": "2:159",
@@ -5206,9 +5206,9 @@
     "explanations": [
       "2:159"
     ],
-    "page": 24,
-    "section": 2,
-    "chapter": 2
+    "page": "24",
+    "section": "2",
+    "chapter": "2"
   },
   "2:160": {
     "id": "2:160",
@@ -5230,9 +5230,9 @@
     "explanations": [
       "2:160"
     ],
-    "page": 24,
-    "section": 2,
-    "chapter": 2
+    "page": "24",
+    "section": "2",
+    "chapter": "2"
   },
   "2:161": {
     "id": "2:161",
@@ -5256,9 +5256,9 @@
     "explanations": [
       "2:161"
     ],
-    "page": 24,
-    "section": 2,
-    "chapter": 2
+    "page": "24",
+    "section": "2",
+    "chapter": "2"
   },
   "2:162": {
     "id": "2:162",
@@ -5278,9 +5278,9 @@
     "explanations": [
       "2:162"
     ],
-    "page": 24,
-    "section": 2,
-    "chapter": 2
+    "page": "24",
+    "section": "2",
+    "chapter": "2"
   },
   "2:163": {
     "id": "2:163",
@@ -5301,9 +5301,9 @@
     "explanations": [
       "2:163"
     ],
-    "page": 24,
-    "section": 2,
-    "chapter": 2
+    "page": "24",
+    "section": "2",
+    "chapter": "2"
   },
   "2:164": {
     "id": "2:164",
@@ -5357,9 +5357,9 @@
     "explanations": [
       "2:164"
     ],
-    "page": 25,
-    "section": 2,
-    "chapter": 2
+    "page": "25",
+    "section": "2",
+    "chapter": "2"
   },
   "2:165": {
     "id": "2:165",
@@ -5403,9 +5403,9 @@
     "explanations": [
       "2:165"
     ],
-    "page": 25,
-    "section": 2,
-    "chapter": 2
+    "page": "25",
+    "section": "2",
+    "chapter": "2"
   },
   "2:166": {
     "id": "2:166",
@@ -5428,9 +5428,9 @@
     "explanations": [
       "2:166"
     ],
-    "page": 25,
-    "section": 2,
-    "chapter": 2
+    "page": "25",
+    "section": "2",
+    "chapter": "2"
   },
   "2:167": {
     "id": "2:167",
@@ -5466,9 +5466,9 @@
     "explanations": [
       "2:167"
     ],
-    "page": 25,
-    "section": 2,
-    "chapter": 2
+    "page": "25",
+    "section": "2",
+    "chapter": "2"
   },
   "2:168": {
     "id": "2:168",
@@ -5496,9 +5496,9 @@
     "explanations": [
       "2:168"
     ],
-    "page": 25,
-    "section": 2,
-    "chapter": 2
+    "page": "25",
+    "section": "2",
+    "chapter": "2"
   },
   "2:169": {
     "id": "2:169",
@@ -5520,9 +5520,9 @@
     "explanations": [
       "2:169"
     ],
-    "page": 25,
-    "section": 2,
-    "chapter": 2
+    "page": "25",
+    "section": "2",
+    "chapter": "2"
   },
   "2:170": {
     "id": "2:170",
@@ -5556,9 +5556,9 @@
     "explanations": [
       "2:170"
     ],
-    "page": 26,
-    "section": 2,
-    "chapter": 2
+    "page": "26",
+    "section": "2",
+    "chapter": "2"
   },
   "2:171": {
     "id": "2:171",
@@ -5588,9 +5588,9 @@
     "explanations": [
       "2:171"
     ],
-    "page": 26,
-    "section": 2,
-    "chapter": 2
+    "page": "26",
+    "section": "2",
+    "chapter": "2"
   },
   "2:172": {
     "id": "2:172",
@@ -5615,9 +5615,9 @@
     "explanations": [
       "2:172"
     ],
-    "page": 26,
-    "section": 2,
-    "chapter": 2
+    "page": "26",
+    "section": "2",
+    "chapter": "2"
   },
   "2:173": {
     "id": "2:173",
@@ -5655,9 +5655,9 @@
     "explanations": [
       "2:173"
     ],
-    "page": 26,
-    "section": 2,
-    "chapter": 2
+    "page": "26",
+    "section": "2",
+    "chapter": "2"
   },
   "2:174": {
     "id": "2:174",
@@ -5697,9 +5697,9 @@
     "explanations": [
       "2:174"
     ],
-    "page": 26,
-    "section": 2,
-    "chapter": 2
+    "page": "26",
+    "section": "2",
+    "chapter": "2"
   },
   "2:175": {
     "id": "2:175",
@@ -5722,9 +5722,9 @@
     "explanations": [
       "2:175"
     ],
-    "page": 26,
-    "section": 2,
-    "chapter": 2
+    "page": "26",
+    "section": "2",
+    "chapter": "2"
   },
   "2:176": {
     "id": "2:176",
@@ -5750,9 +5750,9 @@
     "explanations": [
       "2:176"
     ],
-    "page": 26,
-    "section": 2,
-    "chapter": 2
+    "page": "26",
+    "section": "2",
+    "chapter": "2"
   },
   "2:177": {
     "id": "2:177",
@@ -5818,9 +5818,9 @@
     "explanations": [
       "2:177"
     ],
-    "page": 27,
-    "section": 2,
-    "chapter": 2
+    "page": "27",
+    "section": "2",
+    "chapter": "2"
   },
   "2:178": {
     "id": "2:178",
@@ -5872,9 +5872,9 @@
     "explanations": [
       "2:178"
     ],
-    "page": 27,
-    "section": 2,
-    "chapter": 2
+    "page": "27",
+    "section": "2",
+    "chapter": "2"
   },
   "2:179": {
     "id": "2:179",
@@ -5893,9 +5893,9 @@
     "explanations": [
       "2:179"
     ],
-    "page": 27,
-    "section": 2,
-    "chapter": 2
+    "page": "27",
+    "section": "2",
+    "chapter": "2"
   },
   "2:180": {
     "id": "2:180",
@@ -5923,9 +5923,9 @@
     "explanations": [
       "2:180"
     ],
-    "page": 27,
-    "section": 2,
-    "chapter": 2
+    "page": "27",
+    "section": "2",
+    "chapter": "2"
   },
   "2:181": {
     "id": "2:181",
@@ -5950,9 +5950,9 @@
     "explanations": [
       "2:181"
     ],
-    "page": 27,
-    "section": 2,
-    "chapter": 2
+    "page": "27",
+    "section": "2",
+    "chapter": "2"
   },
   "2:182": {
     "id": "2:182",
@@ -5980,9 +5980,9 @@
     "explanations": [
       "2:182"
     ],
-    "page": 28,
-    "section": 2,
-    "chapter": 2
+    "page": "28",
+    "section": "2",
+    "chapter": "2"
   },
   "2:183": {
     "id": "2:183",
@@ -6007,9 +6007,9 @@
     "explanations": [
       "2:183"
     ],
-    "page": 28,
-    "section": 2,
-    "chapter": 2
+    "page": "28",
+    "section": "2",
+    "chapter": "2"
   },
   "2:184": {
     "id": "2:184",
@@ -6056,9 +6056,9 @@
     "explanations": [
       "2:184"
     ],
-    "page": 28,
-    "section": 2,
-    "chapter": 2
+    "page": "28",
+    "section": "2",
+    "chapter": "2"
   },
   "2:185": {
     "id": "2:185",
@@ -6116,9 +6116,9 @@
     "explanations": [
       "2:185"
     ],
-    "page": 28,
-    "section": 2,
-    "chapter": 2
+    "page": "28",
+    "section": "2",
+    "chapter": "2"
   },
   "2:186": {
     "id": "2:186",
@@ -6148,9 +6148,9 @@
     "explanations": [
       "2:186"
     ],
-    "page": 28,
-    "section": 2,
-    "chapter": 2
+    "page": "28",
+    "section": "2",
+    "chapter": "2"
   },
   "2:187": {
     "id": "2:187",
@@ -6234,9 +6234,9 @@
     "explanations": [
       "2:187"
     ],
-    "page": 29,
-    "section": 2,
-    "chapter": 2
+    "page": "29",
+    "section": "2",
+    "chapter": "2"
   },
   "2:188": {
     "id": "2:188",
@@ -6264,9 +6264,9 @@
     "explanations": [
       "2:188"
     ],
-    "page": 29,
-    "section": 2,
-    "chapter": 2
+    "page": "29",
+    "section": "2",
+    "chapter": "2"
   },
   "2:189": {
     "id": "2:189",
@@ -6309,9 +6309,9 @@
     "explanations": [
       "2:189"
     ],
-    "page": 29,
-    "section": 2,
-    "chapter": 2
+    "page": "29",
+    "section": "2",
+    "chapter": "2"
   },
   "2:190": {
     "id": "2:190",
@@ -6336,9 +6336,9 @@
     "explanations": [
       "2:190"
     ],
-    "page": 29,
-    "section": 2,
-    "chapter": 2
+    "page": "29",
+    "section": "2",
+    "chapter": "2"
   },
   "2:191": {
     "id": "2:191",
@@ -6378,9 +6378,9 @@
     "explanations": [
       "2:191"
     ],
-    "page": 30,
-    "section": 2,
-    "chapter": 2
+    "page": "30",
+    "section": "2",
+    "chapter": "2"
   },
   "2:192": {
     "id": "2:192",
@@ -6397,9 +6397,9 @@
     "explanations": [
       "2:192"
     ],
-    "page": 30,
-    "section": 2,
-    "chapter": 2
+    "page": "30",
+    "section": "2",
+    "chapter": "2"
   },
   "2:193": {
     "id": "2:193",
@@ -6426,9 +6426,9 @@
     "explanations": [
       "2:193"
     ],
-    "page": 30,
-    "section": 2,
-    "chapter": 2
+    "page": "30",
+    "section": "2",
+    "chapter": "2"
   },
   "2:194": {
     "id": "2:194",
@@ -6463,9 +6463,9 @@
     "explanations": [
       "2:194"
     ],
-    "page": 30,
-    "section": 2,
-    "chapter": 2
+    "page": "30",
+    "section": "2",
+    "chapter": "2"
   },
   "2:195": {
     "id": "2:195",
@@ -6491,9 +6491,9 @@
     "explanations": [
       "2:195"
     ],
-    "page": 30,
-    "section": 2,
-    "chapter": 2
+    "page": "30",
+    "section": "2",
+    "chapter": "2"
   },
   "2:196": {
     "id": "2:196",
@@ -6585,9 +6585,9 @@
     "explanations": [
       "2:196"
     ],
-    "page": 30,
-    "section": 2,
-    "chapter": 2
+    "page": "30",
+    "section": "2",
+    "chapter": "2"
   },
   "2:197": {
     "id": "2:197",
@@ -6631,9 +6631,9 @@
     "explanations": [
       "2:197"
     ],
-    "page": 31,
-    "section": 2,
-    "chapter": 2
+    "page": "31",
+    "section": "2",
+    "chapter": "2"
   },
   "2:198": {
     "id": "2:198",
@@ -6672,9 +6672,9 @@
     "explanations": [
       "2:198"
     ],
-    "page": 31,
-    "section": 2,
-    "chapter": 2
+    "page": "31",
+    "section": "2",
+    "chapter": "2"
   },
   "2:199": {
     "id": "2:199",
@@ -6698,9 +6698,9 @@
     "explanations": [
       "2:199"
     ],
-    "page": 31,
-    "section": 2,
-    "chapter": 2
+    "page": "31",
+    "section": "2",
+    "chapter": "2"
   },
   "2:200": {
     "id": "2:200",
@@ -6736,9 +6736,9 @@
     "explanations": [
       "2:200"
     ],
-    "page": 31,
-    "section": 2,
-    "chapter": 2
+    "page": "31",
+    "section": "2",
+    "chapter": "2"
   },
   "2:201": {
     "id": "2:201",
@@ -6763,9 +6763,9 @@
     "explanations": [
       "2:201"
     ],
-    "page": 31,
-    "section": 2,
-    "chapter": 2
+    "page": "31",
+    "section": "2",
+    "chapter": "2"
   },
   "2:202": {
     "id": "2:202",
@@ -6785,9 +6785,9 @@
     "explanations": [
       "2:202"
     ],
-    "page": 31,
-    "section": 2,
-    "chapter": 2
+    "page": "31",
+    "section": "2",
+    "chapter": "2"
   },
   "2:203": {
     "id": "2:203",
@@ -6827,9 +6827,9 @@
     "explanations": [
       "2:203"
     ],
-    "page": 32,
-    "section": 2,
-    "chapter": 2
+    "page": "32",
+    "section": "2",
+    "chapter": "2"
   },
   "2:204": {
     "id": "2:204",
@@ -6857,9 +6857,9 @@
     "explanations": [
       "2:204"
     ],
-    "page": 32,
-    "section": 2,
-    "chapter": 2
+    "page": "32",
+    "section": "2",
+    "chapter": "2"
   },
   "2:205": {
     "id": "2:205",
@@ -6885,9 +6885,9 @@
     "explanations": [
       "2:205"
     ],
-    "page": 32,
-    "section": 2,
-    "chapter": 2
+    "page": "32",
+    "section": "2",
+    "chapter": "2"
   },
   "2:206": {
     "id": "2:206",
@@ -6912,9 +6912,9 @@
     "explanations": [
       "2:206"
     ],
-    "page": 32,
-    "section": 2,
-    "chapter": 2
+    "page": "32",
+    "section": "2",
+    "chapter": "2"
   },
   "2:207": {
     "id": "2:207",
@@ -6937,9 +6937,9 @@
     "explanations": [
       "2:207"
     ],
-    "page": 32,
-    "section": 2,
-    "chapter": 2
+    "page": "32",
+    "section": "2",
+    "chapter": "2"
   },
   "2:208": {
     "id": "2:208",
@@ -6966,9 +6966,9 @@
     "explanations": [
       "2:208"
     ],
-    "page": 32,
-    "section": 2,
-    "chapter": 2
+    "page": "32",
+    "section": "2",
+    "chapter": "2"
   },
   "2:209": {
     "id": "2:209",
@@ -6991,9 +6991,9 @@
     "explanations": [
       "2:209"
     ],
-    "page": 32,
-    "section": 2,
-    "chapter": 2
+    "page": "32",
+    "section": "2",
+    "chapter": "2"
   },
   "2:210": {
     "id": "2:210",
@@ -7022,9 +7022,9 @@
     "explanations": [
       "2:210"
     ],
-    "page": 32,
-    "section": 2,
-    "chapter": 2
+    "page": "32",
+    "section": "2",
+    "chapter": "2"
   },
   "2:211": {
     "id": "2:211",
@@ -7056,9 +7056,9 @@
     "explanations": [
       "2:211"
     ],
-    "page": 33,
-    "section": 2,
-    "chapter": 2
+    "page": "33",
+    "section": "2",
+    "chapter": "2"
   },
   "2:212": {
     "id": "2:212",
@@ -7091,9 +7091,9 @@
     "explanations": [
       "2:212"
     ],
-    "page": 33,
-    "section": 2,
-    "chapter": 2
+    "page": "33",
+    "section": "2",
+    "chapter": "2"
   },
   "2:213": {
     "id": "2:213",
@@ -7156,9 +7156,9 @@
     "explanations": [
       "2:213"
     ],
-    "page": 33,
-    "section": 2,
-    "chapter": 2
+    "page": "33",
+    "section": "2",
+    "chapter": "2"
   },
   "2:214": {
     "id": "2:214",
@@ -7201,9 +7201,9 @@
     "explanations": [
       "2:214"
     ],
-    "page": 33,
-    "section": 2,
-    "chapter": 2
+    "page": "33",
+    "section": "2",
+    "chapter": "2"
   },
   "2:215": {
     "id": "2:215",
@@ -7238,9 +7238,9 @@
     "explanations": [
       "2:215"
     ],
-    "page": 33,
-    "section": 2,
-    "chapter": 2
+    "page": "33",
+    "section": "2",
+    "chapter": "2"
   },
   "2:216": {
     "id": "2:216",
@@ -7279,9 +7279,9 @@
     "explanations": [
       "2:216"
     ],
-    "page": 34,
-    "section": 2,
-    "chapter": 2
+    "page": "34",
+    "section": "2",
+    "chapter": "2"
   },
   "2:217": {
     "id": "2:217",
@@ -7356,9 +7356,9 @@
     "explanations": [
       "2:217"
     ],
-    "page": 34,
-    "section": 2,
-    "chapter": 2
+    "page": "34",
+    "section": "2",
+    "chapter": "2"
   },
   "2:218": {
     "id": "2:218",
@@ -7386,9 +7386,9 @@
     "explanations": [
       "2:218"
     ],
-    "page": 34,
-    "section": 2,
-    "chapter": 2
+    "page": "34",
+    "section": "2",
+    "chapter": "2"
   },
   "2:219": {
     "id": "2:219",
@@ -7430,9 +7430,9 @@
     "explanations": [
       "2:219"
     ],
-    "page": 34,
-    "section": 2,
-    "chapter": 2
+    "page": "34",
+    "section": "2",
+    "chapter": "2"
   },
   "2:220": {
     "id": "2:220",
@@ -7475,9 +7475,9 @@
     "explanations": [
       "2:220"
     ],
-    "page": 35,
-    "section": 2,
-    "chapter": 2
+    "page": "35",
+    "section": "2",
+    "chapter": "2"
   },
   "2:221": {
     "id": "2:221",
@@ -7533,9 +7533,9 @@
     "explanations": [
       "2:221"
     ],
-    "page": 35,
-    "section": 2,
-    "chapter": 2
+    "page": "35",
+    "section": "2",
+    "chapter": "2"
   },
   "2:222": {
     "id": "2:222",
@@ -7576,9 +7576,9 @@
     "explanations": [
       "2:222"
     ],
-    "page": 35,
-    "section": 2,
-    "chapter": 2
+    "page": "35",
+    "section": "2",
+    "chapter": "2"
   },
   "2:223": {
     "id": "2:223",
@@ -7608,9 +7608,9 @@
     "explanations": [
       "2:223"
     ],
-    "page": 35,
-    "section": 2,
-    "chapter": 2
+    "page": "35",
+    "section": "2",
+    "chapter": "2"
   },
   "2:224": {
     "id": "2:224",
@@ -7636,9 +7636,9 @@
     "explanations": [
       "2:224"
     ],
-    "page": 35,
-    "section": 2,
-    "chapter": 2
+    "page": "35",
+    "section": "2",
+    "chapter": "2"
   },
   "2:225": {
     "id": "2:225",
@@ -7664,9 +7664,9 @@
     "explanations": [
       "2:225"
     ],
-    "page": 36,
-    "section": 2,
-    "chapter": 2
+    "page": "36",
+    "section": "2",
+    "chapter": "2"
   },
   "2:226": {
     "id": "2:226",
@@ -7691,9 +7691,9 @@
     "explanations": [
       "2:226"
     ],
-    "page": 36,
-    "section": 2,
-    "chapter": 2
+    "page": "36",
+    "section": "2",
+    "chapter": "2"
   },
   "2:227": {
     "id": "2:227",
@@ -7711,9 +7711,9 @@
     "explanations": [
       "2:227"
     ],
-    "page": 36,
-    "section": 2,
-    "chapter": 2
+    "page": "36",
+    "section": "2",
+    "chapter": "2"
   },
   "2:228": {
     "id": "2:228",
@@ -7769,9 +7769,9 @@
     "explanations": [
       "2:228"
     ],
-    "page": 36,
-    "section": 2,
-    "chapter": 2
+    "page": "36",
+    "section": "2",
+    "chapter": "2"
   },
   "2:229": {
     "id": "2:229",
@@ -7833,9 +7833,9 @@
     "explanations": [
       "2:229"
     ],
-    "page": 36,
-    "section": 2,
-    "chapter": 2
+    "page": "36",
+    "section": "2",
+    "chapter": "2"
   },
   "2:230": {
     "id": "2:230",
@@ -7878,9 +7878,9 @@
     "explanations": [
       "2:230"
     ],
-    "page": 36,
-    "section": 2,
-    "chapter": 2
+    "page": "36",
+    "section": "2",
+    "chapter": "2"
   },
   "2:231": {
     "id": "2:231",
@@ -7941,9 +7941,9 @@
     "explanations": [
       "2:231"
     ],
-    "page": 37,
-    "section": 2,
-    "chapter": 2
+    "page": "37",
+    "section": "2",
+    "chapter": "2"
   },
   "2:232": {
     "id": "2:232",
@@ -7990,9 +7990,9 @@
     "explanations": [
       "2:232"
     ],
-    "page": 37,
-    "section": 2,
-    "chapter": 2
+    "page": "37",
+    "section": "2",
+    "chapter": "2"
   },
   "2:233": {
     "id": "2:233",
@@ -8076,9 +8076,9 @@
     "explanations": [
       "2:233"
     ],
-    "page": 37,
-    "section": 2,
-    "chapter": 2
+    "page": "37",
+    "section": "2",
+    "chapter": "2"
   },
   "2:234": {
     "id": "2:234",
@@ -8116,9 +8116,9 @@
     "explanations": [
       "2:234"
     ],
-    "page": 38,
-    "section": 2,
-    "chapter": 2
+    "page": "38",
+    "section": "2",
+    "chapter": "2"
   },
   "2:235": {
     "id": "2:235",
@@ -8180,9 +8180,9 @@
     "explanations": [
       "2:235"
     ],
-    "page": 38,
-    "section": 2,
-    "chapter": 2
+    "page": "38",
+    "section": "2",
+    "chapter": "2"
   },
   "2:236": {
     "id": "2:236",
@@ -8220,9 +8220,9 @@
     "explanations": [
       "2:236"
     ],
-    "page": 38,
-    "section": 2,
-    "chapter": 2
+    "page": "38",
+    "section": "2",
+    "chapter": "2"
   },
   "2:237": {
     "id": "2:237",
@@ -8271,9 +8271,9 @@
     "explanations": [
       "2:237"
     ],
-    "page": 38,
-    "section": 2,
-    "chapter": 2
+    "page": "38",
+    "section": "2",
+    "chapter": "2"
   },
   "2:238": {
     "id": "2:238",
@@ -8292,9 +8292,9 @@
     "explanations": [
       "2:238"
     ],
-    "page": 39,
-    "section": 2,
-    "chapter": 2
+    "page": "39",
+    "section": "2",
+    "chapter": "2"
   },
   "2:239": {
     "id": "2:239",
@@ -8321,9 +8321,9 @@
     "explanations": [
       "2:239"
     ],
-    "page": 39,
-    "section": 2,
-    "chapter": 2
+    "page": "39",
+    "section": "2",
+    "chapter": "2"
   },
   "2:240": {
     "id": "2:240",
@@ -8363,9 +8363,9 @@
     "explanations": [
       "2:240"
     ],
-    "page": 39,
-    "section": 2,
-    "chapter": 2
+    "page": "39",
+    "section": "2",
+    "chapter": "2"
   },
   "2:241": {
     "id": "2:241",
@@ -8383,9 +8383,9 @@
     "explanations": [
       "2:241"
     ],
-    "page": 39,
-    "section": 2,
-    "chapter": 2
+    "page": "39",
+    "section": "2",
+    "chapter": "2"
   },
   "2:242": {
     "id": "2:242",
@@ -8403,9 +8403,9 @@
     "explanations": [
       "2:242"
     ],
-    "page": 39,
-    "section": 2,
-    "chapter": 2
+    "page": "39",
+    "section": "2",
+    "chapter": "2"
   },
   "2:243": {
     "id": "2:243",
@@ -8446,9 +8446,9 @@
     "explanations": [
       "2:243"
     ],
-    "page": 39,
-    "section": 2,
-    "chapter": 2
+    "page": "39",
+    "section": "2",
+    "chapter": "2"
   },
   "2:244": {
     "id": "2:244",
@@ -8468,9 +8468,9 @@
     "explanations": [
       "2:244"
     ],
-    "page": 39,
-    "section": 2,
-    "chapter": 2
+    "page": "39",
+    "section": "2",
+    "chapter": "2"
   },
   "2:245": {
     "id": "2:245",
@@ -8498,9 +8498,9 @@
     "explanations": [
       "2:245"
     ],
-    "page": 39,
-    "section": 2,
-    "chapter": 2
+    "page": "39",
+    "section": "2",
+    "chapter": "2"
   },
   "2:246": {
     "id": "2:246",
@@ -8569,9 +8569,9 @@
     "explanations": [
       "2:246"
     ],
-    "page": 40,
-    "section": 2,
-    "chapter": 2
+    "page": "40",
+    "section": "2",
+    "chapter": "2"
   },
   "2:247": {
     "id": "2:247",
@@ -8629,9 +8629,9 @@
     "explanations": [
       "2:247"
     ],
-    "page": 40,
-    "section": 2,
-    "chapter": 2
+    "page": "40",
+    "section": "2",
+    "chapter": "2"
   },
   "2:248": {
     "id": "2:248",
@@ -8673,9 +8673,9 @@
     "explanations": [
       "2:248"
     ],
-    "page": 40,
-    "section": 2,
-    "chapter": 2
+    "page": "40",
+    "section": "2",
+    "chapter": "2"
   },
   "2:249": {
     "id": "2:249",
@@ -8750,9 +8750,9 @@
     "explanations": [
       "2:249"
     ],
-    "page": 41,
-    "section": 2,
-    "chapter": 2
+    "page": "41",
+    "section": "2",
+    "chapter": "2"
   },
   "2:250": {
     "id": "2:250",
@@ -8778,9 +8778,9 @@
     "explanations": [
       "2:250"
     ],
-    "page": 41,
-    "section": 2,
-    "chapter": 2
+    "page": "41",
+    "section": "2",
+    "chapter": "2"
   },
   "2:251": {
     "id": "2:251",
@@ -8819,9 +8819,9 @@
     "explanations": [
       "2:251"
     ],
-    "page": 41,
-    "section": 2,
-    "chapter": 2
+    "page": "41",
+    "section": "2",
+    "chapter": "2"
   },
   "2:252": {
     "id": "2:252",
@@ -8842,9 +8842,9 @@
     "explanations": [
       "2:252"
     ],
-    "page": 41,
-    "section": 2,
-    "chapter": 2
+    "page": "41",
+    "section": "2",
+    "chapter": "2"
   },
   "2:253": {
     "id": "2:253",
@@ -8913,9 +8913,9 @@
     "explanations": [
       "2:253"
     ],
-    "page": 42,
-    "section": 3,
-    "chapter": 2
+    "page": "42",
+    "section": "3",
+    "chapter": "2"
   },
   "2:254": {
     "id": "2:254",
@@ -8948,9 +8948,9 @@
     "explanations": [
       "2:254"
     ],
-    "page": 42,
-    "section": 3,
-    "chapter": 2
+    "page": "42",
+    "section": "3",
+    "chapter": "2"
   },
   "2:255": {
     "id": "2:255",
@@ -9019,9 +9019,9 @@
     "explanations": [
       "2:255"
     ],
-    "page": 42,
-    "section": 3,
-    "chapter": 2
+    "page": "42",
+    "section": "3",
+    "chapter": "2"
   },
   "2:256": {
     "id": "2:256",
@@ -9059,9 +9059,9 @@
     "explanations": [
       "2:256"
     ],
-    "page": 42,
-    "section": 3,
-    "chapter": 2
+    "page": "42",
+    "section": "3",
+    "chapter": "2"
   },
   "2:257": {
     "id": "2:257",
@@ -9099,9 +9099,9 @@
     "explanations": [
       "2:257"
     ],
-    "page": 43,
-    "section": 3,
-    "chapter": 2
+    "page": "43",
+    "section": "3",
+    "chapter": "2"
   },
   "2:258": {
     "id": "2:258",
@@ -9157,9 +9157,9 @@
     "explanations": [
       "2:258"
     ],
-    "page": 43,
-    "section": 3,
-    "chapter": 2
+    "page": "43",
+    "section": "3",
+    "chapter": "2"
   },
   "2:259": {
     "id": "2:259",
@@ -9244,9 +9244,9 @@
     "explanations": [
       "2:259"
     ],
-    "page": 43,
-    "section": 3,
-    "chapter": 2
+    "page": "43",
+    "section": "3",
+    "chapter": "2"
   },
   "2:260": {
     "id": "2:260",
@@ -9300,9 +9300,9 @@
     "explanations": [
       "2:260"
     ],
-    "page": 44,
-    "section": 3,
-    "chapter": 2
+    "page": "44",
+    "section": "3",
+    "chapter": "2"
   },
   "2:261": {
     "id": "2:261",
@@ -9339,9 +9339,9 @@
     "explanations": [
       "2:261"
     ],
-    "page": 44,
-    "section": 3,
-    "chapter": 2
+    "page": "44",
+    "section": "3",
+    "chapter": "2"
   },
   "2:262": {
     "id": "2:262",
@@ -9376,9 +9376,9 @@
     "explanations": [
       "2:262"
     ],
-    "page": 44,
-    "section": 3,
-    "chapter": 2
+    "page": "44",
+    "section": "3",
+    "chapter": "2"
   },
   "2:263": {
     "id": "2:263",
@@ -9402,9 +9402,9 @@
     "explanations": [
       "2:263"
     ],
-    "page": 44,
-    "section": 3,
-    "chapter": 2
+    "page": "44",
+    "section": "3",
+    "chapter": "2"
   },
   "2:264": {
     "id": "2:264",
@@ -9456,9 +9456,9 @@
     "explanations": [
       "2:264"
     ],
-    "page": 44,
-    "section": 3,
-    "chapter": 2
+    "page": "44",
+    "section": "3",
+    "chapter": "2"
   },
   "2:265": {
     "id": "2:265",
@@ -9497,9 +9497,9 @@
     "explanations": [
       "2:265"
     ],
-    "page": 45,
-    "section": 3,
-    "chapter": 2
+    "page": "45",
+    "section": "3",
+    "chapter": "2"
   },
   "2:266": {
     "id": "2:266",
@@ -9546,9 +9546,9 @@
     "explanations": [
       "2:266"
     ],
-    "page": 45,
-    "section": 3,
-    "chapter": 2
+    "page": "45",
+    "section": "3",
+    "chapter": "2"
   },
   "2:267": {
     "id": "2:267",
@@ -9590,9 +9590,9 @@
     "explanations": [
       "2:267"
     ],
-    "page": 45,
-    "section": 3,
-    "chapter": 2
+    "page": "45",
+    "section": "3",
+    "chapter": "2"
   },
   "2:268": {
     "id": "2:268",
@@ -9618,9 +9618,9 @@
     "explanations": [
       "2:268"
     ],
-    "page": 45,
-    "section": 3,
-    "chapter": 2
+    "page": "45",
+    "section": "3",
+    "chapter": "2"
   },
   "2:269": {
     "id": "2:269",
@@ -9649,9 +9649,9 @@
     "explanations": [
       "2:269"
     ],
-    "page": 45,
-    "section": 3,
-    "chapter": 2
+    "page": "45",
+    "section": "3",
+    "chapter": "2"
   },
   "2:270": {
     "id": "2:270",
@@ -9678,9 +9678,9 @@
     "explanations": [
       "2:270"
     ],
-    "page": 46,
-    "section": 3,
-    "chapter": 2
+    "page": "46",
+    "section": "3",
+    "chapter": "2"
   },
   "2:271": {
     "id": "2:271",
@@ -9714,9 +9714,9 @@
     "explanations": [
       "2:271"
     ],
-    "page": 46,
-    "section": 3,
-    "chapter": 2
+    "page": "46",
+    "section": "3",
+    "chapter": "2"
   },
   "2:272": {
     "id": "2:272",
@@ -9759,9 +9759,9 @@
     "explanations": [
       "2:272"
     ],
-    "page": 46,
-    "section": 3,
-    "chapter": 2
+    "page": "46",
+    "section": "3",
+    "chapter": "2"
   },
   "2:273": {
     "id": "2:273",
@@ -9803,9 +9803,9 @@
     "explanations": [
       "2:273"
     ],
-    "page": 46,
-    "section": 3,
-    "chapter": 2
+    "page": "46",
+    "section": "3",
+    "chapter": "2"
   },
   "2:274": {
     "id": "2:274",
@@ -9833,9 +9833,9 @@
     "explanations": [
       "2:274"
     ],
-    "page": 46,
-    "section": 3,
-    "chapter": 2
+    "page": "46",
+    "section": "3",
+    "chapter": "2"
   },
   "2:275": {
     "id": "2:275",
@@ -9896,9 +9896,9 @@
     "explanations": [
       "2:275"
     ],
-    "page": 47,
-    "section": 3,
-    "chapter": 2
+    "page": "47",
+    "section": "3",
+    "chapter": "2"
   },
   "2:276": {
     "id": "2:276",
@@ -9921,9 +9921,9 @@
     "explanations": [
       "2:276"
     ],
-    "page": 47,
-    "section": 3,
-    "chapter": 2
+    "page": "47",
+    "section": "3",
+    "chapter": "2"
   },
   "2:277": {
     "id": "2:277",
@@ -9953,9 +9953,9 @@
     "explanations": [
       "2:277"
     ],
-    "page": 47,
-    "section": 3,
-    "chapter": 2
+    "page": "47",
+    "section": "3",
+    "chapter": "2"
   },
   "2:278": {
     "id": "2:278",
@@ -9979,9 +9979,9 @@
     "explanations": [
       "2:278"
     ],
-    "page": 47,
-    "section": 3,
-    "chapter": 2
+    "page": "47",
+    "section": "3",
+    "chapter": "2"
   },
   "2:279": {
     "id": "2:279",
@@ -10010,9 +10010,9 @@
     "explanations": [
       "2:279"
     ],
-    "page": 47,
-    "section": 3,
-    "chapter": 2
+    "page": "47",
+    "section": "3",
+    "chapter": "2"
   },
   "2:280": {
     "id": "2:280",
@@ -10038,9 +10038,9 @@
     "explanations": [
       "2:280"
     ],
-    "page": 47,
-    "section": 3,
-    "chapter": 2
+    "page": "47",
+    "section": "3",
+    "chapter": "2"
   },
   "2:281": {
     "id": "2:281",
@@ -10067,9 +10067,9 @@
     "explanations": [
       "2:281"
     ],
-    "page": 47,
-    "section": 3,
-    "chapter": 2
+    "page": "47",
+    "section": "3",
+    "chapter": "2"
   },
   "2:282": {
     "id": "2:282",
@@ -10179,9 +10179,9 @@
     "explanations": [
       "2:282"
     ],
-    "page": 48,
-    "section": 3,
-    "chapter": 2
+    "page": "48",
+    "section": "3",
+    "chapter": "2"
   },
   "2:283": {
     "id": "2:283",
@@ -10229,9 +10229,9 @@
     "explanations": [
       "2:283"
     ],
-    "page": 49,
-    "section": 3,
-    "chapter": 2
+    "page": "49",
+    "section": "3",
+    "chapter": "2"
   },
   "2:284": {
     "id": "2:284",
@@ -10273,9 +10273,9 @@
     "explanations": [
       "2:284"
     ],
-    "page": 49,
-    "section": 3,
-    "chapter": 2
+    "page": "49",
+    "section": "3",
+    "chapter": "2"
   },
   "2:285": {
     "id": "2:285",
@@ -10316,9 +10316,9 @@
     "explanations": [
       "2:285"
     ],
-    "page": 49,
-    "section": 3,
-    "chapter": 2
+    "page": "49",
+    "section": "3",
+    "chapter": "2"
   },
   "2:286": {
     "id": "2:286",
@@ -10384,9 +10384,9 @@
     "explanations": [
       "2:286"
     ],
-    "page": 49,
-    "section": 3,
-    "chapter": 2
+    "page": "49",
+    "section": "3",
+    "chapter": "2"
   },
   "3:1": {
     "id": "3:1",
@@ -10398,9 +10398,9 @@
     "explanations": [
       "3:1"
     ],
-    "page": 50,
-    "section": 3,
-    "chapter": 3
+    "page": "50",
+    "section": "3",
+    "chapter": "3"
   },
   "3:2": {
     "id": "3:2",
@@ -10418,9 +10418,9 @@
     "explanations": [
       "3:2"
     ],
-    "page": 50,
-    "section": 3,
-    "chapter": 3
+    "page": "50",
+    "section": "3",
+    "chapter": "3"
   },
   "3:3": {
     "id": "3:3",
@@ -10442,9 +10442,9 @@
     "explanations": [
       "3:3"
     ],
-    "page": 50,
-    "section": 3,
-    "chapter": 3
+    "page": "50",
+    "section": "3",
+    "chapter": "3"
   },
   "3:4": {
     "id": "3:4",
@@ -10475,9 +10475,9 @@
     "explanations": [
       "3:4"
     ],
-    "page": 50,
-    "section": 3,
-    "chapter": 3
+    "page": "50",
+    "section": "3",
+    "chapter": "3"
   },
   "3:5": {
     "id": "3:5",
@@ -10499,9 +10499,9 @@
     "explanations": [
       "3:5"
     ],
-    "page": 50,
-    "section": 3,
-    "chapter": 3
+    "page": "50",
+    "section": "3",
+    "chapter": "3"
   },
   "3:6": {
     "id": "3:6",
@@ -10526,9 +10526,9 @@
     "explanations": [
       "3:6"
     ],
-    "page": 50,
-    "section": 3,
-    "chapter": 3
+    "page": "50",
+    "section": "3",
+    "chapter": "3"
   },
   "3:7": {
     "id": "3:7",
@@ -10589,9 +10589,9 @@
     "explanations": [
       "3:7"
     ],
-    "page": 50,
-    "section": 3,
-    "chapter": 3
+    "page": "50",
+    "section": "3",
+    "chapter": "3"
   },
   "3:8": {
     "id": "3:8",
@@ -10618,9 +10618,9 @@
     "explanations": [
       "3:8"
     ],
-    "page": 50,
-    "section": 3,
-    "chapter": 3
+    "page": "50",
+    "section": "3",
+    "chapter": "3"
   },
   "3:9": {
     "id": "3:9",
@@ -10645,9 +10645,9 @@
     "explanations": [
       "3:9"
     ],
-    "page": 50,
-    "section": 3,
-    "chapter": 3
+    "page": "50",
+    "section": "3",
+    "chapter": "3"
   },
   "3:10": {
     "id": "3:10",
@@ -10675,9 +10675,9 @@
     "explanations": [
       "3:10"
     ],
-    "page": 51,
-    "section": 3,
-    "chapter": 3
+    "page": "51",
+    "section": "3",
+    "chapter": "3"
   },
   "3:11": {
     "id": "3:11",
@@ -10704,9 +10704,9 @@
     "explanations": [
       "3:11"
     ],
-    "page": 51,
-    "section": 3,
-    "chapter": 3
+    "page": "51",
+    "section": "3",
+    "chapter": "3"
   },
   "3:12": {
     "id": "3:12",
@@ -10727,9 +10727,9 @@
     "explanations": [
       "3:12"
     ],
-    "page": 51,
-    "section": 3,
-    "chapter": 3
+    "page": "51",
+    "section": "3",
+    "chapter": "3"
   },
   "3:13": {
     "id": "3:13",
@@ -10772,9 +10772,9 @@
     "explanations": [
       "3:13"
     ],
-    "page": 51,
-    "section": 3,
-    "chapter": 3
+    "page": "51",
+    "section": "3",
+    "chapter": "3"
   },
   "3:14": {
     "id": "3:14",
@@ -10811,9 +10811,9 @@
     "explanations": [
       "3:14"
     ],
-    "page": 51,
-    "section": 3,
-    "chapter": 3
+    "page": "51",
+    "section": "3",
+    "chapter": "3"
   },
   "3:15": {
     "id": "3:15",
@@ -10851,9 +10851,9 @@
     "explanations": [
       "3:15"
     ],
-    "page": 51,
-    "section": 3,
-    "chapter": 3
+    "page": "51",
+    "section": "3",
+    "chapter": "3"
   },
   "3:16": {
     "id": "3:16",
@@ -10875,9 +10875,9 @@
     "explanations": [
       "3:16"
     ],
-    "page": 52,
-    "section": 3,
-    "chapter": 3
+    "page": "52",
+    "section": "3",
+    "chapter": "3"
   },
   "3:17": {
     "id": "3:17",
@@ -10894,9 +10894,9 @@
     "explanations": [
       "3:17"
     ],
-    "page": 52,
-    "section": 3,
-    "chapter": 3
+    "page": "52",
+    "section": "3",
+    "chapter": "3"
   },
   "3:18": {
     "id": "3:18",
@@ -10926,9 +10926,9 @@
     "explanations": [
       "3:18"
     ],
-    "page": 52,
-    "section": 3,
-    "chapter": 3
+    "page": "52",
+    "section": "3",
+    "chapter": "3"
   },
   "3:19": {
     "id": "3:19",
@@ -10967,9 +10967,9 @@
     "explanations": [
       "3:19"
     ],
-    "page": 52,
-    "section": 3,
-    "chapter": 3
+    "page": "52",
+    "section": "3",
+    "chapter": "3"
   },
   "3:20": {
     "id": "3:20",
@@ -11010,9 +11010,9 @@
     "explanations": [
       "3:20"
     ],
-    "page": 52,
-    "section": 3,
-    "chapter": 3
+    "page": "52",
+    "section": "3",
+    "chapter": "3"
   },
   "3:21": {
     "id": "3:21",
@@ -11041,9 +11041,9 @@
     "explanations": [
       "3:21"
     ],
-    "page": 52,
-    "section": 3,
-    "chapter": 3
+    "page": "52",
+    "section": "3",
+    "chapter": "3"
   },
   "3:22": {
     "id": "3:22",
@@ -11065,9 +11065,9 @@
     "explanations": [
       "3:22"
     ],
-    "page": 52,
-    "section": 3,
-    "chapter": 3
+    "page": "52",
+    "section": "3",
+    "chapter": "3"
   },
   "3:23": {
     "id": "3:23",
@@ -11098,9 +11098,9 @@
     "explanations": [
       "3:23"
     ],
-    "page": 53,
-    "section": 3,
-    "chapter": 3
+    "page": "53",
+    "section": "3",
+    "chapter": "3"
   },
   "3:24": {
     "id": "3:24",
@@ -11127,9 +11127,9 @@
     "explanations": [
       "3:24"
     ],
-    "page": 53,
-    "section": 3,
-    "chapter": 3
+    "page": "53",
+    "section": "3",
+    "chapter": "3"
   },
   "3:25": {
     "id": "3:25",
@@ -11155,9 +11155,9 @@
     "explanations": [
       "3:25"
     ],
-    "page": 53,
-    "section": 3,
-    "chapter": 3
+    "page": "53",
+    "section": "3",
+    "chapter": "3"
   },
   "3:26": {
     "id": "3:26",
@@ -11195,9 +11195,9 @@
     "explanations": [
       "3:26"
     ],
-    "page": 53,
-    "section": 3,
-    "chapter": 3
+    "page": "53",
+    "section": "3",
+    "chapter": "3"
   },
   "3:27": {
     "id": "3:27",
@@ -11231,9 +11231,9 @@
     "explanations": [
       "3:27"
     ],
-    "page": 53,
-    "section": 3,
-    "chapter": 3
+    "page": "53",
+    "section": "3",
+    "chapter": "3"
   },
   "3:28": {
     "id": "3:28",
@@ -11274,9 +11274,9 @@
     "explanations": [
       "3:28"
     ],
-    "page": 53,
-    "section": 3,
-    "chapter": 3
+    "page": "53",
+    "section": "3",
+    "chapter": "3"
   },
   "3:29": {
     "id": "3:29",
@@ -11311,9 +11311,9 @@
     "explanations": [
       "3:29"
     ],
-    "page": 53,
-    "section": 3,
-    "chapter": 3
+    "page": "53",
+    "section": "3",
+    "chapter": "3"
   },
   "3:30": {
     "id": "3:30",
@@ -11352,9 +11352,9 @@
     "explanations": [
       "3:30"
     ],
-    "page": 54,
-    "section": 3,
-    "chapter": 3
+    "page": "54",
+    "section": "3",
+    "chapter": "3"
   },
   "3:31": {
     "id": "3:31",
@@ -11380,9 +11380,9 @@
     "explanations": [
       "3:31"
     ],
-    "page": 54,
-    "section": 3,
-    "chapter": 3
+    "page": "54",
+    "section": "3",
+    "chapter": "3"
   },
   "3:32": {
     "id": "3:32",
@@ -11405,9 +11405,9 @@
     "explanations": [
       "3:32"
     ],
-    "page": 54,
-    "section": 3,
-    "chapter": 3
+    "page": "54",
+    "section": "3",
+    "chapter": "3"
   },
   "3:33": {
     "id": "3:33",
@@ -11430,9 +11430,9 @@
     "explanations": [
       "3:33"
     ],
-    "page": 54,
-    "section": 3,
-    "chapter": 3
+    "page": "54",
+    "section": "3",
+    "chapter": "3"
   },
   "3:34": {
     "id": "3:34",
@@ -11451,9 +11451,9 @@
     "explanations": [
       "3:34"
     ],
-    "page": 54,
-    "section": 3,
-    "chapter": 3
+    "page": "54",
+    "section": "3",
+    "chapter": "3"
   },
   "3:35": {
     "id": "3:35",
@@ -11483,9 +11483,9 @@
     "explanations": [
       "3:35"
     ],
-    "page": 54,
-    "section": 3,
-    "chapter": 3
+    "page": "54",
+    "section": "3",
+    "chapter": "3"
   },
   "3:36": {
     "id": "3:36",
@@ -11521,9 +11521,9 @@
     "explanations": [
       "3:36"
     ],
-    "page": 54,
-    "section": 3,
-    "chapter": 3
+    "page": "54",
+    "section": "3",
+    "chapter": "3"
   },
   "3:37": {
     "id": "3:37",
@@ -11572,9 +11572,9 @@
     "explanations": [
       "3:37"
     ],
-    "page": 54,
-    "section": 3,
-    "chapter": 3
+    "page": "54",
+    "section": "3",
+    "chapter": "3"
   },
   "3:38": {
     "id": "3:38",
@@ -11602,9 +11602,9 @@
     "explanations": [
       "3:38"
     ],
-    "page": 55,
-    "section": 3,
-    "chapter": 3
+    "page": "55",
+    "section": "3",
+    "chapter": "3"
   },
   "3:39": {
     "id": "3:39",
@@ -11635,9 +11635,9 @@
     "explanations": [
       "3:39"
     ],
-    "page": 55,
-    "section": 3,
-    "chapter": 3
+    "page": "55",
+    "section": "3",
+    "chapter": "3"
   },
   "3:40": {
     "id": "3:40",
@@ -11666,9 +11666,9 @@
     "explanations": [
       "3:40"
     ],
-    "page": 55,
-    "section": 3,
-    "chapter": 3
+    "page": "55",
+    "section": "3",
+    "chapter": "3"
   },
   "3:41": {
     "id": "3:41",
@@ -11701,9 +11701,9 @@
     "explanations": [
       "3:41"
     ],
-    "page": 55,
-    "section": 3,
-    "chapter": 3
+    "page": "55",
+    "section": "3",
+    "chapter": "3"
   },
   "3:42": {
     "id": "3:42",
@@ -11726,9 +11726,9 @@
     "explanations": [
       "3:42"
     ],
-    "page": 55,
-    "section": 3,
-    "chapter": 3
+    "page": "55",
+    "section": "3",
+    "chapter": "3"
   },
   "3:43": {
     "id": "3:43",
@@ -11746,9 +11746,9 @@
     "explanations": [
       "3:43"
     ],
-    "page": 55,
-    "section": 3,
-    "chapter": 3
+    "page": "55",
+    "section": "3",
+    "chapter": "3"
   },
   "3:44": {
     "id": "3:44",
@@ -11780,9 +11780,9 @@
     "explanations": [
       "3:44"
     ],
-    "page": 55,
-    "section": 3,
-    "chapter": 3
+    "page": "55",
+    "section": "3",
+    "chapter": "3"
   },
   "3:45": {
     "id": "3:45",
@@ -11813,9 +11813,9 @@
     "explanations": [
       "3:45"
     ],
-    "page": 55,
-    "section": 3,
-    "chapter": 3
+    "page": "55",
+    "section": "3",
+    "chapter": "3"
   },
   "3:46": {
     "id": "3:46",
@@ -11833,9 +11833,9 @@
     "explanations": [
       "3:46"
     ],
-    "page": 56,
-    "section": 3,
-    "chapter": 3
+    "page": "56",
+    "section": "3",
+    "chapter": "3"
   },
   "3:47": {
     "id": "3:47",
@@ -11871,9 +11871,9 @@
     "explanations": [
       "3:47"
     ],
-    "page": 56,
-    "section": 3,
-    "chapter": 3
+    "page": "56",
+    "section": "3",
+    "chapter": "3"
   },
   "3:48": {
     "id": "3:48",
@@ -11889,9 +11889,9 @@
     "explanations": [
       "3:48"
     ],
-    "page": 56,
-    "section": 3,
-    "chapter": 3
+    "page": "56",
+    "section": "3",
+    "chapter": "3"
   },
   "3:49": {
     "id": "3:49",
@@ -11951,9 +11951,9 @@
     "explanations": [
       "3:49"
     ],
-    "page": 56,
-    "section": 3,
-    "chapter": 3
+    "page": "56",
+    "section": "3",
+    "chapter": "3"
   },
   "3:50": {
     "id": "3:50",
@@ -11984,9 +11984,9 @@
     "explanations": [
       "3:50"
     ],
-    "page": 56,
-    "section": 3,
-    "chapter": 3
+    "page": "56",
+    "section": "3",
+    "chapter": "3"
   },
   "3:51": {
     "id": "3:51",
@@ -12006,9 +12006,9 @@
     "explanations": [
       "3:51"
     ],
-    "page": 56,
-    "section": 3,
-    "chapter": 3
+    "page": "56",
+    "section": "3",
+    "chapter": "3"
   },
   "3:52": {
     "id": "3:52",
@@ -12041,9 +12041,9 @@
     "explanations": [
       "3:52"
     ],
-    "page": 56,
-    "section": 3,
-    "chapter": 3
+    "page": "56",
+    "section": "3",
+    "chapter": "3"
   },
   "3:53": {
     "id": "3:53",
@@ -12063,9 +12063,9 @@
     "explanations": [
       "3:53"
     ],
-    "page": 57,
-    "section": 3,
-    "chapter": 3
+    "page": "57",
+    "section": "3",
+    "chapter": "3"
   },
   "3:54": {
     "id": "3:54",
@@ -12083,9 +12083,9 @@
     "explanations": [
       "3:54"
     ],
-    "page": 57,
-    "section": 3,
-    "chapter": 3
+    "page": "57",
+    "section": "3",
+    "chapter": "3"
   },
   "3:55": {
     "id": "3:55",
@@ -12127,9 +12127,9 @@
     "explanations": [
       "3:55"
     ],
-    "page": 57,
-    "section": 3,
-    "chapter": 3
+    "page": "57",
+    "section": "3",
+    "chapter": "3"
   },
   "3:56": {
     "id": "3:56",
@@ -12153,9 +12153,9 @@
     "explanations": [
       "3:56"
     ],
-    "page": 57,
-    "section": 3,
-    "chapter": 3
+    "page": "57",
+    "section": "3",
+    "chapter": "3"
   },
   "3:57": {
     "id": "3:57",
@@ -12178,9 +12178,9 @@
     "explanations": [
       "3:57"
     ],
-    "page": 57,
-    "section": 3,
-    "chapter": 3
+    "page": "57",
+    "section": "3",
+    "chapter": "3"
   },
   "3:58": {
     "id": "3:58",
@@ -12198,9 +12198,9 @@
     "explanations": [
       "3:58"
     ],
-    "page": 57,
-    "section": 3,
-    "chapter": 3
+    "page": "57",
+    "section": "3",
+    "chapter": "3"
   },
   "3:59": {
     "id": "3:59",
@@ -12227,9 +12227,9 @@
     "explanations": [
       "3:59"
     ],
-    "page": 57,
-    "section": 3,
-    "chapter": 3
+    "page": "57",
+    "section": "3",
+    "chapter": "3"
   },
   "3:60": {
     "id": "3:60",
@@ -12247,9 +12247,9 @@
     "explanations": [
       "3:60"
     ],
-    "page": 57,
-    "section": 3,
-    "chapter": 3
+    "page": "57",
+    "section": "3",
+    "chapter": "3"
   },
   "3:61": {
     "id": "3:61",
@@ -12285,9 +12285,9 @@
     "explanations": [
       "3:61"
     ],
-    "page": 57,
-    "section": 3,
-    "chapter": 3
+    "page": "57",
+    "section": "3",
+    "chapter": "3"
   },
   "3:62": {
     "id": "3:62",
@@ -12315,9 +12315,9 @@
     "explanations": [
       "3:62"
     ],
-    "page": 58,
-    "section": 3,
-    "chapter": 3
+    "page": "58",
+    "section": "3",
+    "chapter": "3"
   },
   "3:63": {
     "id": "3:63",
@@ -12334,9 +12334,9 @@
     "explanations": [
       "3:63"
     ],
-    "page": 58,
-    "section": 3,
-    "chapter": 3
+    "page": "58",
+    "section": "3",
+    "chapter": "3"
   },
   "3:64": {
     "id": "3:64",
@@ -12379,9 +12379,9 @@
     "explanations": [
       "3:64"
     ],
-    "page": 58,
-    "section": 3,
-    "chapter": 3
+    "page": "58",
+    "section": "3",
+    "chapter": "3"
   },
   "3:65": {
     "id": "3:65",
@@ -12408,9 +12408,9 @@
     "explanations": [
       "3:65"
     ],
-    "page": 58,
-    "section": 3,
-    "chapter": 3
+    "page": "58",
+    "section": "3",
+    "chapter": "3"
   },
   "3:66": {
     "id": "3:66",
@@ -12441,9 +12441,9 @@
     "explanations": [
       "3:66"
     ],
-    "page": 58,
-    "section": 3,
-    "chapter": 3
+    "page": "58",
+    "section": "3",
+    "chapter": "3"
   },
   "3:67": {
     "id": "3:67",
@@ -12468,9 +12468,9 @@
     "explanations": [
       "3:67"
     ],
-    "page": 58,
-    "section": 3,
-    "chapter": 3
+    "page": "58",
+    "section": "3",
+    "chapter": "3"
   },
   "3:68": {
     "id": "3:68",
@@ -12495,9 +12495,9 @@
     "explanations": [
       "3:68"
     ],
-    "page": 58,
-    "section": 3,
-    "chapter": 3
+    "page": "58",
+    "section": "3",
+    "chapter": "3"
   },
   "3:69": {
     "id": "3:69",
@@ -12521,9 +12521,9 @@
     "explanations": [
       "3:69"
     ],
-    "page": 58,
-    "section": 3,
-    "chapter": 3
+    "page": "58",
+    "section": "3",
+    "chapter": "3"
   },
   "3:70": {
     "id": "3:70",
@@ -12542,9 +12542,9 @@
     "explanations": [
       "3:70"
     ],
-    "page": 58,
-    "section": 3,
-    "chapter": 3
+    "page": "58",
+    "section": "3",
+    "chapter": "3"
   },
   "3:71": {
     "id": "3:71",
@@ -12565,9 +12565,9 @@
     "explanations": [
       "3:71"
     ],
-    "page": 59,
-    "section": 3,
-    "chapter": 3
+    "page": "59",
+    "section": "3",
+    "chapter": "3"
   },
   "3:72": {
     "id": "3:72",
@@ -12595,9 +12595,9 @@
     "explanations": [
       "3:72"
     ],
-    "page": 59,
-    "section": 3,
-    "chapter": 3
+    "page": "59",
+    "section": "3",
+    "chapter": "3"
   },
   "3:73": {
     "id": "3:73",
@@ -12642,9 +12642,9 @@
     "explanations": [
       "3:73"
     ],
-    "page": 59,
-    "section": 3,
-    "chapter": 3
+    "page": "59",
+    "section": "3",
+    "chapter": "3"
   },
   "3:74": {
     "id": "3:74",
@@ -12664,9 +12664,9 @@
     "explanations": [
       "3:74"
     ],
-    "page": 59,
-    "section": 3,
-    "chapter": 3
+    "page": "59",
+    "section": "3",
+    "chapter": "3"
   },
   "3:75": {
     "id": "3:75",
@@ -12715,9 +12715,9 @@
     "explanations": [
       "3:75"
     ],
-    "page": 59,
-    "section": 3,
-    "chapter": 3
+    "page": "59",
+    "section": "3",
+    "chapter": "3"
   },
   "3:76": {
     "id": "3:76",
@@ -12738,9 +12738,9 @@
     "explanations": [
       "3:76"
     ],
-    "page": 59,
-    "section": 3,
-    "chapter": 3
+    "page": "59",
+    "section": "3",
+    "chapter": "3"
   },
   "3:77": {
     "id": "3:77",
@@ -12778,9 +12778,9 @@
     "explanations": [
       "3:77"
     ],
-    "page": 59,
-    "section": 3,
-    "chapter": 3
+    "page": "59",
+    "section": "3",
+    "chapter": "3"
   },
   "3:78": {
     "id": "3:78",
@@ -12820,9 +12820,9 @@
     "explanations": [
       "3:78"
     ],
-    "page": 60,
-    "section": 3,
-    "chapter": 3
+    "page": "60",
+    "section": "3",
+    "chapter": "3"
   },
   "3:79": {
     "id": "3:79",
@@ -12861,9 +12861,9 @@
     "explanations": [
       "3:79"
     ],
-    "page": 60,
-    "section": 3,
-    "chapter": 3
+    "page": "60",
+    "section": "3",
+    "chapter": "3"
   },
   "3:80": {
     "id": "3:80",
@@ -12888,9 +12888,9 @@
     "explanations": [
       "3:80"
     ],
-    "page": 60,
-    "section": 3,
-    "chapter": 3
+    "page": "60",
+    "section": "3",
+    "chapter": "3"
   },
   "3:81": {
     "id": "3:81",
@@ -12937,9 +12937,9 @@
     "explanations": [
       "3:81"
     ],
-    "page": 60,
-    "section": 3,
-    "chapter": 3
+    "page": "60",
+    "section": "3",
+    "chapter": "3"
   },
   "3:82": {
     "id": "3:82",
@@ -12957,9 +12957,9 @@
     "explanations": [
       "3:82"
     ],
-    "page": 60,
-    "section": 3,
-    "chapter": 3
+    "page": "60",
+    "section": "3",
+    "chapter": "3"
   },
   "3:83": {
     "id": "3:83",
@@ -12984,9 +12984,9 @@
     "explanations": [
       "3:83"
     ],
-    "page": 60,
-    "section": 3,
-    "chapter": 3
+    "page": "60",
+    "section": "3",
+    "chapter": "3"
   },
   "3:84": {
     "id": "3:84",
@@ -13026,9 +13026,9 @@
     "explanations": [
       "3:84"
     ],
-    "page": 61,
-    "section": 3,
-    "chapter": 3
+    "page": "61",
+    "section": "3",
+    "chapter": "3"
   },
   "3:85": {
     "id": "3:85",
@@ -13052,9 +13052,9 @@
     "explanations": [
       "3:85"
     ],
-    "page": 61,
-    "section": 3,
-    "chapter": 3
+    "page": "61",
+    "section": "3",
+    "chapter": "3"
   },
   "3:86": {
     "id": "3:86",
@@ -13084,9 +13084,9 @@
     "explanations": [
       "3:86"
     ],
-    "page": 61,
-    "section": 3,
-    "chapter": 3
+    "page": "61",
+    "section": "3",
+    "chapter": "3"
   },
   "3:87": {
     "id": "3:87",
@@ -13106,9 +13106,9 @@
     "explanations": [
       "3:87"
     ],
-    "page": 61,
-    "section": 3,
-    "chapter": 3
+    "page": "61",
+    "section": "3",
+    "chapter": "3"
   },
   "3:88": {
     "id": "3:88",
@@ -13128,9 +13128,9 @@
     "explanations": [
       "3:88"
     ],
-    "page": 61,
-    "section": 3,
-    "chapter": 3
+    "page": "61",
+    "section": "3",
+    "chapter": "3"
   },
   "3:89": {
     "id": "3:89",
@@ -13152,9 +13152,9 @@
     "explanations": [
       "3:89"
     ],
-    "page": 61,
-    "section": 3,
-    "chapter": 3
+    "page": "61",
+    "section": "3",
+    "chapter": "3"
   },
   "3:90": {
     "id": "3:90",
@@ -13179,9 +13179,9 @@
     "explanations": [
       "3:90"
     ],
-    "page": 61,
-    "section": 3,
-    "chapter": 3
+    "page": "61",
+    "section": "3",
+    "chapter": "3"
   },
   "3:91": {
     "id": "3:91",
@@ -13217,9 +13217,9 @@
     "explanations": [
       "3:91"
     ],
-    "page": 61,
-    "section": 3,
-    "chapter": 3
+    "page": "61",
+    "section": "3",
+    "chapter": "3"
   },
   "3:92": {
     "id": "3:92",
@@ -13246,9 +13246,9 @@
     "explanations": [
       "3:92"
     ],
-    "page": 62,
-    "section": 3,
-    "chapter": 3
+    "page": "62",
+    "section": "3",
+    "chapter": "3"
   },
   "3:93": {
     "id": "3:93",
@@ -13285,9 +13285,9 @@
     "explanations": [
       "3:93"
     ],
-    "page": 62,
-    "section": 4,
-    "chapter": 3
+    "page": "62",
+    "section": "4",
+    "chapter": "3"
   },
   "3:94": {
     "id": "3:94",
@@ -13309,9 +13309,9 @@
     "explanations": [
       "3:94"
     ],
-    "page": 62,
-    "section": 4,
-    "chapter": 3
+    "page": "62",
+    "section": "4",
+    "chapter": "3"
   },
   "3:95": {
     "id": "3:95",
@@ -13335,9 +13335,9 @@
     "explanations": [
       "3:95"
     ],
-    "page": 62,
-    "section": 4,
-    "chapter": 3
+    "page": "62",
+    "section": "4",
+    "chapter": "3"
   },
   "3:96": {
     "id": "3:96",
@@ -13358,9 +13358,9 @@
     "explanations": [
       "3:96"
     ],
-    "page": 62,
-    "section": 4,
-    "chapter": 3
+    "page": "62",
+    "section": "4",
+    "chapter": "3"
   },
   "3:97": {
     "id": "3:97",
@@ -13399,9 +13399,9 @@
     "explanations": [
       "3:97"
     ],
-    "page": 62,
-    "section": 4,
-    "chapter": 3
+    "page": "62",
+    "section": "4",
+    "chapter": "3"
   },
   "3:98": {
     "id": "3:98",
@@ -13424,9 +13424,9 @@
     "explanations": [
       "3:98"
     ],
-    "page": 62,
-    "section": 4,
-    "chapter": 3
+    "page": "62",
+    "section": "4",
+    "chapter": "3"
   },
   "3:99": {
     "id": "3:99",
@@ -13457,9 +13457,9 @@
     "explanations": [
       "3:99"
     ],
-    "page": 62,
-    "section": 4,
-    "chapter": 3
+    "page": "62",
+    "section": "4",
+    "chapter": "3"
   },
   "3:100": {
     "id": "3:100",
@@ -13484,9 +13484,9 @@
     "explanations": [
       "3:100"
     ],
-    "page": 62,
-    "section": 4,
-    "chapter": 3
+    "page": "62",
+    "section": "4",
+    "chapter": "3"
   },
   "3:101": {
     "id": "3:101",
@@ -13515,9 +13515,9 @@
     "explanations": [
       "3:101"
     ],
-    "page": 63,
-    "section": 4,
-    "chapter": 3
+    "page": "63",
+    "section": "4",
+    "chapter": "3"
   },
   "3:102": {
     "id": "3:102",
@@ -13540,9 +13540,9 @@
     "explanations": [
       "3:102"
     ],
-    "page": 63,
-    "section": 4,
-    "chapter": 3
+    "page": "63",
+    "section": "4",
+    "chapter": "3"
   },
   "3:103": {
     "id": "3:103",
@@ -13589,9 +13589,9 @@
     "explanations": [
       "3:103"
     ],
-    "page": 63,
-    "section": 4,
-    "chapter": 3
+    "page": "63",
+    "section": "4",
+    "chapter": "3"
   },
   "3:104": {
     "id": "3:104",
@@ -13617,9 +13617,9 @@
     "explanations": [
       "3:104"
     ],
-    "page": 63,
-    "section": 4,
-    "chapter": 3
+    "page": "63",
+    "section": "4",
+    "chapter": "3"
   },
   "3:105": {
     "id": "3:105",
@@ -13645,9 +13645,9 @@
     "explanations": [
       "3:105"
     ],
-    "page": 63,
-    "section": 4,
-    "chapter": 3
+    "page": "63",
+    "section": "4",
+    "chapter": "3"
   },
   "3:106": {
     "id": "3:106",
@@ -13676,9 +13676,9 @@
     "explanations": [
       "3:106"
     ],
-    "page": 63,
-    "section": 4,
-    "chapter": 3
+    "page": "63",
+    "section": "4",
+    "chapter": "3"
   },
   "3:107": {
     "id": "3:107",
@@ -13700,9 +13700,9 @@
     "explanations": [
       "3:107"
     ],
-    "page": 63,
-    "section": 4,
-    "chapter": 3
+    "page": "63",
+    "section": "4",
+    "chapter": "3"
   },
   "3:108": {
     "id": "3:108",
@@ -13725,9 +13725,9 @@
     "explanations": [
       "3:108"
     ],
-    "page": 63,
-    "section": 4,
-    "chapter": 3
+    "page": "63",
+    "section": "4",
+    "chapter": "3"
   },
   "3:109": {
     "id": "3:109",
@@ -13750,9 +13750,9 @@
     "explanations": [
       "3:109"
     ],
-    "page": 64,
-    "section": 4,
-    "chapter": 3
+    "page": "64",
+    "section": "4",
+    "chapter": "3"
   },
   "3:110": {
     "id": "3:110",
@@ -13788,9 +13788,9 @@
     "explanations": [
       "3:110"
     ],
-    "page": 64,
-    "section": 4,
-    "chapter": 3
+    "page": "64",
+    "section": "4",
+    "chapter": "3"
   },
   "3:111": {
     "id": "3:111",
@@ -13813,9 +13813,9 @@
     "explanations": [
       "3:111"
     ],
-    "page": 64,
-    "section": 4,
-    "chapter": 3
+    "page": "64",
+    "section": "4",
+    "chapter": "3"
   },
   "3:112": {
     "id": "3:112",
@@ -13863,9 +13863,9 @@
     "explanations": [
       "3:112"
     ],
-    "page": 64,
-    "section": 4,
-    "chapter": 3
+    "page": "64",
+    "section": "4",
+    "chapter": "3"
   },
   "3:113": {
     "id": "3:113",
@@ -13892,9 +13892,9 @@
     "explanations": [
       "3:113"
     ],
-    "page": 64,
-    "section": 4,
-    "chapter": 3
+    "page": "64",
+    "section": "4",
+    "chapter": "3"
   },
   "3:114": {
     "id": "3:114",
@@ -13921,9 +13921,9 @@
     "explanations": [
       "3:114"
     ],
-    "page": 64,
-    "section": 4,
-    "chapter": 3
+    "page": "64",
+    "section": "4",
+    "chapter": "3"
   },
   "3:115": {
     "id": "3:115",
@@ -13944,9 +13944,9 @@
     "explanations": [
       "3:115"
     ],
-    "page": 64,
-    "section": 4,
-    "chapter": 3
+    "page": "64",
+    "section": "4",
+    "chapter": "3"
   },
   "3:116": {
     "id": "3:116",
@@ -13977,9 +13977,9 @@
     "explanations": [
       "3:116"
     ],
-    "page": 65,
-    "section": 4,
-    "chapter": 3
+    "page": "65",
+    "section": "4",
+    "chapter": "3"
   },
   "3:117": {
     "id": "3:117",
@@ -14014,9 +14014,9 @@
     "explanations": [
       "3:117"
     ],
-    "page": 65,
-    "section": 4,
-    "chapter": 3
+    "page": "65",
+    "section": "4",
+    "chapter": "3"
   },
   "3:118": {
     "id": "3:118",
@@ -14059,9 +14059,9 @@
     "explanations": [
       "3:118"
     ],
-    "page": 65,
-    "section": 4,
-    "chapter": 3
+    "page": "65",
+    "section": "4",
+    "chapter": "3"
   },
   "3:119": {
     "id": "3:119",
@@ -14101,9 +14101,9 @@
     "explanations": [
       "3:119"
     ],
-    "page": 65,
-    "section": 4,
-    "chapter": 3
+    "page": "65",
+    "section": "4",
+    "chapter": "3"
   },
   "3:120": {
     "id": "3:120",
@@ -14137,9 +14137,9 @@
     "explanations": [
       "3:120"
     ],
-    "page": 65,
-    "section": 4,
-    "chapter": 3
+    "page": "65",
+    "section": "4",
+    "chapter": "3"
   },
   "3:121": {
     "id": "3:121",
@@ -14162,9 +14162,9 @@
     "explanations": [
       "3:121"
     ],
-    "page": 65,
-    "section": 4,
-    "chapter": 3
+    "page": "65",
+    "section": "4",
+    "chapter": "3"
   },
   "3:122": {
     "id": "3:122",
@@ -14188,9 +14188,9 @@
     "explanations": [
       "3:122"
     ],
-    "page": 66,
-    "section": 4,
-    "chapter": 3
+    "page": "66",
+    "section": "4",
+    "chapter": "3"
   },
   "3:123": {
     "id": "3:123",
@@ -14212,9 +14212,9 @@
     "explanations": [
       "3:123"
     ],
-    "page": 66,
-    "section": 4,
-    "chapter": 3
+    "page": "66",
+    "section": "4",
+    "chapter": "3"
   },
   "3:124": {
     "id": "3:124",
@@ -14238,9 +14238,9 @@
     "explanations": [
       "3:124"
     ],
-    "page": 66,
-    "section": 4,
-    "chapter": 3
+    "page": "66",
+    "section": "4",
+    "chapter": "3"
   },
   "3:125": {
     "id": "3:125",
@@ -14267,9 +14267,9 @@
     "explanations": [
       "3:125"
     ],
-    "page": 66,
-    "section": 4,
-    "chapter": 3
+    "page": "66",
+    "section": "4",
+    "chapter": "3"
   },
   "3:126": {
     "id": "3:126",
@@ -14298,9 +14298,9 @@
     "explanations": [
       "3:126"
     ],
-    "page": 66,
-    "section": 4,
-    "chapter": 3
+    "page": "66",
+    "section": "4",
+    "chapter": "3"
   },
   "3:127": {
     "id": "3:127",
@@ -14320,9 +14320,9 @@
     "explanations": [
       "3:127"
     ],
-    "page": 66,
-    "section": 4,
-    "chapter": 3
+    "page": "66",
+    "section": "4",
+    "chapter": "3"
   },
   "3:128": {
     "id": "3:128",
@@ -14345,9 +14345,9 @@
     "explanations": [
       "3:128"
     ],
-    "page": 66,
-    "section": 4,
-    "chapter": 3
+    "page": "66",
+    "section": "4",
+    "chapter": "3"
   },
   "3:129": {
     "id": "3:129",
@@ -14376,9 +14376,9 @@
     "explanations": [
       "3:129"
     ],
-    "page": 66,
-    "section": 4,
-    "chapter": 3
+    "page": "66",
+    "section": "4",
+    "chapter": "3"
   },
   "3:130": {
     "id": "3:130",
@@ -14402,9 +14402,9 @@
     "explanations": [
       "3:130"
     ],
-    "page": 66,
-    "section": 4,
-    "chapter": 3
+    "page": "66",
+    "section": "4",
+    "chapter": "3"
   },
   "3:131": {
     "id": "3:131",
@@ -14420,9 +14420,9 @@
     "explanations": [
       "3:131"
     ],
-    "page": 66,
-    "section": 4,
-    "chapter": 3
+    "page": "66",
+    "section": "4",
+    "chapter": "3"
   },
   "3:132": {
     "id": "3:132",
@@ -14438,9 +14438,9 @@
     "explanations": [
       "3:132"
     ],
-    "page": 66,
-    "section": 4,
-    "chapter": 3
+    "page": "66",
+    "section": "4",
+    "chapter": "3"
   },
   "3:133": {
     "id": "3:133",
@@ -14463,9 +14463,9 @@
     "explanations": [
       "3:133"
     ],
-    "page": 67,
-    "section": 4,
-    "chapter": 3
+    "page": "67",
+    "section": "4",
+    "chapter": "3"
   },
   "3:134": {
     "id": "3:134",
@@ -14490,9 +14490,9 @@
     "explanations": [
       "3:134"
     ],
-    "page": 67,
-    "section": 4,
-    "chapter": 3
+    "page": "67",
+    "section": "4",
+    "chapter": "3"
   },
   "3:135": {
     "id": "3:135",
@@ -14526,9 +14526,9 @@
     "explanations": [
       "3:135"
     ],
-    "page": 67,
-    "section": 4,
-    "chapter": 3
+    "page": "67",
+    "section": "4",
+    "chapter": "3"
   },
   "3:136": {
     "id": "3:136",
@@ -14555,9 +14555,9 @@
     "explanations": [
       "3:136"
     ],
-    "page": 67,
-    "section": 4,
-    "chapter": 3
+    "page": "67",
+    "section": "4",
+    "chapter": "3"
   },
   "3:137": {
     "id": "3:137",
@@ -14581,9 +14581,9 @@
     "explanations": [
       "3:137"
     ],
-    "page": 67,
-    "section": 4,
-    "chapter": 3
+    "page": "67",
+    "section": "4",
+    "chapter": "3"
   },
   "3:138": {
     "id": "3:138",
@@ -14600,9 +14600,9 @@
     "explanations": [
       "3:138"
     ],
-    "page": 67,
-    "section": 4,
-    "chapter": 3
+    "page": "67",
+    "section": "4",
+    "chapter": "3"
   },
   "3:139": {
     "id": "3:139",
@@ -14622,9 +14622,9 @@
     "explanations": [
       "3:139"
     ],
-    "page": 67,
-    "section": 4,
-    "chapter": 3
+    "page": "67",
+    "section": "4",
+    "chapter": "3"
   },
   "3:140": {
     "id": "3:140",
@@ -14661,9 +14661,9 @@
     "explanations": [
       "3:140"
     ],
-    "page": 67,
-    "section": 4,
-    "chapter": 3
+    "page": "67",
+    "section": "4",
+    "chapter": "3"
   },
   "3:141": {
     "id": "3:141",
@@ -14680,9 +14680,9 @@
     "explanations": [
       "3:141"
     ],
-    "page": 68,
-    "section": 4,
-    "chapter": 3
+    "page": "68",
+    "section": "4",
+    "chapter": "3"
   },
   "3:142": {
     "id": "3:142",
@@ -14706,9 +14706,9 @@
     "explanations": [
       "3:142"
     ],
-    "page": 68,
-    "section": 4,
-    "chapter": 3
+    "page": "68",
+    "section": "4",
+    "chapter": "3"
   },
   "3:143": {
     "id": "3:143",
@@ -14731,9 +14731,9 @@
     "explanations": [
       "3:143"
     ],
-    "page": 68,
-    "section": 4,
-    "chapter": 3
+    "page": "68",
+    "section": "4",
+    "chapter": "3"
   },
   "3:144": {
     "id": "3:144",
@@ -14774,9 +14774,9 @@
     "explanations": [
       "3:144"
     ],
-    "page": 68,
-    "section": 4,
-    "chapter": 3
+    "page": "68",
+    "section": "4",
+    "chapter": "3"
   },
   "3:145": {
     "id": "3:145",
@@ -14813,9 +14813,9 @@
     "explanations": [
       "3:145"
     ],
-    "page": 68,
-    "section": 4,
-    "chapter": 3
+    "page": "68",
+    "section": "4",
+    "chapter": "3"
   },
   "3:146": {
     "id": "3:146",
@@ -14848,9 +14848,9 @@
     "explanations": [
       "3:146"
     ],
-    "page": 68,
-    "section": 4,
-    "chapter": 3
+    "page": "68",
+    "section": "4",
+    "chapter": "3"
   },
   "3:147": {
     "id": "3:147",
@@ -14880,9 +14880,9 @@
     "explanations": [
       "3:147"
     ],
-    "page": 68,
-    "section": 4,
-    "chapter": 3
+    "page": "68",
+    "section": "4",
+    "chapter": "3"
   },
   "3:148": {
     "id": "3:148",
@@ -14904,9 +14904,9 @@
     "explanations": [
       "3:148"
     ],
-    "page": 68,
-    "section": 4,
-    "chapter": 3
+    "page": "68",
+    "section": "4",
+    "chapter": "3"
   },
   "3:149": {
     "id": "3:149",
@@ -14929,9 +14929,9 @@
     "explanations": [
       "3:149"
     ],
-    "page": 69,
-    "section": 4,
-    "chapter": 3
+    "page": "69",
+    "section": "4",
+    "chapter": "3"
   },
   "3:150": {
     "id": "3:150",
@@ -14949,9 +14949,9 @@
     "explanations": [
       "3:150"
     ],
-    "page": 69,
-    "section": 4,
-    "chapter": 3
+    "page": "69",
+    "section": "4",
+    "chapter": "3"
   },
   "3:151": {
     "id": "3:151",
@@ -14983,9 +14983,9 @@
     "explanations": [
       "3:151"
     ],
-    "page": 69,
-    "section": 4,
-    "chapter": 3
+    "page": "69",
+    "section": "4",
+    "chapter": "3"
   },
   "3:152": {
     "id": "3:152",
@@ -15041,9 +15041,9 @@
     "explanations": [
       "3:152"
     ],
-    "page": 69,
-    "section": 4,
-    "chapter": 3
+    "page": "69",
+    "section": "4",
+    "chapter": "3"
   },
   "3:153": {
     "id": "3:153",
@@ -15081,9 +15081,9 @@
     "explanations": [
       "3:153"
     ],
-    "page": 69,
-    "section": 4,
-    "chapter": 3
+    "page": "69",
+    "section": "4",
+    "chapter": "3"
   },
   "3:154": {
     "id": "3:154",
@@ -15177,9 +15177,9 @@
     "explanations": [
       "3:154"
     ],
-    "page": 70,
-    "section": 4,
-    "chapter": 3
+    "page": "70",
+    "section": "4",
+    "chapter": "3"
   },
   "3:155": {
     "id": "3:155",
@@ -15213,9 +15213,9 @@
     "explanations": [
       "3:155"
     ],
-    "page": 70,
-    "section": 4,
-    "chapter": 3
+    "page": "70",
+    "section": "4",
+    "chapter": "3"
   },
   "3:156": {
     "id": "3:156",
@@ -15264,9 +15264,9 @@
     "explanations": [
       "3:156"
     ],
-    "page": 70,
-    "section": 4,
-    "chapter": 3
+    "page": "70",
+    "section": "4",
+    "chapter": "3"
   },
   "3:157": {
     "id": "3:157",
@@ -15291,9 +15291,9 @@
     "explanations": [
       "3:157"
     ],
-    "page": 70,
-    "section": 4,
-    "chapter": 3
+    "page": "70",
+    "section": "4",
+    "chapter": "3"
   },
   "3:158": {
     "id": "3:158",
@@ -15311,9 +15311,9 @@
     "explanations": [
       "3:158"
     ],
-    "page": 71,
-    "section": 4,
-    "chapter": 3
+    "page": "71",
+    "section": "4",
+    "chapter": "3"
   },
   "3:159": {
     "id": "3:159",
@@ -15358,9 +15358,9 @@
     "explanations": [
       "3:159"
     ],
-    "page": 71,
-    "section": 4,
-    "chapter": 3
+    "page": "71",
+    "section": "4",
+    "chapter": "3"
   },
   "3:160": {
     "id": "3:160",
@@ -15391,9 +15391,9 @@
     "explanations": [
       "3:160"
     ],
-    "page": 71,
-    "section": 4,
-    "chapter": 3
+    "page": "71",
+    "section": "4",
+    "chapter": "3"
   },
   "3:161": {
     "id": "3:161",
@@ -15427,9 +15427,9 @@
     "explanations": [
       "3:161"
     ],
-    "page": 71,
-    "section": 4,
-    "chapter": 3
+    "page": "71",
+    "section": "4",
+    "chapter": "3"
   },
   "3:162": {
     "id": "3:162",
@@ -15454,9 +15454,9 @@
     "explanations": [
       "3:162"
     ],
-    "page": 71,
-    "section": 4,
-    "chapter": 3
+    "page": "71",
+    "section": "4",
+    "chapter": "3"
   },
   "3:163": {
     "id": "3:163",
@@ -15476,9 +15476,9 @@
     "explanations": [
       "3:163"
     ],
-    "page": 71,
-    "section": 4,
-    "chapter": 3
+    "page": "71",
+    "section": "4",
+    "chapter": "3"
   },
   "3:164": {
     "id": "3:164",
@@ -15514,9 +15514,9 @@
     "explanations": [
       "3:164"
     ],
-    "page": 71,
-    "section": 4,
-    "chapter": 3
+    "page": "71",
+    "section": "4",
+    "chapter": "3"
   },
   "3:165": {
     "id": "3:165",
@@ -15549,9 +15549,9 @@
     "explanations": [
       "3:165"
     ],
-    "page": 71,
-    "section": 4,
-    "chapter": 3
+    "page": "71",
+    "section": "4",
+    "chapter": "3"
   },
   "3:166": {
     "id": "3:166",
@@ -15571,9 +15571,9 @@
     "explanations": [
       "3:166"
     ],
-    "page": 72,
-    "section": 4,
-    "chapter": 3
+    "page": "72",
+    "section": "4",
+    "chapter": "3"
   },
   "3:167": {
     "id": "3:167",
@@ -15622,9 +15622,9 @@
     "explanations": [
       "3:167"
     ],
-    "page": 72,
-    "section": 4,
-    "chapter": 3
+    "page": "72",
+    "section": "4",
+    "chapter": "3"
   },
   "3:168": {
     "id": "3:168",
@@ -15652,9 +15652,9 @@
     "explanations": [
       "3:168"
     ],
-    "page": 72,
-    "section": 4,
-    "chapter": 3
+    "page": "72",
+    "section": "4",
+    "chapter": "3"
   },
   "3:169": {
     "id": "3:169",
@@ -15679,9 +15679,9 @@
     "explanations": [
       "3:169"
     ],
-    "page": 72,
-    "section": 4,
-    "chapter": 3
+    "page": "72",
+    "section": "4",
+    "chapter": "3"
   },
   "3:170": {
     "id": "3:170",
@@ -15711,9 +15711,9 @@
     "explanations": [
       "3:170"
     ],
-    "page": 72,
-    "section": 4,
-    "chapter": 3
+    "page": "72",
+    "section": "4",
+    "chapter": "3"
   },
   "3:171": {
     "id": "3:171",
@@ -15736,9 +15736,9 @@
     "explanations": [
       "3:171"
     ],
-    "page": 72,
-    "section": 4,
-    "chapter": 3
+    "page": "72",
+    "section": "4",
+    "chapter": "3"
   },
   "3:172": {
     "id": "3:172",
@@ -15765,9 +15765,9 @@
     "explanations": [
       "3:172"
     ],
-    "page": 72,
-    "section": 4,
-    "chapter": 3
+    "page": "72",
+    "section": "4",
+    "chapter": "3"
   },
   "3:173": {
     "id": "3:173",
@@ -15795,9 +15795,9 @@
     "explanations": [
       "3:173"
     ],
-    "page": 72,
-    "section": 4,
-    "chapter": 3
+    "page": "72",
+    "section": "4",
+    "chapter": "3"
   },
   "3:174": {
     "id": "3:174",
@@ -15824,9 +15824,9 @@
     "explanations": [
       "3:174"
     ],
-    "page": 73,
-    "section": 4,
-    "chapter": 3
+    "page": "73",
+    "section": "4",
+    "chapter": "3"
   },
   "3:175": {
     "id": "3:175",
@@ -15848,9 +15848,9 @@
     "explanations": [
       "3:175"
     ],
-    "page": 73,
-    "section": 4,
-    "chapter": 3
+    "page": "73",
+    "section": "4",
+    "chapter": "3"
   },
   "3:176": {
     "id": "3:176",
@@ -15886,9 +15886,9 @@
     "explanations": [
       "3:176"
     ],
-    "page": 73,
-    "section": 4,
-    "chapter": 3
+    "page": "73",
+    "section": "4",
+    "chapter": "3"
   },
   "3:177": {
     "id": "3:177",
@@ -15912,9 +15912,9 @@
     "explanations": [
       "3:177"
     ],
-    "page": 73,
-    "section": 4,
-    "chapter": 3
+    "page": "73",
+    "section": "4",
+    "chapter": "3"
   },
   "3:178": {
     "id": "3:178",
@@ -15944,9 +15944,9 @@
     "explanations": [
       "3:178"
     ],
-    "page": 73,
-    "section": 4,
-    "chapter": 3
+    "page": "73",
+    "section": "4",
+    "chapter": "3"
   },
   "3:179": {
     "id": "3:179",
@@ -15996,9 +15996,9 @@
     "explanations": [
       "3:179"
     ],
-    "page": 73,
-    "section": 4,
-    "chapter": 3
+    "page": "73",
+    "section": "4",
+    "chapter": "3"
   },
   "3:180": {
     "id": "3:180",
@@ -16043,9 +16043,9 @@
     "explanations": [
       "3:180"
     ],
-    "page": 73,
-    "section": 4,
-    "chapter": 3
+    "page": "73",
+    "section": "4",
+    "chapter": "3"
   },
   "3:181": {
     "id": "3:181",
@@ -16079,9 +16079,9 @@
     "explanations": [
       "3:181"
     ],
-    "page": 74,
-    "section": 4,
-    "chapter": 3
+    "page": "74",
+    "section": "4",
+    "chapter": "3"
   },
   "3:182": {
     "id": "3:182",
@@ -16101,9 +16101,9 @@
     "explanations": [
       "3:182"
     ],
-    "page": 74,
-    "section": 4,
-    "chapter": 3
+    "page": "74",
+    "section": "4",
+    "chapter": "3"
   },
   "3:183": {
     "id": "3:183",
@@ -16143,9 +16143,9 @@
     "explanations": [
       "3:183"
     ],
-    "page": 74,
-    "section": 4,
-    "chapter": 3
+    "page": "74",
+    "section": "4",
+    "chapter": "3"
   },
   "3:184": {
     "id": "3:184",
@@ -16168,9 +16168,9 @@
     "explanations": [
       "3:184"
     ],
-    "page": 74,
-    "section": 4,
-    "chapter": 3
+    "page": "74",
+    "section": "4",
+    "chapter": "3"
   },
   "3:185": {
     "id": "3:185",
@@ -16207,9 +16207,9 @@
     "explanations": [
       "3:185"
     ],
-    "page": 74,
-    "section": 4,
-    "chapter": 3
+    "page": "74",
+    "section": "4",
+    "chapter": "3"
   },
   "3:186": {
     "id": "3:186",
@@ -16246,9 +16246,9 @@
     "explanations": [
       "3:186"
     ],
-    "page": 74,
-    "section": 4,
-    "chapter": 3
+    "page": "74",
+    "section": "4",
+    "chapter": "3"
   },
   "3:187": {
     "id": "3:187",
@@ -16281,9 +16281,9 @@
     "explanations": [
       "3:187"
     ],
-    "page": 75,
-    "section": 4,
-    "chapter": 3
+    "page": "75",
+    "section": "4",
+    "chapter": "3"
   },
   "3:188": {
     "id": "3:188",
@@ -16315,9 +16315,9 @@
     "explanations": [
       "3:188"
     ],
-    "page": 75,
-    "section": 4,
-    "chapter": 3
+    "page": "75",
+    "section": "4",
+    "chapter": "3"
   },
   "3:189": {
     "id": "3:189",
@@ -16338,9 +16338,9 @@
     "explanations": [
       "3:189"
     ],
-    "page": 75,
-    "section": 4,
-    "chapter": 3
+    "page": "75",
+    "section": "4",
+    "chapter": "3"
   },
   "3:190": {
     "id": "3:190",
@@ -16362,9 +16362,9 @@
     "explanations": [
       "3:190"
     ],
-    "page": 75,
-    "section": 4,
-    "chapter": 3
+    "page": "75",
+    "section": "4",
+    "chapter": "3"
   },
   "3:191": {
     "id": "3:191",
@@ -16396,9 +16396,9 @@
     "explanations": [
       "3:191"
     ],
-    "page": 75,
-    "section": 4,
-    "chapter": 3
+    "page": "75",
+    "section": "4",
+    "chapter": "3"
   },
   "3:192": {
     "id": "3:192",
@@ -16421,9 +16421,9 @@
     "explanations": [
       "3:192"
     ],
-    "page": 75,
-    "section": 4,
-    "chapter": 3
+    "page": "75",
+    "section": "4",
+    "chapter": "3"
   },
   "3:193": {
     "id": "3:193",
@@ -16455,9 +16455,9 @@
     "explanations": [
       "3:193"
     ],
-    "page": 75,
-    "section": 4,
-    "chapter": 3
+    "page": "75",
+    "section": "4",
+    "chapter": "3"
   },
   "3:194": {
     "id": "3:194",
@@ -16483,9 +16483,9 @@
     "explanations": [
       "3:194"
     ],
-    "page": 75,
-    "section": 4,
-    "chapter": 3
+    "page": "75",
+    "section": "4",
+    "chapter": "3"
   },
   "3:195": {
     "id": "3:195",
@@ -16542,9 +16542,9 @@
     "explanations": [
       "3:195"
     ],
-    "page": 76,
-    "section": 4,
-    "chapter": 3
+    "page": "76",
+    "section": "4",
+    "chapter": "3"
   },
   "3:196": {
     "id": "3:196",
@@ -16562,9 +16562,9 @@
     "explanations": [
       "3:196"
     ],
-    "page": 76,
-    "section": 4,
-    "chapter": 3
+    "page": "76",
+    "section": "4",
+    "chapter": "3"
   },
   "3:197": {
     "id": "3:197",
@@ -16583,9 +16583,9 @@
     "explanations": [
       "3:197"
     ],
-    "page": 76,
-    "section": 4,
-    "chapter": 3
+    "page": "76",
+    "section": "4",
+    "chapter": "3"
   },
   "3:198": {
     "id": "3:198",
@@ -16618,9 +16618,9 @@
     "explanations": [
       "3:198"
     ],
-    "page": 76,
-    "section": 4,
-    "chapter": 3
+    "page": "76",
+    "section": "4",
+    "chapter": "3"
   },
   "3:199": {
     "id": "3:199",
@@ -16663,9 +16663,9 @@
     "explanations": [
       "3:199"
     ],
-    "page": 76,
-    "section": 4,
-    "chapter": 3
+    "page": "76",
+    "section": "4",
+    "chapter": "3"
   },
   "3:200": {
     "id": "3:200",
@@ -16686,9 +16686,9 @@
     "explanations": [
       "3:200"
     ],
-    "page": 76,
-    "section": 4,
-    "chapter": 3
+    "page": "76",
+    "section": "4",
+    "chapter": "3"
   },
   "4:1": {
     "id": "4:1",
@@ -16729,9 +16729,9 @@
     "explanations": [
       "4:1"
     ],
-    "page": 77,
-    "section": 4,
-    "chapter": 4
+    "page": "77",
+    "section": "4",
+    "chapter": "4"
   },
   "4:2": {
     "id": "4:2",
@@ -16761,9 +16761,9 @@
     "explanations": [
       "4:2"
     ],
-    "page": 77,
-    "section": 4,
-    "chapter": 4
+    "page": "77",
+    "section": "4",
+    "chapter": "4"
   },
   "4:3": {
     "id": "4:3",
@@ -16804,9 +16804,9 @@
     "explanations": [
       "4:3"
     ],
-    "page": 77,
-    "section": 4,
-    "chapter": 4
+    "page": "77",
+    "section": "4",
+    "chapter": "4"
   },
   "4:4": {
     "id": "4:4",
@@ -16832,9 +16832,9 @@
     "explanations": [
       "4:4"
     ],
-    "page": 77,
-    "section": 4,
-    "chapter": 4
+    "page": "77",
+    "section": "4",
+    "chapter": "4"
   },
   "4:5": {
     "id": "4:5",
@@ -16861,9 +16861,9 @@
     "explanations": [
       "4:5"
     ],
-    "page": 77,
-    "section": 4,
-    "chapter": 4
+    "page": "77",
+    "section": "4",
+    "chapter": "4"
   },
   "4:6": {
     "id": "4:6",
@@ -16916,9 +16916,9 @@
     "explanations": [
       "4:6"
     ],
-    "page": 77,
-    "section": 4,
-    "chapter": 4
+    "page": "77",
+    "section": "4",
+    "chapter": "4"
   },
   "4:7": {
     "id": "4:7",
@@ -16949,9 +16949,9 @@
     "explanations": [
       "4:7"
     ],
-    "page": 78,
-    "section": 4,
-    "chapter": 4
+    "page": "78",
+    "section": "4",
+    "chapter": "4"
   },
   "4:8": {
     "id": "4:8",
@@ -16975,9 +16975,9 @@
     "explanations": [
       "4:8"
     ],
-    "page": 78,
-    "section": 4,
-    "chapter": 4
+    "page": "78",
+    "section": "4",
+    "chapter": "4"
   },
   "4:9": {
     "id": "4:9",
@@ -17003,9 +17003,9 @@
     "explanations": [
       "4:9"
     ],
-    "page": 78,
-    "section": 4,
-    "chapter": 4
+    "page": "78",
+    "section": "4",
+    "chapter": "4"
   },
   "4:10": {
     "id": "4:10",
@@ -17030,9 +17030,9 @@
     "explanations": [
       "4:10"
     ],
-    "page": 78,
-    "section": 4,
-    "chapter": 4
+    "page": "78",
+    "section": "4",
+    "chapter": "4"
   },
   "4:11": {
     "id": "4:11",
@@ -17124,9 +17124,9 @@
     "explanations": [
       "4:11"
     ],
-    "page": 78,
-    "section": 4,
-    "chapter": 4
+    "page": "78",
+    "section": "4",
+    "chapter": "4"
   },
   "4:12": {
     "id": "4:12",
@@ -17236,9 +17236,9 @@
     "explanations": [
       "4:12"
     ],
-    "page": 79,
-    "section": 4,
-    "chapter": 4
+    "page": "79",
+    "section": "4",
+    "chapter": "4"
   },
   "4:13": {
     "id": "4:13",
@@ -17269,9 +17269,9 @@
     "explanations": [
       "4:13"
     ],
-    "page": 79,
-    "section": 4,
-    "chapter": 4
+    "page": "79",
+    "section": "4",
+    "chapter": "4"
   },
   "4:14": {
     "id": "4:14",
@@ -17295,9 +17295,9 @@
     "explanations": [
       "4:14"
     ],
-    "page": 79,
-    "section": 4,
-    "chapter": 4
+    "page": "79",
+    "section": "4",
+    "chapter": "4"
   },
   "4:15": {
     "id": "4:15",
@@ -17331,9 +17331,9 @@
     "explanations": [
       "4:15"
     ],
-    "page": 80,
-    "section": 4,
-    "chapter": 4
+    "page": "80",
+    "section": "4",
+    "chapter": "4"
   },
   "4:16": {
     "id": "4:16",
@@ -17360,9 +17360,9 @@
     "explanations": [
       "4:16"
     ],
-    "page": 80,
-    "section": 4,
-    "chapter": 4
+    "page": "80",
+    "section": "4",
+    "chapter": "4"
   },
   "4:17": {
     "id": "4:17",
@@ -17394,9 +17394,9 @@
     "explanations": [
       "4:17"
     ],
-    "page": 80,
-    "section": 4,
-    "chapter": 4
+    "page": "80",
+    "section": "4",
+    "chapter": "4"
   },
   "4:18": {
     "id": "4:18",
@@ -17432,9 +17432,9 @@
     "explanations": [
       "4:18"
     ],
-    "page": 80,
-    "section": 4,
-    "chapter": 4
+    "page": "80",
+    "section": "4",
+    "chapter": "4"
   },
   "4:19": {
     "id": "4:19",
@@ -17482,9 +17482,9 @@
     "explanations": [
       "4:19"
     ],
-    "page": 80,
-    "section": 4,
-    "chapter": 4
+    "page": "80",
+    "section": "4",
+    "chapter": "4"
   },
   "4:20": {
     "id": "4:20",
@@ -17513,9 +17513,9 @@
     "explanations": [
       "4:20"
     ],
-    "page": 81,
-    "section": 4,
-    "chapter": 4
+    "page": "81",
+    "section": "4",
+    "chapter": "4"
   },
   "4:21": {
     "id": "4:21",
@@ -17537,9 +17537,9 @@
     "explanations": [
       "4:21"
     ],
-    "page": 81,
-    "section": 4,
-    "chapter": 4
+    "page": "81",
+    "section": "4",
+    "chapter": "4"
   },
   "4:22": {
     "id": "4:22",
@@ -17568,9 +17568,9 @@
     "explanations": [
       "4:22"
     ],
-    "page": 81,
-    "section": 4,
-    "chapter": 4
+    "page": "81",
+    "section": "4",
+    "chapter": "4"
   },
   "4:23": {
     "id": "4:23",
@@ -17636,9 +17636,9 @@
     "explanations": [
       "4:23"
     ],
-    "page": 81,
-    "section": 4,
-    "chapter": 4
+    "page": "81",
+    "section": "4",
+    "chapter": "4"
   },
   "4:24": {
     "id": "4:24",
@@ -17697,9 +17697,9 @@
     "explanations": [
       "4:24"
     ],
-    "page": 82,
-    "section": 5,
-    "chapter": 4
+    "page": "82",
+    "section": "5",
+    "chapter": "4"
   },
   "4:25": {
     "id": "4:25",
@@ -17775,9 +17775,9 @@
     "explanations": [
       "4:25"
     ],
-    "page": 82,
-    "section": 5,
-    "chapter": 4
+    "page": "82",
+    "section": "5",
+    "chapter": "4"
   },
   "4:26": {
     "id": "4:26",
@@ -17803,9 +17803,9 @@
     "explanations": [
       "4:26"
     ],
-    "page": 82,
-    "section": 5,
-    "chapter": 4
+    "page": "82",
+    "section": "5",
+    "chapter": "4"
   },
   "4:27": {
     "id": "4:27",
@@ -17829,9 +17829,9 @@
     "explanations": [
       "4:27"
     ],
-    "page": 83,
-    "section": 5,
-    "chapter": 4
+    "page": "83",
+    "section": "5",
+    "chapter": "4"
   },
   "4:28": {
     "id": "4:28",
@@ -17851,9 +17851,9 @@
     "explanations": [
       "4:28"
     ],
-    "page": 83,
-    "section": 5,
-    "chapter": 4
+    "page": "83",
+    "section": "5",
+    "chapter": "4"
   },
   "4:29": {
     "id": "4:29",
@@ -17889,9 +17889,9 @@
     "explanations": [
       "4:29"
     ],
-    "page": 83,
-    "section": 5,
-    "chapter": 4
+    "page": "83",
+    "section": "5",
+    "chapter": "4"
   },
   "4:30": {
     "id": "4:30",
@@ -17916,9 +17916,9 @@
     "explanations": [
       "4:30"
     ],
-    "page": 83,
-    "section": 5,
-    "chapter": 4
+    "page": "83",
+    "section": "5",
+    "chapter": "4"
   },
   "4:31": {
     "id": "4:31",
@@ -17941,9 +17941,9 @@
     "explanations": [
       "4:31"
     ],
-    "page": 83,
-    "section": 5,
-    "chapter": 4
+    "page": "83",
+    "section": "5",
+    "chapter": "4"
   },
   "4:32": {
     "id": "4:32",
@@ -17985,9 +17985,9 @@
     "explanations": [
       "4:32"
     ],
-    "page": 83,
-    "section": 5,
-    "chapter": 4
+    "page": "83",
+    "section": "5",
+    "chapter": "4"
   },
   "4:33": {
     "id": "4:33",
@@ -18019,9 +18019,9 @@
     "explanations": [
       "4:33"
     ],
-    "page": 83,
-    "section": 5,
-    "chapter": 4
+    "page": "83",
+    "section": "5",
+    "chapter": "4"
   },
   "4:34": {
     "id": "4:34",
@@ -18076,9 +18076,9 @@
     "explanations": [
       "4:34"
     ],
-    "page": 84,
-    "section": 5,
-    "chapter": 4
+    "page": "84",
+    "section": "5",
+    "chapter": "4"
   },
   "4:35": {
     "id": "4:35",
@@ -18112,9 +18112,9 @@
     "explanations": [
       "4:35"
     ],
-    "page": 84,
-    "section": 5,
-    "chapter": 4
+    "page": "84",
+    "section": "5",
+    "chapter": "4"
   },
   "4:36": {
     "id": "4:36",
@@ -18160,9 +18160,9 @@
     "explanations": [
       "4:36"
     ],
-    "page": 84,
-    "section": 5,
-    "chapter": 4
+    "page": "84",
+    "section": "5",
+    "chapter": "4"
   },
   "4:37": {
     "id": "4:37",
@@ -18189,9 +18189,9 @@
     "explanations": [
       "4:37"
     ],
-    "page": 84,
-    "section": 5,
-    "chapter": 4
+    "page": "84",
+    "section": "5",
+    "chapter": "4"
   },
   "4:38": {
     "id": "4:38",
@@ -18221,9 +18221,9 @@
     "explanations": [
       "4:38"
     ],
-    "page": 85,
-    "section": 5,
-    "chapter": 4
+    "page": "85",
+    "section": "5",
+    "chapter": "4"
   },
   "4:39": {
     "id": "4:39",
@@ -18250,9 +18250,9 @@
     "explanations": [
       "4:39"
     ],
-    "page": 85,
-    "section": 5,
-    "chapter": 4
+    "page": "85",
+    "section": "5",
+    "chapter": "4"
   },
   "4:40": {
     "id": "4:40",
@@ -18279,9 +18279,9 @@
     "explanations": [
       "4:40"
     ],
-    "page": 85,
-    "section": 5,
-    "chapter": 4
+    "page": "85",
+    "section": "5",
+    "chapter": "4"
   },
   "4:41": {
     "id": "4:41",
@@ -18304,9 +18304,9 @@
     "explanations": [
       "4:41"
     ],
-    "page": 85,
-    "section": 5,
-    "chapter": 4
+    "page": "85",
+    "section": "5",
+    "chapter": "4"
   },
   "4:42": {
     "id": "4:42",
@@ -18331,9 +18331,9 @@
     "explanations": [
       "4:42"
     ],
-    "page": 85,
-    "section": 5,
-    "chapter": 4
+    "page": "85",
+    "section": "5",
+    "chapter": "4"
   },
   "4:43": {
     "id": "4:43",
@@ -18394,9 +18394,9 @@
     "explanations": [
       "4:43"
     ],
-    "page": 85,
-    "section": 5,
-    "chapter": 4
+    "page": "85",
+    "section": "5",
+    "chapter": "4"
   },
   "4:44": {
     "id": "4:44",
@@ -18421,9 +18421,9 @@
     "explanations": [
       "4:44"
     ],
-    "page": 85,
-    "section": 5,
-    "chapter": 4
+    "page": "85",
+    "section": "5",
+    "chapter": "4"
   },
   "4:45": {
     "id": "4:45",
@@ -18444,9 +18444,9 @@
     "explanations": [
       "4:45"
     ],
-    "page": 86,
-    "section": 5,
-    "chapter": 4
+    "page": "86",
+    "section": "5",
+    "chapter": "4"
   },
   "4:46": {
     "id": "4:46",
@@ -18496,9 +18496,9 @@
     "explanations": [
       "4:46"
     ],
-    "page": 86,
-    "section": 5,
-    "chapter": 4
+    "page": "86",
+    "section": "5",
+    "chapter": "4"
   },
   "4:47": {
     "id": "4:47",
@@ -18538,9 +18538,9 @@
     "explanations": [
       "4:47"
     ],
-    "page": 86,
-    "section": 5,
-    "chapter": 4
+    "page": "86",
+    "section": "5",
+    "chapter": "4"
   },
   "4:48": {
     "id": "4:48",
@@ -18572,9 +18572,9 @@
     "explanations": [
       "4:48"
     ],
-    "page": 86,
-    "section": 5,
-    "chapter": 4
+    "page": "86",
+    "section": "5",
+    "chapter": "4"
   },
   "4:49": {
     "id": "4:49",
@@ -18600,9 +18600,9 @@
     "explanations": [
       "4:49"
     ],
-    "page": 86,
-    "section": 5,
-    "chapter": 4
+    "page": "86",
+    "section": "5",
+    "chapter": "4"
   },
   "4:50": {
     "id": "4:50",
@@ -18624,9 +18624,9 @@
     "explanations": [
       "4:50"
     ],
-    "page": 86,
-    "section": 5,
-    "chapter": 4
+    "page": "86",
+    "section": "5",
+    "chapter": "4"
   },
   "4:51": {
     "id": "4:51",
@@ -18657,9 +18657,9 @@
     "explanations": [
       "4:51"
     ],
-    "page": 86,
-    "section": 5,
-    "chapter": 4
+    "page": "86",
+    "section": "5",
+    "chapter": "4"
   },
   "4:52": {
     "id": "4:52",
@@ -18682,9 +18682,9 @@
     "explanations": [
       "4:52"
     ],
-    "page": 87,
-    "section": 5,
-    "chapter": 4
+    "page": "87",
+    "section": "5",
+    "chapter": "4"
   },
   "4:53": {
     "id": "4:53",
@@ -18705,9 +18705,9 @@
     "explanations": [
       "4:53"
     ],
-    "page": 87,
-    "section": 5,
-    "chapter": 4
+    "page": "87",
+    "section": "5",
+    "chapter": "4"
   },
   "4:54": {
     "id": "4:54",
@@ -18737,9 +18737,9 @@
     "explanations": [
       "4:54"
     ],
-    "page": 87,
-    "section": 5,
-    "chapter": 4
+    "page": "87",
+    "section": "5",
+    "chapter": "4"
   },
   "4:55": {
     "id": "4:55",
@@ -18762,9 +18762,9 @@
     "explanations": [
       "4:55"
     ],
-    "page": 87,
-    "section": 5,
-    "chapter": 4
+    "page": "87",
+    "section": "5",
+    "chapter": "4"
   },
   "4:56": {
     "id": "4:56",
@@ -18796,9 +18796,9 @@
     "explanations": [
       "4:56"
     ],
-    "page": 87,
-    "section": 5,
-    "chapter": 4
+    "page": "87",
+    "section": "5",
+    "chapter": "4"
   },
   "4:57": {
     "id": "4:57",
@@ -18831,9 +18831,9 @@
     "explanations": [
       "4:57"
     ],
-    "page": 87,
-    "section": 5,
-    "chapter": 4
+    "page": "87",
+    "section": "5",
+    "chapter": "4"
   },
   "4:58": {
     "id": "4:58",
@@ -18872,9 +18872,9 @@
     "explanations": [
       "4:58"
     ],
-    "page": 87,
-    "section": 5,
-    "chapter": 4
+    "page": "87",
+    "section": "5",
+    "chapter": "4"
   },
   "4:59": {
     "id": "4:59",
@@ -18915,9 +18915,9 @@
     "explanations": [
       "4:59"
     ],
-    "page": 87,
-    "section": 5,
-    "chapter": 4
+    "page": "87",
+    "section": "5",
+    "chapter": "4"
   },
   "4:60": {
     "id": "4:60",
@@ -18959,9 +18959,9 @@
     "explanations": [
       "4:60"
     ],
-    "page": 88,
-    "section": 5,
-    "chapter": 4
+    "page": "88",
+    "section": "5",
+    "chapter": "4"
   },
   "4:61": {
     "id": "4:61",
@@ -18987,9 +18987,9 @@
     "explanations": [
       "4:61"
     ],
-    "page": 88,
-    "section": 5,
-    "chapter": 4
+    "page": "88",
+    "section": "5",
+    "chapter": "4"
   },
   "4:62": {
     "id": "4:62",
@@ -19016,9 +19016,9 @@
     "explanations": [
       "4:62"
     ],
-    "page": 88,
-    "section": 5,
-    "chapter": 4
+    "page": "88",
+    "section": "5",
+    "chapter": "4"
   },
   "4:63": {
     "id": "4:63",
@@ -19045,9 +19045,9 @@
     "explanations": [
       "4:63"
     ],
-    "page": 88,
-    "section": 5,
-    "chapter": 4
+    "page": "88",
+    "section": "5",
+    "chapter": "4"
   },
   "4:64": {
     "id": "4:64",
@@ -19082,9 +19082,9 @@
     "explanations": [
       "4:64"
     ],
-    "page": 88,
-    "section": 5,
-    "chapter": 4
+    "page": "88",
+    "section": "5",
+    "chapter": "4"
   },
   "4:65": {
     "id": "4:65",
@@ -19114,9 +19114,9 @@
     "explanations": [
       "4:65"
     ],
-    "page": 88,
-    "section": 5,
-    "chapter": 4
+    "page": "88",
+    "section": "5",
+    "chapter": "4"
   },
   "4:66": {
     "id": "4:66",
@@ -19155,9 +19155,9 @@
     "explanations": [
       "4:66"
     ],
-    "page": 89,
-    "section": 5,
-    "chapter": 4
+    "page": "89",
+    "section": "5",
+    "chapter": "4"
   },
   "4:67": {
     "id": "4:67",
@@ -19174,9 +19174,9 @@
     "explanations": [
       "4:67"
     ],
-    "page": 89,
-    "section": 5,
-    "chapter": 4
+    "page": "89",
+    "section": "5",
+    "chapter": "4"
   },
   "4:68": {
     "id": "4:68",
@@ -19190,9 +19190,9 @@
     "explanations": [
       "4:68"
     ],
-    "page": 89,
-    "section": 5,
-    "chapter": 4
+    "page": "89",
+    "section": "5",
+    "chapter": "4"
   },
   "4:69": {
     "id": "4:69",
@@ -19222,9 +19222,9 @@
     "explanations": [
       "4:69"
     ],
-    "page": 89,
-    "section": 5,
-    "chapter": 4
+    "page": "89",
+    "section": "5",
+    "chapter": "4"
   },
   "4:70": {
     "id": "4:70",
@@ -19243,9 +19243,9 @@
     "explanations": [
       "4:70"
     ],
-    "page": 89,
-    "section": 5,
-    "chapter": 4
+    "page": "89",
+    "section": "5",
+    "chapter": "4"
   },
   "4:71": {
     "id": "4:71",
@@ -19266,9 +19266,9 @@
     "explanations": [
       "4:71"
     ],
-    "page": 89,
-    "section": 5,
-    "chapter": 4
+    "page": "89",
+    "section": "5",
+    "chapter": "4"
   },
   "4:72": {
     "id": "4:72",
@@ -19296,9 +19296,9 @@
     "explanations": [
       "4:72"
     ],
-    "page": 89,
-    "section": 5,
-    "chapter": 4
+    "page": "89",
+    "section": "5",
+    "chapter": "4"
   },
   "4:73": {
     "id": "4:73",
@@ -19327,9 +19327,9 @@
     "explanations": [
       "4:73"
     ],
-    "page": 89,
-    "section": 5,
-    "chapter": 4
+    "page": "89",
+    "section": "5",
+    "chapter": "4"
   },
   "4:74": {
     "id": "4:74",
@@ -19363,9 +19363,9 @@
     "explanations": [
       "4:74"
     ],
-    "page": 89,
-    "section": 5,
-    "chapter": 4
+    "page": "89",
+    "section": "5",
+    "chapter": "4"
   },
   "4:75": {
     "id": "4:75",
@@ -19407,9 +19407,9 @@
     "explanations": [
       "4:75"
     ],
-    "page": 90,
-    "section": 5,
-    "chapter": 4
+    "page": "90",
+    "section": "5",
+    "chapter": "4"
   },
   "4:76": {
     "id": "4:76",
@@ -19442,9 +19442,9 @@
     "explanations": [
       "4:76"
     ],
-    "page": 90,
-    "section": 5,
-    "chapter": 4
+    "page": "90",
+    "section": "5",
+    "chapter": "4"
   },
   "4:77": {
     "id": "4:77",
@@ -19505,9 +19505,9 @@
     "explanations": [
       "4:77"
     ],
-    "page": 90,
-    "section": 5,
-    "chapter": 4
+    "page": "90",
+    "section": "5",
+    "chapter": "4"
   },
   "4:78": {
     "id": "4:78",
@@ -19558,9 +19558,9 @@
     "explanations": [
       "4:78"
     ],
-    "page": 90,
-    "section": 5,
-    "chapter": 4
+    "page": "90",
+    "section": "5",
+    "chapter": "4"
   },
   "4:79": {
     "id": "4:79",
@@ -19592,9 +19592,9 @@
     "explanations": [
       "4:79"
     ],
-    "page": 90,
-    "section": 5,
-    "chapter": 4
+    "page": "90",
+    "section": "5",
+    "chapter": "4"
   },
   "4:80": {
     "id": "4:80",
@@ -19618,9 +19618,9 @@
     "explanations": [
       "4:80"
     ],
-    "page": 91,
-    "section": 5,
-    "chapter": 4
+    "page": "91",
+    "section": "5",
+    "chapter": "4"
   },
   "4:81": {
     "id": "4:81",
@@ -19658,9 +19658,9 @@
     "explanations": [
       "4:81"
     ],
-    "page": 91,
-    "section": 5,
-    "chapter": 4
+    "page": "91",
+    "section": "5",
+    "chapter": "4"
   },
   "4:82": {
     "id": "4:82",
@@ -19685,9 +19685,9 @@
     "explanations": [
       "4:82"
     ],
-    "page": 91,
-    "section": 5,
-    "chapter": 4
+    "page": "91",
+    "section": "5",
+    "chapter": "4"
   },
   "4:83": {
     "id": "4:83",
@@ -19730,9 +19730,9 @@
     "explanations": [
       "4:83"
     ],
-    "page": 91,
-    "section": 5,
-    "chapter": 4
+    "page": "91",
+    "section": "5",
+    "chapter": "4"
   },
   "4:84": {
     "id": "4:84",
@@ -19768,9 +19768,9 @@
     "explanations": [
       "4:84"
     ],
-    "page": 91,
-    "section": 5,
-    "chapter": 4
+    "page": "91",
+    "section": "5",
+    "chapter": "4"
   },
   "4:85": {
     "id": "4:85",
@@ -19805,9 +19805,9 @@
     "explanations": [
       "4:85"
     ],
-    "page": 91,
-    "section": 5,
-    "chapter": 4
+    "page": "91",
+    "section": "5",
+    "chapter": "4"
   },
   "4:86": {
     "id": "4:86",
@@ -19834,9 +19834,9 @@
     "explanations": [
       "4:86"
     ],
-    "page": 91,
-    "section": 5,
-    "chapter": 4
+    "page": "91",
+    "section": "5",
+    "chapter": "4"
   },
   "4:87": {
     "id": "4:87",
@@ -19866,9 +19866,9 @@
     "explanations": [
       "4:87"
     ],
-    "page": 92,
-    "section": 5,
-    "chapter": 4
+    "page": "92",
+    "section": "5",
+    "chapter": "4"
   },
   "4:88": {
     "id": "4:88",
@@ -19904,9 +19904,9 @@
     "explanations": [
       "4:88"
     ],
-    "page": 92,
-    "section": 5,
-    "chapter": 4
+    "page": "92",
+    "section": "5",
+    "chapter": "4"
   },
   "4:89": {
     "id": "4:89",
@@ -19948,9 +19948,9 @@
     "explanations": [
       "4:89"
     ],
-    "page": 92,
-    "section": 5,
-    "chapter": 4
+    "page": "92",
+    "section": "5",
+    "chapter": "4"
   },
   "4:90": {
     "id": "4:90",
@@ -19999,9 +19999,9 @@
     "explanations": [
       "4:90"
     ],
-    "page": 92,
-    "section": 5,
-    "chapter": 4
+    "page": "92",
+    "section": "5",
+    "chapter": "4"
   },
   "4:91": {
     "id": "4:91",
@@ -20046,9 +20046,9 @@
     "explanations": [
       "4:91"
     ],
-    "page": 92,
-    "section": 5,
-    "chapter": 4
+    "page": "92",
+    "section": "5",
+    "chapter": "4"
   },
   "4:92": {
     "id": "4:92",
@@ -20124,9 +20124,9 @@
     "explanations": [
       "4:92"
     ],
-    "page": 93,
-    "section": 5,
-    "chapter": 4
+    "page": "93",
+    "section": "5",
+    "chapter": "4"
   },
   "4:93": {
     "id": "4:93",
@@ -20153,9 +20153,9 @@
     "explanations": [
       "4:93"
     ],
-    "page": 93,
-    "section": 5,
-    "chapter": 4
+    "page": "93",
+    "section": "5",
+    "chapter": "4"
   },
   "4:94": {
     "id": "4:94",
@@ -20207,9 +20207,9 @@
     "explanations": [
       "4:94"
     ],
-    "page": 93,
-    "section": 5,
-    "chapter": 4
+    "page": "93",
+    "section": "5",
+    "chapter": "4"
   },
   "4:95": {
     "id": "4:95",
@@ -20256,9 +20256,9 @@
     "explanations": [
       "4:95"
     ],
-    "page": 94,
-    "section": 5,
-    "chapter": 4
+    "page": "94",
+    "section": "5",
+    "chapter": "4"
   },
   "4:96": {
     "id": "4:96",
@@ -20278,9 +20278,9 @@
     "explanations": [
       "4:96"
     ],
-    "page": 94,
-    "section": 5,
-    "chapter": 4
+    "page": "94",
+    "section": "5",
+    "chapter": "4"
   },
   "4:97": {
     "id": "4:97",
@@ -20322,9 +20322,9 @@
     "explanations": [
       "4:97"
     ],
-    "page": 94,
-    "section": 5,
-    "chapter": 4
+    "page": "94",
+    "section": "5",
+    "chapter": "4"
   },
   "4:98": {
     "id": "4:98",
@@ -20347,9 +20347,9 @@
     "explanations": [
       "4:98"
     ],
-    "page": 94,
-    "section": 5,
-    "chapter": 4
+    "page": "94",
+    "section": "5",
+    "chapter": "4"
   },
   "4:99": {
     "id": "4:99",
@@ -20371,9 +20371,9 @@
     "explanations": [
       "4:99"
     ],
-    "page": 94,
-    "section": 5,
-    "chapter": 4
+    "page": "94",
+    "section": "5",
+    "chapter": "4"
   },
   "4:100": {
     "id": "4:100",
@@ -20418,9 +20418,9 @@
     "explanations": [
       "4:100"
     ],
-    "page": 94,
-    "section": 5,
-    "chapter": 4
+    "page": "94",
+    "section": "5",
+    "chapter": "4"
   },
   "4:101": {
     "id": "4:101",
@@ -20455,9 +20455,9 @@
     "explanations": [
       "4:101"
     ],
-    "page": 94,
-    "section": 5,
-    "chapter": 4
+    "page": "94",
+    "section": "5",
+    "chapter": "4"
   },
   "4:102": {
     "id": "4:102",
@@ -20535,9 +20535,9 @@
     "explanations": [
       "4:102"
     ],
-    "page": 95,
-    "section": 5,
-    "chapter": 4
+    "page": "95",
+    "section": "5",
+    "chapter": "4"
   },
   "4:103": {
     "id": "4:103",
@@ -20570,9 +20570,9 @@
     "explanations": [
       "4:103"
     ],
-    "page": 95,
-    "section": 5,
-    "chapter": 4
+    "page": "95",
+    "section": "5",
+    "chapter": "4"
   },
   "4:104": {
     "id": "4:104",
@@ -20608,9 +20608,9 @@
     "explanations": [
       "4:104"
     ],
-    "page": 95,
-    "section": 5,
-    "chapter": 4
+    "page": "95",
+    "section": "5",
+    "chapter": "4"
   },
   "4:105": {
     "id": "4:105",
@@ -20637,9 +20637,9 @@
     "explanations": [
       "4:105"
     ],
-    "page": 95,
-    "section": 5,
-    "chapter": 4
+    "page": "95",
+    "section": "5",
+    "chapter": "4"
   },
   "4:106": {
     "id": "4:106",
@@ -20658,9 +20658,9 @@
     "explanations": [
       "4:106"
     ],
-    "page": 96,
-    "section": 5,
-    "chapter": 4
+    "page": "96",
+    "section": "5",
+    "chapter": "4"
   },
   "4:107": {
     "id": "4:107",
@@ -20686,9 +20686,9 @@
     "explanations": [
       "4:107"
     ],
-    "page": 96,
-    "section": 5,
-    "chapter": 4
+    "page": "96",
+    "section": "5",
+    "chapter": "4"
   },
   "4:108": {
     "id": "4:108",
@@ -20721,9 +20721,9 @@
     "explanations": [
       "4:108"
     ],
-    "page": 96,
-    "section": 5,
-    "chapter": 4
+    "page": "96",
+    "section": "5",
+    "chapter": "4"
   },
   "4:109": {
     "id": "4:109",
@@ -20752,9 +20752,9 @@
     "explanations": [
       "4:109"
     ],
-    "page": 96,
-    "section": 5,
-    "chapter": 4
+    "page": "96",
+    "section": "5",
+    "chapter": "4"
   },
   "4:110": {
     "id": "4:110",
@@ -20778,9 +20778,9 @@
     "explanations": [
       "4:110"
     ],
-    "page": 96,
-    "section": 5,
-    "chapter": 4
+    "page": "96",
+    "section": "5",
+    "chapter": "4"
   },
   "4:111": {
     "id": "4:111",
@@ -20803,9 +20803,9 @@
     "explanations": [
       "4:111"
     ],
-    "page": 96,
-    "section": 5,
-    "chapter": 4
+    "page": "96",
+    "section": "5",
+    "chapter": "4"
   },
   "4:112": {
     "id": "4:112",
@@ -20830,9 +20830,9 @@
     "explanations": [
       "4:112"
     ],
-    "page": 96,
-    "section": 5,
-    "chapter": 4
+    "page": "96",
+    "section": "5",
+    "chapter": "4"
   },
   "4:113": {
     "id": "4:113",
@@ -20879,9 +20879,9 @@
     "explanations": [
       "4:113"
     ],
-    "page": 96,
-    "section": 5,
-    "chapter": 4
+    "page": "96",
+    "section": "5",
+    "chapter": "4"
   },
   "4:114": {
     "id": "4:114",
@@ -20920,9 +20920,9 @@
     "explanations": [
       "4:114"
     ],
-    "page": 97,
-    "section": 5,
-    "chapter": 4
+    "page": "97",
+    "section": "5",
+    "chapter": "4"
   },
   "4:115": {
     "id": "4:115",
@@ -20954,9 +20954,9 @@
     "explanations": [
       "4:115"
     ],
-    "page": 97,
-    "section": 5,
-    "chapter": 4
+    "page": "97",
+    "section": "5",
+    "chapter": "4"
   },
   "4:116": {
     "id": "4:116",
@@ -20988,9 +20988,9 @@
     "explanations": [
       "4:116"
     ],
-    "page": 97,
-    "section": 5,
-    "chapter": 4
+    "page": "97",
+    "section": "5",
+    "chapter": "4"
   },
   "4:117": {
     "id": "4:117",
@@ -21012,9 +21012,9 @@
     "explanations": [
       "4:117"
     ],
-    "page": 97,
-    "section": 5,
-    "chapter": 4
+    "page": "97",
+    "section": "5",
+    "chapter": "4"
   },
   "4:118": {
     "id": "4:118",
@@ -21034,9 +21034,9 @@
     "explanations": [
       "4:118"
     ],
-    "page": 97,
-    "section": 5,
-    "chapter": 4
+    "page": "97",
+    "section": "5",
+    "chapter": "4"
   },
   "4:119": {
     "id": "4:119",
@@ -21069,9 +21069,9 @@
     "explanations": [
       "4:119"
     ],
-    "page": 97,
-    "section": 5,
-    "chapter": 4
+    "page": "97",
+    "section": "5",
+    "chapter": "4"
   },
   "4:120": {
     "id": "4:120",
@@ -21090,9 +21090,9 @@
     "explanations": [
       "4:120"
     ],
-    "page": 97,
-    "section": 5,
-    "chapter": 4
+    "page": "97",
+    "section": "5",
+    "chapter": "4"
   },
   "4:121": {
     "id": "4:121",
@@ -21110,9 +21110,9 @@
     "explanations": [
       "4:121"
     ],
-    "page": 97,
-    "section": 5,
-    "chapter": 4
+    "page": "97",
+    "section": "5",
+    "chapter": "4"
   },
   "4:122": {
     "id": "4:122",
@@ -21146,9 +21146,9 @@
     "explanations": [
       "4:122"
     ],
-    "page": 98,
-    "section": 5,
-    "chapter": 4
+    "page": "98",
+    "section": "5",
+    "chapter": "4"
   },
   "4:123": {
     "id": "4:123",
@@ -21180,9 +21180,9 @@
     "explanations": [
       "4:123"
     ],
-    "page": 98,
-    "section": 5,
-    "chapter": 4
+    "page": "98",
+    "section": "5",
+    "chapter": "4"
   },
   "4:124": {
     "id": "4:124",
@@ -21209,9 +21209,9 @@
     "explanations": [
       "4:124"
     ],
-    "page": 98,
-    "section": 5,
-    "chapter": 4
+    "page": "98",
+    "section": "5",
+    "chapter": "4"
   },
   "4:125": {
     "id": "4:125",
@@ -21240,9 +21240,9 @@
     "explanations": [
       "4:125"
     ],
-    "page": 98,
-    "section": 5,
-    "chapter": 4
+    "page": "98",
+    "section": "5",
+    "chapter": "4"
   },
   "4:126": {
     "id": "4:126",
@@ -21266,9 +21266,9 @@
     "explanations": [
       "4:126"
     ],
-    "page": 98,
-    "section": 5,
-    "chapter": 4
+    "page": "98",
+    "section": "5",
+    "chapter": "4"
   },
   "4:127": {
     "id": "4:127",
@@ -21321,9 +21321,9 @@
     "explanations": [
       "4:127"
     ],
-    "page": 98,
-    "section": 5,
-    "chapter": 4
+    "page": "98",
+    "section": "5",
+    "chapter": "4"
   },
   "4:128": {
     "id": "4:128",
@@ -21366,9 +21366,9 @@
     "explanations": [
       "4:128"
     ],
-    "page": 99,
-    "section": 5,
-    "chapter": 4
+    "page": "99",
+    "section": "5",
+    "chapter": "4"
   },
   "4:129": {
     "id": "4:129",
@@ -21403,9 +21403,9 @@
     "explanations": [
       "4:129"
     ],
-    "page": 99,
-    "section": 5,
-    "chapter": 4
+    "page": "99",
+    "section": "5",
+    "chapter": "4"
   },
   "4:130": {
     "id": "4:130",
@@ -21428,9 +21428,9 @@
     "explanations": [
       "4:130"
     ],
-    "page": 99,
-    "section": 5,
-    "chapter": 4
+    "page": "99",
+    "section": "5",
+    "chapter": "4"
   },
   "4:131": {
     "id": "4:131",
@@ -21476,9 +21476,9 @@
     "explanations": [
       "4:131"
     ],
-    "page": 99,
-    "section": 5,
-    "chapter": 4
+    "page": "99",
+    "section": "5",
+    "chapter": "4"
   },
   "4:132": {
     "id": "4:132",
@@ -21500,9 +21500,9 @@
     "explanations": [
       "4:132"
     ],
-    "page": 99,
-    "section": 5,
-    "chapter": 4
+    "page": "99",
+    "section": "5",
+    "chapter": "4"
   },
   "4:133": {
     "id": "4:133",
@@ -21526,9 +21526,9 @@
     "explanations": [
       "4:133"
     ],
-    "page": 99,
-    "section": 5,
-    "chapter": 4
+    "page": "99",
+    "section": "5",
+    "chapter": "4"
   },
   "4:134": {
     "id": "4:134",
@@ -21554,9 +21554,9 @@
     "explanations": [
       "4:134"
     ],
-    "page": 99,
-    "section": 5,
-    "chapter": 4
+    "page": "99",
+    "section": "5",
+    "chapter": "4"
   },
   "4:135": {
     "id": "4:135",
@@ -21608,9 +21608,9 @@
     "explanations": [
       "4:135"
     ],
-    "page": 100,
-    "section": 5,
-    "chapter": 4
+    "page": "100",
+    "section": "5",
+    "chapter": "4"
   },
   "4:136": {
     "id": "4:136",
@@ -21650,9 +21650,9 @@
     "explanations": [
       "4:136"
     ],
-    "page": 100,
-    "section": 5,
-    "chapter": 4
+    "page": "100",
+    "section": "5",
+    "chapter": "4"
   },
   "4:137": {
     "id": "4:137",
@@ -21683,9 +21683,9 @@
     "explanations": [
       "4:137"
     ],
-    "page": 100,
-    "section": 5,
-    "chapter": 4
+    "page": "100",
+    "section": "5",
+    "chapter": "4"
   },
   "4:138": {
     "id": "4:138",
@@ -21702,9 +21702,9 @@
     "explanations": [
       "4:138"
     ],
-    "page": 100,
-    "section": 5,
-    "chapter": 4
+    "page": "100",
+    "section": "5",
+    "chapter": "4"
   },
   "4:139": {
     "id": "4:139",
@@ -21730,9 +21730,9 @@
     "explanations": [
       "4:139"
     ],
-    "page": 100,
-    "section": 5,
-    "chapter": 4
+    "page": "100",
+    "section": "5",
+    "chapter": "4"
   },
   "4:140": {
     "id": "4:140",
@@ -21777,9 +21777,9 @@
     "explanations": [
       "4:140"
     ],
-    "page": 100,
-    "section": 5,
-    "chapter": 4
+    "page": "100",
+    "section": "5",
+    "chapter": "4"
   },
   "4:141": {
     "id": "4:141",
@@ -21828,9 +21828,9 @@
     "explanations": [
       "4:141"
     ],
-    "page": 101,
-    "section": 5,
-    "chapter": 4
+    "page": "101",
+    "section": "5",
+    "chapter": "4"
   },
   "4:142": {
     "id": "4:142",
@@ -21860,9 +21860,9 @@
     "explanations": [
       "4:142"
     ],
-    "page": 101,
-    "section": 5,
-    "chapter": 4
+    "page": "101",
+    "section": "5",
+    "chapter": "4"
   },
   "4:143": {
     "id": "4:143",
@@ -21890,9 +21890,9 @@
     "explanations": [
       "4:143"
     ],
-    "page": 101,
-    "section": 5,
-    "chapter": 4
+    "page": "101",
+    "section": "5",
+    "chapter": "4"
   },
   "4:144": {
     "id": "4:144",
@@ -21921,9 +21921,9 @@
     "explanations": [
       "4:144"
     ],
-    "page": 101,
-    "section": 5,
-    "chapter": 4
+    "page": "101",
+    "section": "5",
+    "chapter": "4"
   },
   "4:145": {
     "id": "4:145",
@@ -21945,9 +21945,9 @@
     "explanations": [
       "4:145"
     ],
-    "page": 101,
-    "section": 5,
-    "chapter": 4
+    "page": "101",
+    "section": "5",
+    "chapter": "4"
   },
   "4:146": {
     "id": "4:146",
@@ -21977,9 +21977,9 @@
     "explanations": [
       "4:146"
     ],
-    "page": 101,
-    "section": 5,
-    "chapter": 4
+    "page": "101",
+    "section": "5",
+    "chapter": "4"
   },
   "4:147": {
     "id": "4:147",
@@ -22002,9 +22002,9 @@
     "explanations": [
       "4:147"
     ],
-    "page": 101,
-    "section": 5,
-    "chapter": 4
+    "page": "101",
+    "section": "5",
+    "chapter": "4"
   },
   "4:148": {
     "id": "4:148",
@@ -22031,9 +22031,9 @@
     "explanations": [
       "4:148"
     ],
-    "page": 102,
-    "section": 6,
-    "chapter": 4
+    "page": "102",
+    "section": "6",
+    "chapter": "4"
   },
   "4:149": {
     "id": "4:149",
@@ -22058,9 +22058,9 @@
     "explanations": [
       "4:149"
     ],
-    "page": 102,
-    "section": 6,
-    "chapter": 4
+    "page": "102",
+    "section": "6",
+    "chapter": "4"
   },
   "4:150": {
     "id": "4:150",
@@ -22093,9 +22093,9 @@
     "explanations": [
       "4:150"
     ],
-    "page": 102,
-    "section": 6,
-    "chapter": 4
+    "page": "102",
+    "section": "6",
+    "chapter": "4"
   },
   "4:151": {
     "id": "4:151",
@@ -22115,9 +22115,9 @@
     "explanations": [
       "4:151"
     ],
-    "page": 102,
-    "section": 6,
-    "chapter": 4
+    "page": "102",
+    "section": "6",
+    "chapter": "4"
   },
   "4:152": {
     "id": "4:152",
@@ -22146,9 +22146,9 @@
     "explanations": [
       "4:152"
     ],
-    "page": 102,
-    "section": 6,
-    "chapter": 4
+    "page": "102",
+    "section": "6",
+    "chapter": "4"
   },
   "4:153": {
     "id": "4:153",
@@ -22199,9 +22199,9 @@
     "explanations": [
       "4:153"
     ],
-    "page": 102,
-    "section": 6,
-    "chapter": 4
+    "page": "102",
+    "section": "6",
+    "chapter": "4"
   },
   "4:154": {
     "id": "4:154",
@@ -22231,9 +22231,9 @@
     "explanations": [
       "4:154"
     ],
-    "page": 102,
-    "section": 6,
-    "chapter": 4
+    "page": "102",
+    "section": "6",
+    "chapter": "4"
   },
   "4:155": {
     "id": "4:155",
@@ -22267,9 +22267,9 @@
     "explanations": [
       "4:155"
     ],
-    "page": 103,
-    "section": 6,
-    "chapter": 4
+    "page": "103",
+    "section": "6",
+    "chapter": "4"
   },
   "4:156": {
     "id": "4:156",
@@ -22286,9 +22286,9 @@
     "explanations": [
       "4:156"
     ],
-    "page": 103,
-    "section": 6,
-    "chapter": 4
+    "page": "103",
+    "section": "6",
+    "chapter": "4"
   },
   "4:157": {
     "id": "4:157",
@@ -22336,9 +22336,9 @@
     "explanations": [
       "4:157"
     ],
-    "page": 103,
-    "section": 6,
-    "chapter": 4
+    "page": "103",
+    "section": "6",
+    "chapter": "4"
   },
   "4:158": {
     "id": "4:158",
@@ -22358,9 +22358,9 @@
     "explanations": [
       "4:158"
     ],
-    "page": 103,
-    "section": 6,
-    "chapter": 4
+    "page": "103",
+    "section": "6",
+    "chapter": "4"
   },
   "4:159": {
     "id": "4:159",
@@ -22386,9 +22386,9 @@
     "explanations": [
       "4:159"
     ],
-    "page": 103,
-    "section": 6,
-    "chapter": 4
+    "page": "103",
+    "section": "6",
+    "chapter": "4"
   },
   "4:160": {
     "id": "4:160",
@@ -22413,9 +22413,9 @@
     "explanations": [
       "4:160"
     ],
-    "page": 103,
-    "section": 6,
-    "chapter": 4
+    "page": "103",
+    "section": "6",
+    "chapter": "4"
   },
   "4:161": {
     "id": "4:161",
@@ -22441,9 +22441,9 @@
     "explanations": [
       "4:161"
     ],
-    "page": 103,
-    "section": 6,
-    "chapter": 4
+    "page": "103",
+    "section": "6",
+    "chapter": "4"
   },
   "4:162": {
     "id": "4:162",
@@ -22482,9 +22482,9 @@
     "explanations": [
       "4:162"
     ],
-    "page": 103,
-    "section": 6,
-    "chapter": 4
+    "page": "103",
+    "section": "6",
+    "chapter": "4"
   },
   "4:163": {
     "id": "4:163",
@@ -22523,9 +22523,9 @@
     "explanations": [
       "4:163"
     ],
-    "page": 104,
-    "section": 6,
-    "chapter": 4
+    "page": "104",
+    "section": "6",
+    "chapter": "4"
   },
   "4:164": {
     "id": "4:164",
@@ -22551,9 +22551,9 @@
     "explanations": [
       "4:164"
     ],
-    "page": 104,
-    "section": 6,
-    "chapter": 4
+    "page": "104",
+    "section": "6",
+    "chapter": "4"
   },
   "4:165": {
     "id": "4:165",
@@ -22580,9 +22580,9 @@
     "explanations": [
       "4:165"
     ],
-    "page": 104,
-    "section": 6,
-    "chapter": 4
+    "page": "104",
+    "section": "6",
+    "chapter": "4"
   },
   "4:166": {
     "id": "4:166",
@@ -22609,9 +22609,9 @@
     "explanations": [
       "4:166"
     ],
-    "page": 104,
-    "section": 6,
-    "chapter": 4
+    "page": "104",
+    "section": "6",
+    "chapter": "4"
   },
   "4:167": {
     "id": "4:167",
@@ -22633,9 +22633,9 @@
     "explanations": [
       "4:167"
     ],
-    "page": 104,
-    "section": 6,
-    "chapter": 4
+    "page": "104",
+    "section": "6",
+    "chapter": "4"
   },
   "4:168": {
     "id": "4:168",
@@ -22658,9 +22658,9 @@
     "explanations": [
       "4:168"
     ],
-    "page": 104,
-    "section": 6,
-    "chapter": 4
+    "page": "104",
+    "section": "6",
+    "chapter": "4"
   },
   "4:169": {
     "id": "4:169",
@@ -22683,9 +22683,9 @@
     "explanations": [
       "4:169"
     ],
-    "page": 104,
-    "section": 6,
-    "chapter": 4
+    "page": "104",
+    "section": "6",
+    "chapter": "4"
   },
   "4:170": {
     "id": "4:170",
@@ -22721,9 +22721,9 @@
     "explanations": [
       "4:170"
     ],
-    "page": 104,
-    "section": 6,
-    "chapter": 4
+    "page": "104",
+    "section": "6",
+    "chapter": "4"
   },
   "4:171": {
     "id": "4:171",
@@ -22795,9 +22795,9 @@
     "explanations": [
       "4:171"
     ],
-    "page": 105,
-    "section": 6,
-    "chapter": 4
+    "page": "105",
+    "section": "6",
+    "chapter": "4"
   },
   "4:172": {
     "id": "4:172",
@@ -22827,9 +22827,9 @@
     "explanations": [
       "4:172"
     ],
-    "page": 105,
-    "section": 6,
-    "chapter": 4
+    "page": "105",
+    "section": "6",
+    "chapter": "4"
   },
   "4:173": {
     "id": "4:173",
@@ -22867,9 +22867,9 @@
     "explanations": [
       "4:173"
     ],
-    "page": 105,
-    "section": 6,
-    "chapter": 4
+    "page": "105",
+    "section": "6",
+    "chapter": "4"
   },
   "4:174": {
     "id": "4:174",
@@ -22891,9 +22891,9 @@
     "explanations": [
       "4:174"
     ],
-    "page": 105,
-    "section": 6,
-    "chapter": 4
+    "page": "105",
+    "section": "6",
+    "chapter": "4"
   },
   "4:175": {
     "id": "4:175",
@@ -22919,9 +22919,9 @@
     "explanations": [
       "4:175"
     ],
-    "page": 105,
-    "section": 6,
-    "chapter": 4
+    "page": "105",
+    "section": "6",
+    "chapter": "4"
   },
   "4:176": {
     "id": "4:176",
@@ -22988,8 +22988,8 @@
     "explanations": [
       "4:176"
     ],
-    "page": 106,
-    "section": 6,
-    "chapter": 4
+    "page": "106",
+    "section": "6",
+    "chapter": "4"
   }
 }
