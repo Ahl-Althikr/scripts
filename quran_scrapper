@@ -64,7 +64,7 @@ args = parser.parse_args()
 URL = 'https://web.mushafmakkah.com/#!/?sura='+str(args.chapter_start)+'&aya='+str(args.verse_start)+'&lang=ar'
 FILE_NAME = args.file_prefix + '{0}.json'
 TEXT_ATTR = 'innerText'
-NO_BASMALA = (1, 9)
+NO_BASMALA_CHAPTERS = ('1', '9')
 LOG_WIDTH = 20
 
 # ------------------------------------------------
@@ -272,8 +272,8 @@ languages = {
 # Track Data
 # ------------------------------------------------
 
-current_chapter = 0
-current_section = 0
+current_chapter_id = '0'
+current_section_id = '0'
 
 # ------------------------------------------------
 # Read Exisitng Data
@@ -288,10 +288,10 @@ try:
         pages = json.load(pages_file)
     with open(FILE_NAME.format('chapters')) as chapters_file:
         chapters = json.load(chapters_file)
-        current_chapter = list(chapters.keys())[-1]
+        current_chapter_id = list(chapters.keys())[-1]
     with open(FILE_NAME.format('sections')) as sections_file:
         sections = json.load(sections_file)
-        current_section = list(sections.keys())[-1]
+        current_section_id = list(sections.keys())[-1]
     with open(FILE_NAME.format('explanations')) as explanations_file:
         explanations = json.load(explanations_file)
 except:
@@ -306,7 +306,7 @@ if __name__ != '__main__':
 try:
     click_element(get_explanation_tab_element())
 
-    for page_element in get_page_list_elements()[args.page_start-1:args.page_end-1]:
+    for page_element in get_page_list_elements()[args.page_start-1:args.page_end]:
         click_element(page_element.find_element_by_css_selector(PAGE_CLICK))
 
         page_number = get_page_number(page_element)
@@ -361,14 +361,14 @@ try:
                 'chapter': chapter_id,
             }
 
-            if chapter_id != current_chapter:
-                current_chapter = chapter_id
+            if chapter_id != current_chapter_id:
+                current_chapter_id = chapter_id
                 chapters[chapter_id] = {
                     'id': chapter_id,
                     'number': chapter_number,
                     'name': get_chapter_name(active_chapter),
                     'aranic_unicode': get_chapter_arabic_unicode(active_chapter),
-                    'basmalah': chapter_id not in NO_BASMALA,
+                    'basmalah': chapter_id not in NO_BASMALA_CHAPTERS,
                     
                     'verses': set([]),
                     'pages': set([]),
@@ -376,8 +376,8 @@ try:
                 }
 
                 log('Chapter', chapter_id, "-")
-            if section_id != current_section:
-                current_section = section_id
+            if section_id != current_section_id:
+                current_section_id = section_id
                 sections[section_id] = {
                     'id': section_id,
                     
@@ -398,8 +398,8 @@ try:
             ensure_set(sections[section_id], 'verses').add(verse_id)
             ensure_set(pages[page_id], 'verses').add(verse_id)
 
-            ensure_set(chapters[current_chapter], 'pages').add(page_id)
-            ensure_set(sections[current_section], 'pages').add(page_id)
+            ensure_set(chapters[current_chapter_id], 'pages').add(page_id)
+            ensure_set(sections[current_section_id], 'pages').add(page_id)
 
             log('Verse', verse_id)
 except (KeyboardInterrupt, SystemExit):
