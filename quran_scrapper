@@ -111,9 +111,12 @@ def click_element(element):
     except:
         driver.execute_script('arguments[0].click();', element)
 
+def verse_just(verse):
+    return args.delimiter.join([x.rjust(3, '0') for x in verse.split(args.delimiter)])
+
 def set_default(obj):
     if isinstance(obj, set):
-        return sorted(obj, key=lambda item: sum([int(x) for x in item.split(args.delimiter)]))
+        return sorted(obj, key=verse_just)
     raise TypeError
 
 def ensure_set(obj, key):
