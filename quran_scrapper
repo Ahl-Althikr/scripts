@@ -49,6 +49,7 @@ parser.add_argument('-f', '--file-prefix', help='Set file name prefix', default=
 parser.add_argument('-i', '--indent', help='Set output indentation', type=int, default=2)
 parser.add_argument('-ps', '--page-start', help='Fetch from page', type=int, default=1)
 parser.add_argument('-pe', '--page-end', help='Fetch to page', type=int, default=604)
+parser.add_argument('-d', '--delimiter', help='Verse delimiter', default=':')
 
 args = parser.parse_args()
 
@@ -110,7 +111,7 @@ def click_element(element):
 
 def set_default(obj):
     if isinstance(obj, set):
-        return list(obj)
+        return sorted(obj, key=lambda item: sum([int(x) for x in item.split(args.delimiter)]))
     raise TypeError
 
 def ensure_set(obj, key):
@@ -305,7 +306,7 @@ try:
             'id': page_id,
             'number': page_number,
 
-            'verses': [],
+            'verses': set([]),
             'chapters': set([]),
             'sections': set([]),
         }
@@ -323,7 +324,7 @@ try:
             chapter_number = get_chapter_number(active_chapter)
             section_number = get_section_number()
 
-            verse_id = str(chapter_number) + ':' + str(verse_number)
+            verse_id = str(chapter_number) + args.delimiter + str(verse_number)
             explanation_id = verse_id
             chapter_id = str(chapter_number)
             section_id = str(section_number)
@@ -360,8 +361,8 @@ try:
                     'aranic_unicode': get_chapter_arabic_unicode(active_chapter),
                     'basmalah': chapter_id not in NO_BASMALA,
                     
-                    'verses': [],
-                    'pages': [],
+                    'verses': set([]),
+                    'pages': set([]),
                     'sections': set([]),
                 }
 
@@ -371,8 +372,8 @@ try:
                 sections[section_id] = {
                     'id': section_id,
                     
-                    'verses': [],
-                    'pages': [],
+                    'verses': set([]),
+                    'pages': set([]),
                     'chapters': set([]),
                 }
 
@@ -384,14 +385,14 @@ try:
             ensure_set(sections[section_id], 'chapters').add(chapter_id)
             ensure_set(pages[page_id], 'chapters').add(chapter_id)
 
-            chapters[chapter_id]['verses'].append(verse_id)
-            sections[section_id]['verses'].append(verse_id)
-            pages[page_id]['verses'].append(verse_id)
+            ensure_set(chapters[chapter_id], 'verses').add(verse_id)
+            ensure_set(sections[section_id], 'verses').add(verse_id)
+            ensure_set(pages[page_id], 'verses').add(verse_id)
 
             log('Verse', verse_id)
         
-        chapters[current_chapter]['pages'].append(page_id)
-        sections[current_section]['pages'].append(page_id)
+        ensure_set(chapters[current_chapter], 'pages').add(page_id)
+        ensure_set(sections[current_section], 'pages').add(page_id)
 except (KeyboardInterrupt, SystemExit):
     pass
 finally:
