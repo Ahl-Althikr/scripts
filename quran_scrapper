@@ -46,7 +46,7 @@ parser.add_argument('-f', '--fonts', help='Show fonts', action='store_true')
 parser.add_argument('-d', '--delimiter', help='Set verse delimiter', default=':')
 parser.add_argument('-i', '--indent', help='Set output indentation', type=int, default=2)
 
-parser.add_argument('-fp', '--file-prefix', help='Set file name prefix', default='data/quran_')
+parser.add_argument('-fp', '--file-prefix', help='Set file name prefix', default='quran_scrapper_data/quran_')
 parser.add_argument('-ps', '--page-start', help='Fetch from page', type=int, default=1)
 parser.add_argument('-cs', '--chapter-start', help='Fetch from chapter', type=int, default=1)
 parser.add_argument('-vs', '--verse-start', help='Fetch from verse', type=int, default=1)
