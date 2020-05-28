@@ -141,7 +141,7 @@ VERSE_BASMALA = 'img.bismalah'
 VERSE_ARABIC_UNICODE_LIST = 'span.page_{0}'
 VERSE_EXPLANATION_NAME = 'span.TafseerText span.tafsir-title'
 VERSE_EXPLANATION_TEXT = 'span.TafseerText span.TafseerText'
-VERSE_CLICK = 'span'
+VERSE_CLICK = 'span.page_{0}'
 VERSE_WAIT = 'div#page_{0} span.aya.ayaActive:nth-child({1})'
 
 ACTIVE_SECTION = '#main_home_title > a'
@@ -320,7 +320,7 @@ try:
         wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, PAGE_WAIT.format(page_number))))
 
         for verse_index, verse_element in enumerate(get_verse_list_elements(page_number), 1):
-            click_element(verse_element.find_element_by_css_selector(VERSE_CLICK))
+            click_element(verse_element.find_element_by_css_selector(VERSE_CLICK.format(page_number)))
             wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, VERSE_WAIT.format(page_number, verse_index))))
 
             active_chapter = get_active_chapter_element()
