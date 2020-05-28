@@ -4,7 +4,7 @@
     "number": 1,
     "name": "Al-Faatiha",
     "aranic_unicode": "\ufb8d",
-    "basmalah": true,
+    "basmalah": false,
     "verses": [
       "1:1",
       "1:2",
@@ -1547,7 +1547,7 @@
     "number": 9,
     "name": "At-Tawba",
     "aranic_unicode": "\ufb95",
-    "basmalah": true,
+    "basmalah": false,
     "verses": [
       "9:1",
       "9:2",
