@@ -49,7 +49,7 @@ if not os.path.exists(args.directory):
 for page_number in range(args.page_start, args.page_end + 1):
     page_url = URL.format(page_number)
     page_request = requests.get(page_url)
-    page_file = open(FILE_NAME.format(page_number), 'w')
-    page_file.write(page_request.text)
+    page_file = open(FILE_NAME.format(page_number), 'wb')
+    page_file.write(page_request.content)
     page_file.close()
     log('Page', page_number)
