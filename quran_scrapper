@@ -39,7 +39,8 @@ import argparse
 # Command Line Arguments
 # ------------------------------------------------
 parser = argparse.ArgumentParser(description='Scrap the Mushafmakkah Quran Web App')
-parser.add_argument('-hd', '--headless', help='Run scrapping with headless browser', action='store_true')
+parser.add_argument('-b', '--browser', help='Show browser', action='store_true')
+parser.add_argument('-ttf', '--fonts', help='Show fonts', action='store_true')
 parser.add_argument('-l', '--log', help='Log scrapping data in realtime', action='store_true')
 parser.add_argument('-lwd', '--log-width', help='Log width size', type=int, default=20)
 parser.add_argument('-qw', '--query-wait', help='Set query wait time out', type=float, default=10)
@@ -72,7 +73,7 @@ chrome_options.add_argument('--start-maximized')
 chrome_options.add_argument('--disable-notifications')
 chrome_options.add_argument('--disable-extensions')
 
-if args.headless:
+if not args.browser:
     chrome_options.add_argument('--headless')
 
 chrome_options.experimental_options['prefs'] = {
@@ -90,7 +91,7 @@ driver = webdriver.Chrome(options=chrome_options)
 driver.set_page_load_timeout(args.load_wait)
 driver.set_script_timeout(args.script_wait)
 driver.rewrite_rules = [
-    (r'(https?://).*(mp3|reciters|ttf|woff2|woff|png|gif|svg|jpg).*', 'http://127.0.0.1')
+    (r'(https?://).*(mp3|reciters|woff2|woff|png|gif|svg|jpg).*' if args.fonts else r'(https?://).*(mp3|reciters|ttf|woff2|woff|png|gif|svg|jpg).*', 'http://127.0.0.1')
 ]
 
 wait = WebDriverWait(driver, args.query_wait)
@@ -394,10 +395,10 @@ try:
             ensure_set(sections[section_id], 'verses').add(verse_id)
             ensure_set(pages[page_id], 'verses').add(verse_id)
 
+            ensure_set(chapters[current_chapter], 'pages').add(page_id)
+            ensure_set(sections[current_section], 'pages').add(page_id)
+
             log('Verse', verse_id)
-        
-        ensure_set(chapters[current_chapter], 'pages').add(page_id)
-        ensure_set(sections[current_section], 'pages').add(page_id)
 except (KeyboardInterrupt, SystemExit):
     pass
 finally:
