@@ -47,6 +47,8 @@ parser.add_argument('-sw', '--script-wait', help='Set script wait time out', typ
 parser.add_argument('-lw', '--load-wait', help='Set load wait time out', type=float, default=10)
 parser.add_argument('-f', '--file-prefix', help='Set file name prefix', default='data/quran_')
 parser.add_argument('-i', '--indent', help='Set output indentation', type=int, default=2)
+parser.add_argument('-ps', '--page-start', help='Fetch from page', type=int, default=1)
+parser.add_argument('-pe', '--page-end', help='Fetch to page', type=int, default=604)
 
 args = parser.parse_args()
 
@@ -110,6 +112,11 @@ def set_default(obj):
     if isinstance(obj, set):
         return list(obj)
     raise TypeError
+
+def ensure_set(obj, key):
+    if isinstance(obj[key], list):
+        obj[key] = set(obj[key])
+    return obj[key]
 
 # ------------------------------------------------
 # Selectors
@@ -252,6 +259,26 @@ languages = {
 }
 
 # ------------------------------------------------
+# Read Exisitng Data
+# ------------------------------------------------
+    
+try:
+    with open(FILE_NAME.format('languages')) as languages_file:
+        languages = json.load(languages_file)
+    with open(FILE_NAME.format('verses')) as verses_file:
+        verses = json.load(verses_file)
+    with open(FILE_NAME.format('pages')) as pages_file:
+        pages = json.load(pages_file)
+    with open(FILE_NAME.format('chapters')) as chapters_file:
+        chapters = json.load(chapters_file)
+    with open(FILE_NAME.format('sections')) as sections_file:
+        sections = json.load(sections_file)
+    with open(FILE_NAME.format('explanations')) as explanations_file:
+        explanations = json.load(explanations_file)
+except:
+    pass
+
+# ------------------------------------------------
 # Scrapping
 # ------------------------------------------------
 
@@ -263,7 +290,7 @@ try:
 
     click_element(get_explanation_tab_element())
 
-    for page_element in get_page_list_elements():
+    for page_element in get_page_list_elements()[args.page_start-1:args.page_end-1]:
         click_element(page_element.find_element_by_css_selector(PAGE_CLICK))
 
         page_number = get_page_number(page_element)
@@ -345,11 +372,11 @@ try:
 
                 log('Section', section_id, "*")
 
-            chapters[chapter_id]['sections'].add(section_id)
-            pages[page_id]['sections'].add(section_id)
+            ensure_set(chapters[chapter_id], 'sections').add(section_id)
+            ensure_set(pages[page_id], 'sections').add(section_id)
             
-            sections[section_id]['chapters'].add(chapter_id)
-            pages[page_id]['chapters'].add(chapter_id)    
+            ensure_set(sections[section_id], 'chapters').add(chapter_id)
+            ensure_set(pages[page_id], 'chapters').add(chapter_id)
 
             chapters[chapter_id]['verses'].append(verse_id)
             sections[section_id]['verses'].append(verse_id)
