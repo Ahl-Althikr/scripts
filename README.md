@@ -6,7 +6,7 @@ These are general scripts used for development.
 
 ### Requirements
 
-Python: 3.7.3+
+Python: 3.7.3+  
 Pip: 19.0.3+
 
 ### Install
