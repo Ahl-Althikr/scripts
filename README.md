@@ -2,8 +2,6 @@
 
 These are general scripts used for development.
 
-## Quran Scrapper
-
 ### Requirements
 
 Python: 3.7.3+  
@@ -15,7 +13,7 @@ Pip: 19.0.3+
 pip install -r requirements.txt
 ```
 
-### Use Case
+## Quran Scrapper
 
 This script is used to scrap `web.mushafmakkah.com` for quranic verse data that include information about:
 
@@ -36,3 +34,7 @@ The data is used to generate three JSON data structures:
 1. JSON by surah: where data is grouped by surah number
 2. JSON by page: where data is grouped by page number
 3. JSON by juzi: : where data is grouped by juzi number
+
+## Quran Fonts
+
+This script is used to download quran page fonts from `web.mushafmakkah.com`

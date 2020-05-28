@@ -1,0 +1,55 @@
+#!/usr/bin/env python3
+
+"""
+AUTHOR: Abdelrahman Salem
+DATE: May 26, 2020
+------------------------------------------------
+USE CASE STATEMENT
+------------------------------------------------
+This script is used to download quran page fonts from `web.mushafmakkah.com`
+"""
+
+import requests
+import argparse
+import os
+
+# ------------------------------------------------
+# Command Line Arguments
+# ------------------------------------------------
+parser = argparse.ArgumentParser(description='Download Mushafmakkah Quran Page Fonts')
+parser.add_argument('-l', '--log', help='Log scrapping data', action='store_true')
+parser.add_argument('-d', '--directory', help='Set output directory', default='quran_fonts_data')
+
+parser.add_argument('-fp', '--file-prefix', help='Set file name prefix', default='quran_page_')
+
+parser.add_argument('-ps', '--page-start', help='Fetch from page', type=int, default=1)
+parser.add_argument('-pe', '--page-end', help='Fetch to page', type=int, default=604)
+
+args = parser.parse_args()
+
+# ------------------------------------------------
+# Command Line Arguments
+# ------------------------------------------------
+URL = 'https://web.mushafmakkah.com/fonts2/QuranPage{0}.ttf'
+FILE_NAME = args.directory.strip('/') + '/' + args.file_prefix + '{0}.ttf'
+
+# ------------------------------------------------
+# Utils
+# ------------------------------------------------
+def log(key, value):
+    if args.log:
+        print(key + ': ' + str(value))
+
+# ------------------------------------------------
+# Download
+# ------------------------------------------------
+if not os.path.exists(args.directory):
+    os.makedirs(args.directory)
+
+for page_number in range(args.page_start, args.page_end + 1):
+    page_url = URL.format(page_number)
+    page_request = requests.get(page_url)
+    page_file = open(FILE_NAME.format(page_number), 'w')
+    page_file.write(page_request.text)
+    page_file.close()
+    log('Page', page_number)

@@ -34,6 +34,7 @@ import time
 import json
 import copy
 import argparse
+import os
 
 # ------------------------------------------------
 # Command Line Arguments
@@ -45,12 +46,13 @@ parser.add_argument('-f', '--fonts', help='Show fonts', action='store_true')
 
 parser.add_argument('-d', '--delimiter', help='Set verse delimiter', default=':')
 parser.add_argument('-i', '--indent', help='Set output indentation', type=int, default=2)
+parser.add_argument('-d', '--directory', help='Set output directory', default='quran_scrapper_data')
 
-parser.add_argument('-fp', '--file-prefix', help='Set file name prefix', default='quran_scrapper_data/quran_')
+parser.add_argument('-fp', '--file-prefix', help='Set file name prefix', default='quran_')
 parser.add_argument('-ps', '--page-start', help='Fetch from page', type=int, default=1)
+parser.add_argument('-pe', '--page-end', help='Fetch to page', type=int, default=604)
 parser.add_argument('-cs', '--chapter-start', help='Fetch from chapter', type=int, default=1)
 parser.add_argument('-vs', '--verse-start', help='Fetch from verse', type=int, default=1)
-parser.add_argument('-pe', '--page-end', help='Fetch to page', type=int, default=604)
 
 parser.add_argument('-qw', '--query-wait', help='Set query wait time out', type=float, default=10)
 parser.add_argument('-sw', '--script-wait', help='Set script wait time out', type=float, default=10)
@@ -62,7 +64,7 @@ args = parser.parse_args()
 # Constants
 # ------------------------------------------------
 URL = 'https://web.mushafmakkah.com/#!/?sura='+str(args.chapter_start)+'&aya='+str(args.verse_start)+'&lang=ar'
-FILE_NAME = args.file_prefix + '{0}.json'
+FILE_NAME = args.directory.strip('/') + '/' + args.file_prefix + '{0}.json'
 TEXT_ATTR = 'innerText'
 NO_BASMALA_CHAPTERS = ('1', '9')
 LOG_WIDTH = 20
@@ -405,6 +407,8 @@ try:
 except (KeyboardInterrupt, SystemExit):
     pass
 finally:
+    if not os.path.exists(args.directory):
+        os.makedirs(args.directory)
     with open(FILE_NAME.format('languages'), 'w') as languages_file:
         json.dump(languages, languages_file, indent=args.indent, default=set_default)
     with open(FILE_NAME.format('verses'), 'w') as verses_file:
