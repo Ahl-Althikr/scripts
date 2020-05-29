@@ -291,19 +291,20 @@ try:
         pages = json.load(pages_file)
     with open(FILE_NAME.format('chapters')) as chapters_file:
         chapters = json.load(chapters_file)
-        current_chapter_id = list(chapters.keys())[-1]
     with open(FILE_NAME.format('sections')) as sections_file:
         sections = json.load(sections_file)
-        current_section_id = list(sections.keys())[-1]
     with open(FILE_NAME.format('explanations')) as explanations_file:
         explanations = json.load(explanations_file)
+
+    page_start = pages[str(args.page_start)]
+    current_chapter_id = page_start['chapters'][0] if page_start and page_start['chapters'] else list(chapters.keys())[-1]
+    current_section_id = page_start['sections'][0] if page_start and page_start['sections'] else list(sections.keys())[-1]
 except:
     pass
 
 # ------------------------------------------------
 # Scrapping
 # ------------------------------------------------
-
 if __name__ != '__main__':
     exit()
 try:
