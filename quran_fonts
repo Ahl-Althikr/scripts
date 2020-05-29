@@ -18,12 +18,13 @@ import os
 # ------------------------------------------------
 parser = argparse.ArgumentParser(description='Download Mushafmakkah Quran Page Fonts')
 parser.add_argument('-l', '--log', help='Log scrapping data', action='store_true')
-parser.add_argument('-d', '--directory', help='Set output directory', default='quran_fonts_data')
 
 parser.add_argument('-fp', '--file-prefix', help='Set file name prefix', default='quran_page_')
 
 parser.add_argument('-ps', '--page-start', help='Fetch from page', type=int, default=1)
 parser.add_argument('-pe', '--page-end', help='Fetch to page', type=int, default=604)
+
+parser.add_argument('-dir', '--directory', help='Set output directory', default='quran_fonts_data')
 
 args = parser.parse_args()
 
