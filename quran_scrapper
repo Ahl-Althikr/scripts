@@ -272,6 +272,59 @@ languages = {
 }
 
 # ------------------------------------------------
+# Missing Verse Unicodes
+# ------------------------------------------------
+
+verses_missing = {
+    '2:282': [
+        '\ufbd6',
+        '\ufbd7',
+        '\ufbd8',
+        '\ufbd9',
+        '\ufbda',
+        '\ufbdb',
+        '\ufbdc',
+        '\ufbdd',
+        '\ufbde',
+        '\ufbdf',
+        '\ufbe0',
+        '\ufbe1',
+        '\ufbe2',
+        '\ufbe3',
+        '\ufbe4',
+        '\ufbe5',
+        '\ufbe6',
+        '\ufbe7',
+        '\ufbe8',
+        '\ufbe9',
+        '\ufbea',
+        '\ufbeb',
+        '\ufbec',
+        '\ufbed',
+        '\ufbee',
+        '\ufbef',
+        '\ufbf0',
+        '\ufbf1',
+        '\ufbf2',
+        '\ufbf3',
+        '\ufbf4',
+        '\ufbf5',
+        '\ufbf6',
+        '\ufbf7',
+        '\ufbf8',
+        '\ufbf9',
+        '\ufbfa',
+        '\ufbfb',
+        '\ufbfc',
+        '\ufbfd',
+        '\ufbfe',
+        '\ufbff',
+        '\ufc00',
+        '\ufc01'
+    ]
+}
+
+# ------------------------------------------------
 # Track Data
 # ------------------------------------------------
 
@@ -357,7 +410,7 @@ try:
             verses[verse_id] = {
                 'id': verse_id,
                 'number': verse_number,
-                'arabic_unicodes': [get_verse_arabic_unicode(ar_unicode_el) for ar_unicode_el in get_verse_arabic_unicode_elements(verse_element, page_number)],
+                'arabic_unicodes': [get_verse_arabic_unicode(ar_unicode_el) for ar_unicode_el in get_verse_arabic_unicode_elements(verse_element, page_number)] + (verses_missing[verse_id] if verses_missing[verse_id] else []),
 
                 'explanations': [explanation_id],
                 'page': page_id,
