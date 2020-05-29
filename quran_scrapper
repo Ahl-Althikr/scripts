@@ -272,7 +272,7 @@ languages = {
 }
 
 # ------------------------------------------------
-# Missing Verse Unicodes
+# Fixing Verse Unicodes
 # ------------------------------------------------
 
 verses_missing = {
@@ -322,6 +322,10 @@ verses_missing = {
         '\ufc00',
         '\ufc01'
     ]
+}
+
+verses_extra = {
+    '36:19': set(['ﮔ'])
 }
 
 # ------------------------------------------------
@@ -410,13 +414,22 @@ try:
             verses[verse_id] = {
                 'id': verse_id,
                 'number': verse_number,
-                'arabic_unicodes': [get_verse_arabic_unicode(ar_unicode_el) for ar_unicode_el in get_verse_arabic_unicode_elements(verse_element, page_number)] + (verses_missing[verse_id] if verses_missing[verse_id] else []),
+                'arabic_unicodes': set([]),
 
                 'explanations': [explanation_id],
                 'page': page_id,
                 'section': section_id,
                 'chapter': chapter_id,
             }
+
+            for arabic_unicode_element in get_verse_arabic_unicode_elements(verse_element, page_number):
+                arabic_unicode = get_verse_arabic_unicode(arabic_unicode_element)
+                
+                if not (verse_id in verses_extra and arabic_unicode in verses_extra[verse_id]):
+                    verses[verse_id]['arabic_unicodes'].add(arabic_unicode)
+
+            if verse_id in verses_missing:
+                verses[verse_id]['arabic_unicodes'].update(verses_missing[verse_id])
 
             if chapter_id != current_chapter_id:
                 current_chapter_id = chapter_id
