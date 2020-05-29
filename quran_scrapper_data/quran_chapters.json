@@ -3,7 +3,7 @@
     "id": "1",
     "number": 1,
     "name": "Al-Faatiha",
-    "aranic_unicode": "\ufb8d",
+    "arabic_unicode": "\ufb8d",
     "basmalah": false,
     "verses": [
       "1:1",
@@ -25,7 +25,7 @@
     "id": "2",
     "number": 2,
     "name": "Al-Baqara",
-    "aranic_unicode": "\ufb8e",
+    "arabic_unicode": "\ufb8e",
     "basmalah": true,
     "verses": [
       "2:1",
@@ -375,7 +375,7 @@
     "id": "3",
     "number": 3,
     "name": "Aal-i-Imraan",
-    "aranic_unicode": "\ufb8f",
+    "arabic_unicode": "\ufb8f",
     "basmalah": true,
     "verses": [
       "3:1",
@@ -617,7 +617,7 @@
     "id": "4",
     "number": 4,
     "name": "An-Nisaa",
-    "aranic_unicode": "\ufb90",
+    "arabic_unicode": "\ufb90",
     "basmalah": true,
     "verses": [
       "4:1",
@@ -839,7 +839,7 @@
     "id": "5",
     "number": 5,
     "name": "Al-Maaida",
-    "aranic_unicode": "\ufb91",
+    "arabic_unicode": "\ufb91",
     "basmalah": true,
     "verses": [
       "5:1",
@@ -996,7 +996,7 @@
     "id": "6",
     "number": 6,
     "name": "Al-An'aam",
-    "aranic_unicode": "\ufb92",
+    "arabic_unicode": "\ufb92",
     "basmalah": true,
     "verses": [
       "6:1",
@@ -1199,7 +1199,7 @@
     "id": "7",
     "number": 7,
     "name": "Al-A'raaf",
-    "aranic_unicode": "\ufb93",
+    "arabic_unicode": "\ufb93",
     "basmalah": true,
     "verses": [
       "7:1",
@@ -1446,7 +1446,7 @@
     "id": "8",
     "number": 8,
     "name": "Al-Anfaal",
-    "aranic_unicode": "\ufb94",
+    "arabic_unicode": "\ufb94",
     "basmalah": true,
     "verses": [
       "8:1",
@@ -1546,7 +1546,7 @@
     "id": "9",
     "number": 9,
     "name": "At-Tawba",
-    "aranic_unicode": "\ufb95",
+    "arabic_unicode": "\ufb95",
     "basmalah": false,
     "verses": [
       "9:1",
@@ -1711,7 +1711,7 @@
     "id": "10",
     "number": 10,
     "name": "Yunus",
-    "aranic_unicode": "\ufb96",
+    "arabic_unicode": "\ufb96",
     "basmalah": true,
     "verses": [
       "10:1",
@@ -1848,7 +1848,7 @@
     "id": "11",
     "number": 11,
     "name": "Hud",
-    "aranic_unicode": "\ufb97",
+    "arabic_unicode": "\ufb97",
     "basmalah": true,
     "verses": [
       "11:1",
@@ -2001,7 +2001,7 @@
     "id": "12",
     "number": 12,
     "name": "Yusuf",
-    "aranic_unicode": "\ufb98",
+    "arabic_unicode": "\ufb98",
     "basmalah": true,
     "verses": [
       "12:1",
@@ -2141,7 +2141,7 @@
     "id": "13",
     "number": 13,
     "name": "Ar-Ra'd",
-    "aranic_unicode": "\ufb99",
+    "arabic_unicode": "\ufb99",
     "basmalah": true,
     "verses": [
       "13:1",
@@ -2205,7 +2205,7 @@
     "id": "14",
     "number": 14,
     "name": "Ibrahim",
-    "aranic_unicode": "\ufb9a",
+    "arabic_unicode": "\ufb9a",
     "basmalah": true,
     "verses": [
       "14:1",
@@ -2278,7 +2278,7 @@
     "id": "15",
     "number": 15,
     "name": "Al-Hijr",
-    "aranic_unicode": "\ufb9b",
+    "arabic_unicode": "\ufb9b",
     "basmalah": true,
     "verses": [
       "15:1",
@@ -2397,7 +2397,7 @@
     "id": "16",
     "number": 16,
     "name": "An-Nahl",
-    "aranic_unicode": "\ufb9c",
+    "arabic_unicode": "\ufb9c",
     "basmalah": true,
     "verses": [
       "16:1",
@@ -2554,7 +2554,7 @@
     "id": "17",
     "number": 17,
     "name": "Al-Israa",
-    "aranic_unicode": "\ufb9d",
+    "arabic_unicode": "\ufb9d",
     "basmalah": true,
     "verses": [
       "17:1",
@@ -2691,7 +2691,7 @@
     "id": "18",
     "number": 18,
     "name": "Al-Kahf",
-    "aranic_unicode": "\ufb9e",
+    "arabic_unicode": "\ufb9e",
     "basmalah": true,
     "verses": [
       "18:1",
@@ -2828,7 +2828,7 @@
     "id": "19",
     "number": 19,
     "name": "Maryam",
-    "aranic_unicode": "\ufb9f",
+    "arabic_unicode": "\ufb9f",
     "basmalah": true,
     "verses": [
       "19:1",
@@ -2948,7 +2948,7 @@
     "id": "20",
     "number": 20,
     "name": "Taa-Haa",
-    "aranic_unicode": "\ufba0",
+    "arabic_unicode": "\ufba0",
     "basmalah": true,
     "verses": [
       "20:1",
@@ -3107,7 +3107,7 @@
     "id": "21",
     "number": 21,
     "name": "Al-Anbiyaa",
-    "aranic_unicode": "\ufba1",
+    "arabic_unicode": "\ufba1",
     "basmalah": true,
     "verses": [
       "21:1",
@@ -3243,7 +3243,7 @@
     "id": "22",
     "number": 22,
     "name": "Al-Hajj",
-    "aranic_unicode": "\ufba2",
+    "arabic_unicode": "\ufba2",
     "basmalah": true,
     "verses": [
       "22:1",
@@ -3345,7 +3345,7 @@
     "id": "23",
     "number": 23,
     "name": "Al-Muminoon",
-    "aranic_unicode": "\ufba3",
+    "arabic_unicode": "\ufba3",
     "basmalah": true,
     "verses": [
       "23:1",
@@ -3485,7 +3485,7 @@
     "id": "24",
     "number": 24,
     "name": "An-Noor",
-    "aranic_unicode": "\ufba4",
+    "arabic_unicode": "\ufba4",
     "basmalah": true,
     "verses": [
       "24:1",
@@ -3573,7 +3573,7 @@
     "id": "25",
     "number": 25,
     "name": "Al-Furqaan",
-    "aranic_unicode": "\ufba5",
+    "arabic_unicode": "\ufba5",
     "basmalah": true,
     "verses": [
       "25:1",
@@ -3673,7 +3673,7 @@
     "id": "26",
     "number": 26,
     "name": "Ash-Shu'araa",
-    "aranic_unicode": "\ufba6",
+    "arabic_unicode": "\ufba6",
     "basmalah": true,
     "verses": [
       "26:1",
@@ -3924,7 +3924,7 @@
     "id": "27",
     "number": 27,
     "name": "An-Naml",
-    "aranic_unicode": "\ufba7",
+    "arabic_unicode": "\ufba7",
     "basmalah": true,
     "verses": [
       "27:1",
@@ -4041,7 +4041,7 @@
     "id": "28",
     "number": 28,
     "name": "Al-Qasas",
-    "aranic_unicode": "\ufba8",
+    "arabic_unicode": "\ufba8",
     "basmalah": true,
     "verses": [
       "28:1",
@@ -4155,7 +4155,7 @@
     "id": "29",
     "number": 29,
     "name": "Al-Ankaboot",
-    "aranic_unicode": "\ufba9",
+    "arabic_unicode": "\ufba9",
     "basmalah": true,
     "verses": [
       "29:1",
@@ -4248,7 +4248,7 @@
     "id": "30",
     "number": 30,
     "name": "Ar-Room",
-    "aranic_unicode": "\ufbaa",
+    "arabic_unicode": "\ufbaa",
     "basmalah": true,
     "verses": [
       "30:1",
@@ -4329,7 +4329,7 @@
     "id": "31",
     "number": 31,
     "name": "Luqman",
-    "aranic_unicode": "\ufbab",
+    "arabic_unicode": "\ufbab",
     "basmalah": true,
     "verses": [
       "31:1",
@@ -4381,7 +4381,7 @@
     "id": "32",
     "number": 32,
     "name": "As-Sajda",
-    "aranic_unicode": "\ufbac",
+    "arabic_unicode": "\ufbac",
     "basmalah": true,
     "verses": [
       "32:1",
@@ -4428,7 +4428,7 @@
     "id": "33",
     "number": 33,
     "name": "Al-Ahzaab",
-    "aranic_unicode": "\ufbad",
+    "arabic_unicode": "\ufbad",
     "basmalah": true,
     "verses": [
       "33:1",
@@ -4526,7 +4526,7 @@
     "id": "34",
     "number": 34,
     "name": "Saba",
-    "aranic_unicode": "\ufbae",
+    "arabic_unicode": "\ufbae",
     "basmalah": true,
     "verses": [
       "34:1",
@@ -4601,7 +4601,7 @@
     "id": "35",
     "number": 35,
     "name": "Faatir",
-    "aranic_unicode": "\ufbaf",
+    "arabic_unicode": "\ufbaf",
     "basmalah": true,
     "verses": [
       "35:1",
@@ -4667,7 +4667,7 @@
     "id": "36",
     "number": 36,
     "name": "Yaseen",
-    "aranic_unicode": "\ufbb0",
+    "arabic_unicode": "\ufbb0",
     "basmalah": true,
     "verses": [
       "36:1",
@@ -4771,7 +4771,7 @@
     "id": "37",
     "number": 37,
     "name": "As-Saaffaat",
-    "aranic_unicode": "\ufbb1",
+    "arabic_unicode": "\ufbb1",
     "basmalah": true,
     "verses": [
       "37:1",
@@ -4974,7 +4974,7 @@
     "id": "38",
     "number": 38,
     "name": "Saad",
-    "aranic_unicode": "\ufbd3",
+    "arabic_unicode": "\ufbd3",
     "basmalah": true,
     "verses": [
       "38:1",
@@ -5082,7 +5082,7 @@
     "id": "39",
     "number": 39,
     "name": "Az-Zumar",
-    "aranic_unicode": "\ufbd4",
+    "arabic_unicode": "\ufbd4",
     "basmalah": true,
     "verses": [
       "39:1",
@@ -5182,7 +5182,7 @@
     "id": "40",
     "number": 40,
     "name": "Al-Ghaafir",
-    "aranic_unicode": "\ufbd5",
+    "arabic_unicode": "\ufbd5",
     "basmalah": true,
     "verses": [
       "40:1",
@@ -5291,7 +5291,7 @@
     "id": "41",
     "number": 41,
     "name": "Fussilat",
-    "aranic_unicode": "\ufbd6",
+    "arabic_unicode": "\ufbd6",
     "basmalah": true,
     "verses": [
       "41:1",
@@ -5366,7 +5366,7 @@
     "id": "42",
     "number": 42,
     "name": "Ash-Shura",
-    "aranic_unicode": "\ufbd7",
+    "arabic_unicode": "\ufbd7",
     "basmalah": true,
     "verses": [
       "42:1",
@@ -5440,7 +5440,7 @@
     "id": "43",
     "number": 43,
     "name": "Az-Zukhruf",
-    "aranic_unicode": "\ufbd8",
+    "arabic_unicode": "\ufbd8",
     "basmalah": true,
     "verses": [
       "43:1",
@@ -5550,7 +5550,7 @@
     "id": "44",
     "number": 44,
     "name": "Ad-Dukhaan",
-    "aranic_unicode": "\ufbd9",
+    "arabic_unicode": "\ufbd9",
     "basmalah": true,
     "verses": [
       "44:1",
@@ -5626,7 +5626,7 @@
     "id": "45",
     "number": 45,
     "name": "Al-Jaathiya",
-    "aranic_unicode": "\ufbda",
+    "arabic_unicode": "\ufbda",
     "basmalah": true,
     "verses": [
       "45:1",
@@ -5681,7 +5681,7 @@
     "id": "46",
     "number": 46,
     "name": "Al-Ahqaf",
-    "aranic_unicode": "\ufbdb",
+    "arabic_unicode": "\ufbdb",
     "basmalah": true,
     "verses": [
       "46:1",
@@ -5735,7 +5735,7 @@
     "id": "47",
     "number": 47,
     "name": "Muhammad",
-    "aranic_unicode": "\ufbdc",
+    "arabic_unicode": "\ufbdc",
     "basmalah": true,
     "verses": [
       "47:1",
@@ -5791,7 +5791,7 @@
     "id": "48",
     "number": 48,
     "name": "Al-Fath",
-    "aranic_unicode": "\ufbdd",
+    "arabic_unicode": "\ufbdd",
     "basmalah": true,
     "verses": [
       "48:1",
@@ -5839,7 +5839,7 @@
     "id": "49",
     "number": 49,
     "name": "Al-Hujuraat",
-    "aranic_unicode": "\ufbde",
+    "arabic_unicode": "\ufbde",
     "basmalah": true,
     "verses": [
       "49:1",
@@ -5874,7 +5874,7 @@
     "id": "50",
     "number": 50,
     "name": "Qaaf",
-    "aranic_unicode": "\ufbdf",
+    "arabic_unicode": "\ufbdf",
     "basmalah": true,
     "verses": [
       "50:1",
@@ -5936,7 +5936,7 @@
     "id": "51",
     "number": 51,
     "name": "Adh-Dhaariyat",
-    "aranic_unicode": "\ufbe0",
+    "arabic_unicode": "\ufbe0",
     "basmalah": true,
     "verses": [
       "51:1",
@@ -6015,7 +6015,7 @@
     "id": "52",
     "number": 52,
     "name": "At-Tur",
-    "aranic_unicode": "\ufbe1",
+    "arabic_unicode": "\ufbe1",
     "basmalah": true,
     "verses": [
       "52:1",
@@ -6081,7 +6081,7 @@
     "id": "53",
     "number": 53,
     "name": "An-Najm",
-    "aranic_unicode": "\ufbe2",
+    "arabic_unicode": "\ufbe2",
     "basmalah": true,
     "verses": [
       "53:1",
@@ -6160,7 +6160,7 @@
     "id": "54",
     "number": 54,
     "name": "Al-Qamar",
-    "aranic_unicode": "\ufbe3",
+    "arabic_unicode": "\ufbe3",
     "basmalah": true,
     "verses": [
       "54:1",
@@ -6233,7 +6233,7 @@
     "id": "55",
     "number": 55,
     "name": "Ar-Rahmaan",
-    "aranic_unicode": "\ufbe4",
+    "arabic_unicode": "\ufbe4",
     "basmalah": true,
     "verses": [
       "55:1",
@@ -6329,7 +6329,7 @@
     "id": "56",
     "number": 56,
     "name": "Al-Waaqia",
-    "aranic_unicode": "\ufbe5",
+    "arabic_unicode": "\ufbe5",
     "basmalah": true,
     "verses": [
       "56:1",
@@ -6443,7 +6443,7 @@
     "id": "57",
     "number": 57,
     "name": "Al-Hadid",
-    "aranic_unicode": "\ufbe6",
+    "arabic_unicode": "\ufbe6",
     "basmalah": true,
     "verses": [
       "57:1",
@@ -6491,7 +6491,7 @@
     "id": "58",
     "number": 58,
     "name": "Al-Mujaadila",
-    "aranic_unicode": "\ufbe7",
+    "arabic_unicode": "\ufbe7",
     "basmalah": true,
     "verses": [
       "58:1",
@@ -6531,7 +6531,7 @@
     "id": "59",
     "number": 59,
     "name": "Al-Hashr",
-    "aranic_unicode": "\ufbe8",
+    "arabic_unicode": "\ufbe8",
     "basmalah": true,
     "verses": [
       "59:1",
@@ -6573,7 +6573,7 @@
     "id": "60",
     "number": 60,
     "name": "Al-Mumtahana",
-    "aranic_unicode": "\ufbe9",
+    "arabic_unicode": "\ufbe9",
     "basmalah": true,
     "verses": [
       "60:1",
@@ -6603,7 +6603,7 @@
     "id": "61",
     "number": 61,
     "name": "As-Saff",
-    "aranic_unicode": "\ufbea",
+    "arabic_unicode": "\ufbea",
     "basmalah": true,
     "verses": [
       "61:1",
@@ -6633,7 +6633,7 @@
     "id": "62",
     "number": 62,
     "name": "Al-Jumu'a",
-    "aranic_unicode": "\ufbeb",
+    "arabic_unicode": "\ufbeb",
     "basmalah": true,
     "verses": [
       "62:1",
@@ -6660,7 +6660,7 @@
     "id": "63",
     "number": 63,
     "name": "Al-Munaafiqoon",
-    "aranic_unicode": "\ufbec",
+    "arabic_unicode": "\ufbec",
     "basmalah": true,
     "verses": [
       "63:1",
@@ -6687,7 +6687,7 @@
     "id": "64",
     "number": 64,
     "name": "At-Taghaabun",
-    "aranic_unicode": "\ufbed",
+    "arabic_unicode": "\ufbed",
     "basmalah": true,
     "verses": [
       "64:1",
@@ -6721,7 +6721,7 @@
     "id": "65",
     "number": 65,
     "name": "At-Talaaq",
-    "aranic_unicode": "\ufbee",
+    "arabic_unicode": "\ufbee",
     "basmalah": true,
     "verses": [
       "65:1",
@@ -6749,7 +6749,7 @@
     "id": "66",
     "number": 66,
     "name": "At-Tahrim",
-    "aranic_unicode": "\ufbef",
+    "arabic_unicode": "\ufbef",
     "basmalah": true,
     "verses": [
       "66:1",
@@ -6777,7 +6777,7 @@
     "id": "67",
     "number": 67,
     "name": "Al-Mulk",
-    "aranic_unicode": "\ufbf0",
+    "arabic_unicode": "\ufbf0",
     "basmalah": true,
     "verses": [
       "67:1",
@@ -6824,7 +6824,7 @@
     "id": "68",
     "number": 68,
     "name": "Al-Qalam",
-    "aranic_unicode": "\ufbf1",
+    "arabic_unicode": "\ufbf1",
     "basmalah": true,
     "verses": [
       "68:1",
@@ -6893,7 +6893,7 @@
     "id": "69",
     "number": 69,
     "name": "Al-Haaqqa",
-    "aranic_unicode": "\ufbf2",
+    "arabic_unicode": "\ufbf2",
     "basmalah": true,
     "verses": [
       "69:1",
@@ -6962,7 +6962,7 @@
     "id": "70",
     "number": 70,
     "name": "Al-Ma'aarij",
-    "aranic_unicode": "\ufbf3",
+    "arabic_unicode": "\ufbf3",
     "basmalah": true,
     "verses": [
       "70:1",
@@ -7023,7 +7023,7 @@
     "id": "71",
     "number": 71,
     "name": "Nooh",
-    "aranic_unicode": "\ufbf4",
+    "arabic_unicode": "\ufbf4",
     "basmalah": true,
     "verses": [
       "71:1",
@@ -7067,7 +7067,7 @@
     "id": "72",
     "number": 72,
     "name": "Al-Jinn",
-    "aranic_unicode": "\ufbf5",
+    "arabic_unicode": "\ufbf5",
     "basmalah": true,
     "verses": [
       "72:1",
@@ -7111,7 +7111,7 @@
     "id": "73",
     "number": 73,
     "name": "Al-Muzzammil",
-    "aranic_unicode": "\ufbf6",
+    "arabic_unicode": "\ufbf6",
     "basmalah": true,
     "verses": [
       "73:1",
@@ -7147,7 +7147,7 @@
     "id": "74",
     "number": 74,
     "name": "Al-Muddaththir",
-    "aranic_unicode": "\ufbf7",
+    "arabic_unicode": "\ufbf7",
     "basmalah": true,
     "verses": [
       "74:1",
@@ -7220,7 +7220,7 @@
     "id": "75",
     "number": 75,
     "name": "Al-Qiyaama",
-    "aranic_unicode": "\ufbf8",
+    "arabic_unicode": "\ufbf8",
     "basmalah": true,
     "verses": [
       "75:1",
@@ -7276,7 +7276,7 @@
     "id": "76",
     "number": 76,
     "name": "Al-Insaan",
-    "aranic_unicode": "\ufbf9",
+    "arabic_unicode": "\ufbf9",
     "basmalah": true,
     "verses": [
       "76:1",
@@ -7324,7 +7324,7 @@
     "id": "77",
     "number": 77,
     "name": "Al-Mursalaat",
-    "aranic_unicode": "\ufbfa",
+    "arabic_unicode": "\ufbfa",
     "basmalah": true,
     "verses": [
       "77:1",
@@ -7390,7 +7390,7 @@
     "id": "78",
     "number": 78,
     "name": "An-Naba",
-    "aranic_unicode": "\ufbfb",
+    "arabic_unicode": "\ufbfb",
     "basmalah": true,
     "verses": [
       "78:1",
@@ -7446,7 +7446,7 @@
     "id": "79",
     "number": 79,
     "name": "An-Naazi'aat",
-    "aranic_unicode": "\ufbfc",
+    "arabic_unicode": "\ufbfc",
     "basmalah": true,
     "verses": [
       "79:1",
@@ -7508,7 +7508,7 @@
     "id": "80",
     "number": 80,
     "name": "Abasa",
-    "aranic_unicode": "\ufbfd",
+    "arabic_unicode": "\ufbfd",
     "basmalah": true,
     "verses": [
       "80:1",
@@ -7566,7 +7566,7 @@
     "id": "81",
     "number": 81,
     "name": "At-Takwir",
-    "aranic_unicode": "\ufbfe",
+    "arabic_unicode": "\ufbfe",
     "basmalah": true,
     "verses": [
       "81:1",
@@ -7610,7 +7610,7 @@
     "id": "82",
     "number": 82,
     "name": "Al-Infitaar",
-    "aranic_unicode": "\ufbff",
+    "arabic_unicode": "\ufbff",
     "basmalah": true,
     "verses": [
       "82:1",
@@ -7644,7 +7644,7 @@
     "id": "83",
     "number": 83,
     "name": "Al-Mutaffifin",
-    "aranic_unicode": "\ufc00",
+    "arabic_unicode": "\ufc00",
     "basmalah": true,
     "verses": [
       "83:1",
@@ -7697,7 +7697,7 @@
     "id": "84",
     "number": 84,
     "name": "Al-Inshiqaaq",
-    "aranic_unicode": "\ufc01",
+    "arabic_unicode": "\ufc01",
     "basmalah": true,
     "verses": [
       "84:1",
@@ -7738,7 +7738,7 @@
     "id": "85",
     "number": 85,
     "name": "Al-Burooj",
-    "aranic_unicode": "\ufc02",
+    "arabic_unicode": "\ufc02",
     "basmalah": true,
     "verses": [
       "85:1",
@@ -7775,7 +7775,7 @@
     "id": "86",
     "number": 86,
     "name": "At-Taariq",
-    "aranic_unicode": "\ufc03",
+    "arabic_unicode": "\ufc03",
     "basmalah": true,
     "verses": [
       "86:1",
@@ -7807,7 +7807,7 @@
     "id": "87",
     "number": 87,
     "name": "Al-A'laa",
-    "aranic_unicode": "\ufc04",
+    "arabic_unicode": "\ufc04",
     "basmalah": true,
     "verses": [
       "87:1",
@@ -7842,7 +7842,7 @@
     "id": "88",
     "number": 88,
     "name": "Al-Ghaashiya",
-    "aranic_unicode": "\ufc05",
+    "arabic_unicode": "\ufc05",
     "basmalah": true,
     "verses": [
       "88:1",
@@ -7884,7 +7884,7 @@
     "id": "89",
     "number": 89,
     "name": "Al-Fajr",
-    "aranic_unicode": "\ufc06",
+    "arabic_unicode": "\ufc06",
     "basmalah": true,
     "verses": [
       "89:1",
@@ -7930,7 +7930,7 @@
     "id": "90",
     "number": 90,
     "name": "Al-Balad",
-    "aranic_unicode": "\ufc07",
+    "arabic_unicode": "\ufc07",
     "basmalah": true,
     "verses": [
       "90:1",
@@ -7966,7 +7966,7 @@
     "id": "91",
     "number": 91,
     "name": "Ash-Shams",
-    "aranic_unicode": "\ufc08",
+    "arabic_unicode": "\ufc08",
     "basmalah": true,
     "verses": [
       "91:1",
@@ -7996,7 +7996,7 @@
     "id": "92",
     "number": 92,
     "name": "Al-Lail",
-    "aranic_unicode": "\ufc09",
+    "arabic_unicode": "\ufc09",
     "basmalah": true,
     "verses": [
       "92:1",
@@ -8033,7 +8033,7 @@
     "id": "93",
     "number": 93,
     "name": "Ad-Dhuhaa",
-    "aranic_unicode": "\ufc0a",
+    "arabic_unicode": "\ufc0a",
     "basmalah": true,
     "verses": [
       "93:1",
@@ -8059,7 +8059,7 @@
     "id": "94",
     "number": 94,
     "name": "Ash-Sharh",
-    "aranic_unicode": "\ufc0b",
+    "arabic_unicode": "\ufc0b",
     "basmalah": true,
     "verses": [
       "94:1",
@@ -8083,7 +8083,7 @@
     "id": "95",
     "number": 95,
     "name": "At-Tin",
-    "aranic_unicode": "\ufc0c",
+    "arabic_unicode": "\ufc0c",
     "basmalah": true,
     "verses": [
       "95:1",
@@ -8106,7 +8106,7 @@
     "id": "96",
     "number": 96,
     "name": "Al-Alaq",
-    "aranic_unicode": "\ufc0d",
+    "arabic_unicode": "\ufc0d",
     "basmalah": true,
     "verses": [
       "96:1",
@@ -8141,7 +8141,7 @@
     "id": "97",
     "number": 97,
     "name": "Al-Qadr",
-    "aranic_unicode": "\ufc0e",
+    "arabic_unicode": "\ufc0e",
     "basmalah": true,
     "verses": [
       "97:1",
@@ -8161,7 +8161,7 @@
     "id": "98",
     "number": 98,
     "name": "Al-Bayyina",
-    "aranic_unicode": "\ufc0f",
+    "arabic_unicode": "\ufc0f",
     "basmalah": true,
     "verses": [
       "98:1",
@@ -8185,7 +8185,7 @@
     "id": "99",
     "number": 99,
     "name": "Az-Zalzala",
-    "aranic_unicode": "\ufc10",
+    "arabic_unicode": "\ufc10",
     "basmalah": true,
     "verses": [
       "99:1",
@@ -8208,7 +8208,7 @@
     "id": "100",
     "number": 100,
     "name": "Al-Aadiyaat",
-    "aranic_unicode": "\ufc11",
+    "arabic_unicode": "\ufc11",
     "basmalah": true,
     "verses": [
       "100:1",
@@ -8235,7 +8235,7 @@
     "id": "101",
     "number": 101,
     "name": "Al-Qaari'a",
-    "aranic_unicode": "\ufc12",
+    "arabic_unicode": "\ufc12",
     "basmalah": true,
     "verses": [
       "101:1",
@@ -8261,7 +8261,7 @@
     "id": "102",
     "number": 102,
     "name": "At-Takaathur",
-    "aranic_unicode": "\ufc13",
+    "arabic_unicode": "\ufc13",
     "basmalah": true,
     "verses": [
       "102:1",
@@ -8284,7 +8284,7 @@
     "id": "103",
     "number": 103,
     "name": "Al-Asr",
-    "aranic_unicode": "\ufc14",
+    "arabic_unicode": "\ufc14",
     "basmalah": true,
     "verses": [
       "103:1",
@@ -8302,7 +8302,7 @@
     "id": "104",
     "number": 104,
     "name": "Al-Humaza",
-    "aranic_unicode": "\ufc15",
+    "arabic_unicode": "\ufc15",
     "basmalah": true,
     "verses": [
       "104:1",
@@ -8326,7 +8326,7 @@
     "id": "105",
     "number": 105,
     "name": "Al-Fil",
-    "aranic_unicode": "\ufc16",
+    "arabic_unicode": "\ufc16",
     "basmalah": true,
     "verses": [
       "105:1",
@@ -8346,7 +8346,7 @@
     "id": "106",
     "number": 106,
     "name": "Quraish",
-    "aranic_unicode": "\ufc17",
+    "arabic_unicode": "\ufc17",
     "basmalah": true,
     "verses": [
       "106:1",
@@ -8365,7 +8365,7 @@
     "id": "107",
     "number": 107,
     "name": "Al-Maa'un",
-    "aranic_unicode": "\ufc18",
+    "arabic_unicode": "\ufc18",
     "basmalah": true,
     "verses": [
       "107:1",
@@ -8387,7 +8387,7 @@
     "id": "108",
     "number": 108,
     "name": "Al-Kawthar",
-    "aranic_unicode": "\ufc19",
+    "arabic_unicode": "\ufc19",
     "basmalah": true,
     "verses": [
       "108:1",
@@ -8405,7 +8405,7 @@
     "id": "109",
     "number": 109,
     "name": "Al-Kaafiroon",
-    "aranic_unicode": "\ufc1a",
+    "arabic_unicode": "\ufc1a",
     "basmalah": true,
     "verses": [
       "109:1",
@@ -8426,7 +8426,7 @@
     "id": "110",
     "number": 110,
     "name": "An-Nasr",
-    "aranic_unicode": "\ufc1b",
+    "arabic_unicode": "\ufc1b",
     "basmalah": true,
     "verses": [
       "110:1",
@@ -8444,7 +8444,7 @@
     "id": "111",
     "number": 111,
     "name": "Al-Masad",
-    "aranic_unicode": "\ufc1c",
+    "arabic_unicode": "\ufc1c",
     "basmalah": true,
     "verses": [
       "111:1",
@@ -8464,7 +8464,7 @@
     "id": "112",
     "number": 112,
     "name": "Al-Ikhlaas",
-    "aranic_unicode": "\ufc1d",
+    "arabic_unicode": "\ufc1d",
     "basmalah": true,
     "verses": [
       "112:1",
@@ -8483,7 +8483,7 @@
     "id": "113",
     "number": 113,
     "name": "Al-Falaq",
-    "aranic_unicode": "\ufc1e",
+    "arabic_unicode": "\ufc1e",
     "basmalah": true,
     "verses": [
       "113:1",
@@ -8503,7 +8503,7 @@
     "id": "114",
     "number": 114,
     "name": "An-Naas",
-    "aranic_unicode": "\ufc1f",
+    "arabic_unicode": "\ufc1f",
     "basmalah": true,
     "verses": [
       "114:1",

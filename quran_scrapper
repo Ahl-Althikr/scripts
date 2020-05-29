@@ -369,7 +369,7 @@ try:
                     'id': chapter_id,
                     'number': chapter_number,
                     'name': get_chapter_name(active_chapter),
-                    'aranic_unicode': get_chapter_arabic_unicode(active_chapter),
+                    'arabic_unicode': get_chapter_arabic_unicode(active_chapter),
                     'basmalah': chapter_id not in NO_BASMALA_CHAPTERS,
                     
                     'verses': set([]),
