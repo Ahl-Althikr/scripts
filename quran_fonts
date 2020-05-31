@@ -35,12 +35,26 @@ URL = 'https://web.mushafmakkah.com/fonts2/QuranPage{0}.ttf'
 TITLES_ULR = 'https://web.mushafmakkah.com/fonts/QuranTitles.192cecd.ttf'
 FILE_NAME = args.directory.strip('/') + '/' + args.file_prefix + '{0}.ttf'
 
+CSS_FONT_FACE = """
+@font-face {{
+  font-family: 'quran_{0}_{1}';
+  src: url({{BASE_PATH}}/quran_{0}_{1}.ttf) format('truetype');
+}}
+"""
+
 # ------------------------------------------------
 # Utils
 # ------------------------------------------------
 def log(key, value):
     if args.log:
         print(key + ': ' + str(value))
+
+
+# ------------------------------------------------
+# Data
+# ------------------------------------------------
+
+css_font_definitions = []
 
 # ------------------------------------------------
 # Download
@@ -55,8 +69,14 @@ for page_number in range(args.page_start, args.page_end + 1):
     page_file.write(page_request.content)
     page_file.close()
     log('Page', page_number)
+    css_font_definitions.append(CSS_FONT_FACE.format('page', page_number))
 
 titles_request = requests.get(TITLES_ULR)
 titles_file = open(FILE_NAME.format('titles').replace('page', 'chapter'), 'wb')
 titles_file.write(titles_request.content)
 titles_file.close()
+css_font_definitions.append(CSS_FONT_FACE.format('chapter', 'titles'))
+
+css_file = open(FILE_NAME.format('fonts').replace('_css', '').replace('ttf', 'css'), 'w')
+css_file.write("".join(css_font_definitions).strip())
+css_file.close()

@@ -1,0 +1,3024 @@
+@font-face {
+  font-family: 'quran_page_1';
+  src: url({BASE_PATH}/quran_page_1.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_2';
+  src: url({BASE_PATH}/quran_page_2.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_3';
+  src: url({BASE_PATH}/quran_page_3.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_4';
+  src: url({BASE_PATH}/quran_page_4.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_5';
+  src: url({BASE_PATH}/quran_page_5.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_6';
+  src: url({BASE_PATH}/quran_page_6.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_7';
+  src: url({BASE_PATH}/quran_page_7.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_8';
+  src: url({BASE_PATH}/quran_page_8.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_9';
+  src: url({BASE_PATH}/quran_page_9.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_10';
+  src: url({BASE_PATH}/quran_page_10.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_11';
+  src: url({BASE_PATH}/quran_page_11.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_12';
+  src: url({BASE_PATH}/quran_page_12.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_13';
+  src: url({BASE_PATH}/quran_page_13.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_14';
+  src: url({BASE_PATH}/quran_page_14.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_15';
+  src: url({BASE_PATH}/quran_page_15.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_16';
+  src: url({BASE_PATH}/quran_page_16.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_17';
+  src: url({BASE_PATH}/quran_page_17.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_18';
+  src: url({BASE_PATH}/quran_page_18.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_19';
+  src: url({BASE_PATH}/quran_page_19.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_20';
+  src: url({BASE_PATH}/quran_page_20.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_21';
+  src: url({BASE_PATH}/quran_page_21.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_22';
+  src: url({BASE_PATH}/quran_page_22.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_23';
+  src: url({BASE_PATH}/quran_page_23.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_24';
+  src: url({BASE_PATH}/quran_page_24.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_25';
+  src: url({BASE_PATH}/quran_page_25.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_26';
+  src: url({BASE_PATH}/quran_page_26.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_27';
+  src: url({BASE_PATH}/quran_page_27.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_28';
+  src: url({BASE_PATH}/quran_page_28.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_29';
+  src: url({BASE_PATH}/quran_page_29.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_30';
+  src: url({BASE_PATH}/quran_page_30.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_31';
+  src: url({BASE_PATH}/quran_page_31.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_32';
+  src: url({BASE_PATH}/quran_page_32.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_33';
+  src: url({BASE_PATH}/quran_page_33.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_34';
+  src: url({BASE_PATH}/quran_page_34.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_35';
+  src: url({BASE_PATH}/quran_page_35.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_36';
+  src: url({BASE_PATH}/quran_page_36.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_37';
+  src: url({BASE_PATH}/quran_page_37.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_38';
+  src: url({BASE_PATH}/quran_page_38.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_39';
+  src: url({BASE_PATH}/quran_page_39.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_40';
+  src: url({BASE_PATH}/quran_page_40.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_41';
+  src: url({BASE_PATH}/quran_page_41.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_42';
+  src: url({BASE_PATH}/quran_page_42.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_43';
+  src: url({BASE_PATH}/quran_page_43.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_44';
+  src: url({BASE_PATH}/quran_page_44.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_45';
+  src: url({BASE_PATH}/quran_page_45.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_46';
+  src: url({BASE_PATH}/quran_page_46.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_47';
+  src: url({BASE_PATH}/quran_page_47.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_48';
+  src: url({BASE_PATH}/quran_page_48.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_49';
+  src: url({BASE_PATH}/quran_page_49.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_50';
+  src: url({BASE_PATH}/quran_page_50.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_51';
+  src: url({BASE_PATH}/quran_page_51.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_52';
+  src: url({BASE_PATH}/quran_page_52.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_53';
+  src: url({BASE_PATH}/quran_page_53.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_54';
+  src: url({BASE_PATH}/quran_page_54.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_55';
+  src: url({BASE_PATH}/quran_page_55.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_56';
+  src: url({BASE_PATH}/quran_page_56.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_57';
+  src: url({BASE_PATH}/quran_page_57.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_58';
+  src: url({BASE_PATH}/quran_page_58.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_59';
+  src: url({BASE_PATH}/quran_page_59.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_60';
+  src: url({BASE_PATH}/quran_page_60.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_61';
+  src: url({BASE_PATH}/quran_page_61.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_62';
+  src: url({BASE_PATH}/quran_page_62.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_63';
+  src: url({BASE_PATH}/quran_page_63.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_64';
+  src: url({BASE_PATH}/quran_page_64.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_65';
+  src: url({BASE_PATH}/quran_page_65.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_66';
+  src: url({BASE_PATH}/quran_page_66.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_67';
+  src: url({BASE_PATH}/quran_page_67.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_68';
+  src: url({BASE_PATH}/quran_page_68.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_69';
+  src: url({BASE_PATH}/quran_page_69.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_70';
+  src: url({BASE_PATH}/quran_page_70.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_71';
+  src: url({BASE_PATH}/quran_page_71.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_72';
+  src: url({BASE_PATH}/quran_page_72.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_73';
+  src: url({BASE_PATH}/quran_page_73.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_74';
+  src: url({BASE_PATH}/quran_page_74.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_75';
+  src: url({BASE_PATH}/quran_page_75.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_76';
+  src: url({BASE_PATH}/quran_page_76.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_77';
+  src: url({BASE_PATH}/quran_page_77.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_78';
+  src: url({BASE_PATH}/quran_page_78.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_79';
+  src: url({BASE_PATH}/quran_page_79.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_80';
+  src: url({BASE_PATH}/quran_page_80.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_81';
+  src: url({BASE_PATH}/quran_page_81.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_82';
+  src: url({BASE_PATH}/quran_page_82.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_83';
+  src: url({BASE_PATH}/quran_page_83.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_84';
+  src: url({BASE_PATH}/quran_page_84.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_85';
+  src: url({BASE_PATH}/quran_page_85.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_86';
+  src: url({BASE_PATH}/quran_page_86.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_87';
+  src: url({BASE_PATH}/quran_page_87.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_88';
+  src: url({BASE_PATH}/quran_page_88.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_89';
+  src: url({BASE_PATH}/quran_page_89.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_90';
+  src: url({BASE_PATH}/quran_page_90.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_91';
+  src: url({BASE_PATH}/quran_page_91.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_92';
+  src: url({BASE_PATH}/quran_page_92.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_93';
+  src: url({BASE_PATH}/quran_page_93.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_94';
+  src: url({BASE_PATH}/quran_page_94.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_95';
+  src: url({BASE_PATH}/quran_page_95.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_96';
+  src: url({BASE_PATH}/quran_page_96.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_97';
+  src: url({BASE_PATH}/quran_page_97.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_98';
+  src: url({BASE_PATH}/quran_page_98.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_99';
+  src: url({BASE_PATH}/quran_page_99.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_100';
+  src: url({BASE_PATH}/quran_page_100.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_101';
+  src: url({BASE_PATH}/quran_page_101.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_102';
+  src: url({BASE_PATH}/quran_page_102.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_103';
+  src: url({BASE_PATH}/quran_page_103.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_104';
+  src: url({BASE_PATH}/quran_page_104.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_105';
+  src: url({BASE_PATH}/quran_page_105.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_106';
+  src: url({BASE_PATH}/quran_page_106.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_107';
+  src: url({BASE_PATH}/quran_page_107.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_108';
+  src: url({BASE_PATH}/quran_page_108.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_109';
+  src: url({BASE_PATH}/quran_page_109.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_110';
+  src: url({BASE_PATH}/quran_page_110.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_111';
+  src: url({BASE_PATH}/quran_page_111.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_112';
+  src: url({BASE_PATH}/quran_page_112.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_113';
+  src: url({BASE_PATH}/quran_page_113.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_114';
+  src: url({BASE_PATH}/quran_page_114.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_115';
+  src: url({BASE_PATH}/quran_page_115.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_116';
+  src: url({BASE_PATH}/quran_page_116.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_117';
+  src: url({BASE_PATH}/quran_page_117.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_118';
+  src: url({BASE_PATH}/quran_page_118.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_119';
+  src: url({BASE_PATH}/quran_page_119.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_120';
+  src: url({BASE_PATH}/quran_page_120.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_121';
+  src: url({BASE_PATH}/quran_page_121.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_122';
+  src: url({BASE_PATH}/quran_page_122.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_123';
+  src: url({BASE_PATH}/quran_page_123.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_124';
+  src: url({BASE_PATH}/quran_page_124.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_125';
+  src: url({BASE_PATH}/quran_page_125.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_126';
+  src: url({BASE_PATH}/quran_page_126.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_127';
+  src: url({BASE_PATH}/quran_page_127.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_128';
+  src: url({BASE_PATH}/quran_page_128.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_129';
+  src: url({BASE_PATH}/quran_page_129.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_130';
+  src: url({BASE_PATH}/quran_page_130.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_131';
+  src: url({BASE_PATH}/quran_page_131.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_132';
+  src: url({BASE_PATH}/quran_page_132.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_133';
+  src: url({BASE_PATH}/quran_page_133.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_134';
+  src: url({BASE_PATH}/quran_page_134.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_135';
+  src: url({BASE_PATH}/quran_page_135.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_136';
+  src: url({BASE_PATH}/quran_page_136.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_137';
+  src: url({BASE_PATH}/quran_page_137.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_138';
+  src: url({BASE_PATH}/quran_page_138.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_139';
+  src: url({BASE_PATH}/quran_page_139.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_140';
+  src: url({BASE_PATH}/quran_page_140.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_141';
+  src: url({BASE_PATH}/quran_page_141.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_142';
+  src: url({BASE_PATH}/quran_page_142.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_143';
+  src: url({BASE_PATH}/quran_page_143.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_144';
+  src: url({BASE_PATH}/quran_page_144.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_145';
+  src: url({BASE_PATH}/quran_page_145.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_146';
+  src: url({BASE_PATH}/quran_page_146.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_147';
+  src: url({BASE_PATH}/quran_page_147.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_148';
+  src: url({BASE_PATH}/quran_page_148.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_149';
+  src: url({BASE_PATH}/quran_page_149.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_150';
+  src: url({BASE_PATH}/quran_page_150.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_151';
+  src: url({BASE_PATH}/quran_page_151.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_152';
+  src: url({BASE_PATH}/quran_page_152.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_153';
+  src: url({BASE_PATH}/quran_page_153.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_154';
+  src: url({BASE_PATH}/quran_page_154.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_155';
+  src: url({BASE_PATH}/quran_page_155.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_156';
+  src: url({BASE_PATH}/quran_page_156.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_157';
+  src: url({BASE_PATH}/quran_page_157.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_158';
+  src: url({BASE_PATH}/quran_page_158.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_159';
+  src: url({BASE_PATH}/quran_page_159.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_160';
+  src: url({BASE_PATH}/quran_page_160.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_161';
+  src: url({BASE_PATH}/quran_page_161.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_162';
+  src: url({BASE_PATH}/quran_page_162.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_163';
+  src: url({BASE_PATH}/quran_page_163.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_164';
+  src: url({BASE_PATH}/quran_page_164.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_165';
+  src: url({BASE_PATH}/quran_page_165.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_166';
+  src: url({BASE_PATH}/quran_page_166.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_167';
+  src: url({BASE_PATH}/quran_page_167.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_168';
+  src: url({BASE_PATH}/quran_page_168.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_169';
+  src: url({BASE_PATH}/quran_page_169.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_170';
+  src: url({BASE_PATH}/quran_page_170.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_171';
+  src: url({BASE_PATH}/quran_page_171.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_172';
+  src: url({BASE_PATH}/quran_page_172.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_173';
+  src: url({BASE_PATH}/quran_page_173.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_174';
+  src: url({BASE_PATH}/quran_page_174.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_175';
+  src: url({BASE_PATH}/quran_page_175.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_176';
+  src: url({BASE_PATH}/quran_page_176.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_177';
+  src: url({BASE_PATH}/quran_page_177.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_178';
+  src: url({BASE_PATH}/quran_page_178.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_179';
+  src: url({BASE_PATH}/quran_page_179.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_180';
+  src: url({BASE_PATH}/quran_page_180.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_181';
+  src: url({BASE_PATH}/quran_page_181.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_182';
+  src: url({BASE_PATH}/quran_page_182.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_183';
+  src: url({BASE_PATH}/quran_page_183.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_184';
+  src: url({BASE_PATH}/quran_page_184.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_185';
+  src: url({BASE_PATH}/quran_page_185.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_186';
+  src: url({BASE_PATH}/quran_page_186.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_187';
+  src: url({BASE_PATH}/quran_page_187.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_188';
+  src: url({BASE_PATH}/quran_page_188.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_189';
+  src: url({BASE_PATH}/quran_page_189.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_190';
+  src: url({BASE_PATH}/quran_page_190.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_191';
+  src: url({BASE_PATH}/quran_page_191.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_192';
+  src: url({BASE_PATH}/quran_page_192.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_193';
+  src: url({BASE_PATH}/quran_page_193.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_194';
+  src: url({BASE_PATH}/quran_page_194.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_195';
+  src: url({BASE_PATH}/quran_page_195.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_196';
+  src: url({BASE_PATH}/quran_page_196.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_197';
+  src: url({BASE_PATH}/quran_page_197.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_198';
+  src: url({BASE_PATH}/quran_page_198.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_199';
+  src: url({BASE_PATH}/quran_page_199.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_200';
+  src: url({BASE_PATH}/quran_page_200.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_201';
+  src: url({BASE_PATH}/quran_page_201.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_202';
+  src: url({BASE_PATH}/quran_page_202.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_203';
+  src: url({BASE_PATH}/quran_page_203.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_204';
+  src: url({BASE_PATH}/quran_page_204.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_205';
+  src: url({BASE_PATH}/quran_page_205.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_206';
+  src: url({BASE_PATH}/quran_page_206.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_207';
+  src: url({BASE_PATH}/quran_page_207.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_208';
+  src: url({BASE_PATH}/quran_page_208.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_209';
+  src: url({BASE_PATH}/quran_page_209.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_210';
+  src: url({BASE_PATH}/quran_page_210.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_211';
+  src: url({BASE_PATH}/quran_page_211.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_212';
+  src: url({BASE_PATH}/quran_page_212.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_213';
+  src: url({BASE_PATH}/quran_page_213.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_214';
+  src: url({BASE_PATH}/quran_page_214.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_215';
+  src: url({BASE_PATH}/quran_page_215.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_216';
+  src: url({BASE_PATH}/quran_page_216.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_217';
+  src: url({BASE_PATH}/quran_page_217.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_218';
+  src: url({BASE_PATH}/quran_page_218.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_219';
+  src: url({BASE_PATH}/quran_page_219.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_220';
+  src: url({BASE_PATH}/quran_page_220.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_221';
+  src: url({BASE_PATH}/quran_page_221.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_222';
+  src: url({BASE_PATH}/quran_page_222.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_223';
+  src: url({BASE_PATH}/quran_page_223.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_224';
+  src: url({BASE_PATH}/quran_page_224.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_225';
+  src: url({BASE_PATH}/quran_page_225.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_226';
+  src: url({BASE_PATH}/quran_page_226.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_227';
+  src: url({BASE_PATH}/quran_page_227.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_228';
+  src: url({BASE_PATH}/quran_page_228.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_229';
+  src: url({BASE_PATH}/quran_page_229.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_230';
+  src: url({BASE_PATH}/quran_page_230.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_231';
+  src: url({BASE_PATH}/quran_page_231.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_232';
+  src: url({BASE_PATH}/quran_page_232.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_233';
+  src: url({BASE_PATH}/quran_page_233.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_234';
+  src: url({BASE_PATH}/quran_page_234.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_235';
+  src: url({BASE_PATH}/quran_page_235.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_236';
+  src: url({BASE_PATH}/quran_page_236.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_237';
+  src: url({BASE_PATH}/quran_page_237.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_238';
+  src: url({BASE_PATH}/quran_page_238.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_239';
+  src: url({BASE_PATH}/quran_page_239.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_240';
+  src: url({BASE_PATH}/quran_page_240.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_241';
+  src: url({BASE_PATH}/quran_page_241.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_242';
+  src: url({BASE_PATH}/quran_page_242.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_243';
+  src: url({BASE_PATH}/quran_page_243.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_244';
+  src: url({BASE_PATH}/quran_page_244.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_245';
+  src: url({BASE_PATH}/quran_page_245.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_246';
+  src: url({BASE_PATH}/quran_page_246.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_247';
+  src: url({BASE_PATH}/quran_page_247.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_248';
+  src: url({BASE_PATH}/quran_page_248.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_249';
+  src: url({BASE_PATH}/quran_page_249.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_250';
+  src: url({BASE_PATH}/quran_page_250.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_251';
+  src: url({BASE_PATH}/quran_page_251.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_252';
+  src: url({BASE_PATH}/quran_page_252.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_253';
+  src: url({BASE_PATH}/quran_page_253.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_254';
+  src: url({BASE_PATH}/quran_page_254.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_255';
+  src: url({BASE_PATH}/quran_page_255.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_256';
+  src: url({BASE_PATH}/quran_page_256.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_257';
+  src: url({BASE_PATH}/quran_page_257.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_258';
+  src: url({BASE_PATH}/quran_page_258.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_259';
+  src: url({BASE_PATH}/quran_page_259.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_260';
+  src: url({BASE_PATH}/quran_page_260.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_261';
+  src: url({BASE_PATH}/quran_page_261.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_262';
+  src: url({BASE_PATH}/quran_page_262.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_263';
+  src: url({BASE_PATH}/quran_page_263.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_264';
+  src: url({BASE_PATH}/quran_page_264.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_265';
+  src: url({BASE_PATH}/quran_page_265.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_266';
+  src: url({BASE_PATH}/quran_page_266.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_267';
+  src: url({BASE_PATH}/quran_page_267.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_268';
+  src: url({BASE_PATH}/quran_page_268.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_269';
+  src: url({BASE_PATH}/quran_page_269.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_270';
+  src: url({BASE_PATH}/quran_page_270.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_271';
+  src: url({BASE_PATH}/quran_page_271.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_272';
+  src: url({BASE_PATH}/quran_page_272.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_273';
+  src: url({BASE_PATH}/quran_page_273.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_274';
+  src: url({BASE_PATH}/quran_page_274.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_275';
+  src: url({BASE_PATH}/quran_page_275.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_276';
+  src: url({BASE_PATH}/quran_page_276.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_277';
+  src: url({BASE_PATH}/quran_page_277.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_278';
+  src: url({BASE_PATH}/quran_page_278.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_279';
+  src: url({BASE_PATH}/quran_page_279.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_280';
+  src: url({BASE_PATH}/quran_page_280.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_281';
+  src: url({BASE_PATH}/quran_page_281.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_282';
+  src: url({BASE_PATH}/quran_page_282.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_283';
+  src: url({BASE_PATH}/quran_page_283.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_284';
+  src: url({BASE_PATH}/quran_page_284.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_285';
+  src: url({BASE_PATH}/quran_page_285.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_286';
+  src: url({BASE_PATH}/quran_page_286.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_287';
+  src: url({BASE_PATH}/quran_page_287.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_288';
+  src: url({BASE_PATH}/quran_page_288.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_289';
+  src: url({BASE_PATH}/quran_page_289.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_290';
+  src: url({BASE_PATH}/quran_page_290.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_291';
+  src: url({BASE_PATH}/quran_page_291.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_292';
+  src: url({BASE_PATH}/quran_page_292.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_293';
+  src: url({BASE_PATH}/quran_page_293.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_294';
+  src: url({BASE_PATH}/quran_page_294.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_295';
+  src: url({BASE_PATH}/quran_page_295.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_296';
+  src: url({BASE_PATH}/quran_page_296.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_297';
+  src: url({BASE_PATH}/quran_page_297.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_298';
+  src: url({BASE_PATH}/quran_page_298.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_299';
+  src: url({BASE_PATH}/quran_page_299.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_300';
+  src: url({BASE_PATH}/quran_page_300.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_301';
+  src: url({BASE_PATH}/quran_page_301.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_302';
+  src: url({BASE_PATH}/quran_page_302.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_303';
+  src: url({BASE_PATH}/quran_page_303.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_304';
+  src: url({BASE_PATH}/quran_page_304.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_305';
+  src: url({BASE_PATH}/quran_page_305.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_306';
+  src: url({BASE_PATH}/quran_page_306.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_307';
+  src: url({BASE_PATH}/quran_page_307.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_308';
+  src: url({BASE_PATH}/quran_page_308.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_309';
+  src: url({BASE_PATH}/quran_page_309.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_310';
+  src: url({BASE_PATH}/quran_page_310.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_311';
+  src: url({BASE_PATH}/quran_page_311.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_312';
+  src: url({BASE_PATH}/quran_page_312.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_313';
+  src: url({BASE_PATH}/quran_page_313.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_314';
+  src: url({BASE_PATH}/quran_page_314.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_315';
+  src: url({BASE_PATH}/quran_page_315.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_316';
+  src: url({BASE_PATH}/quran_page_316.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_317';
+  src: url({BASE_PATH}/quran_page_317.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_318';
+  src: url({BASE_PATH}/quran_page_318.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_319';
+  src: url({BASE_PATH}/quran_page_319.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_320';
+  src: url({BASE_PATH}/quran_page_320.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_321';
+  src: url({BASE_PATH}/quran_page_321.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_322';
+  src: url({BASE_PATH}/quran_page_322.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_323';
+  src: url({BASE_PATH}/quran_page_323.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_324';
+  src: url({BASE_PATH}/quran_page_324.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_325';
+  src: url({BASE_PATH}/quran_page_325.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_326';
+  src: url({BASE_PATH}/quran_page_326.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_327';
+  src: url({BASE_PATH}/quran_page_327.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_328';
+  src: url({BASE_PATH}/quran_page_328.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_329';
+  src: url({BASE_PATH}/quran_page_329.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_330';
+  src: url({BASE_PATH}/quran_page_330.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_331';
+  src: url({BASE_PATH}/quran_page_331.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_332';
+  src: url({BASE_PATH}/quran_page_332.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_333';
+  src: url({BASE_PATH}/quran_page_333.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_334';
+  src: url({BASE_PATH}/quran_page_334.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_335';
+  src: url({BASE_PATH}/quran_page_335.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_336';
+  src: url({BASE_PATH}/quran_page_336.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_337';
+  src: url({BASE_PATH}/quran_page_337.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_338';
+  src: url({BASE_PATH}/quran_page_338.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_339';
+  src: url({BASE_PATH}/quran_page_339.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_340';
+  src: url({BASE_PATH}/quran_page_340.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_341';
+  src: url({BASE_PATH}/quran_page_341.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_342';
+  src: url({BASE_PATH}/quran_page_342.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_343';
+  src: url({BASE_PATH}/quran_page_343.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_344';
+  src: url({BASE_PATH}/quran_page_344.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_345';
+  src: url({BASE_PATH}/quran_page_345.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_346';
+  src: url({BASE_PATH}/quran_page_346.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_347';
+  src: url({BASE_PATH}/quran_page_347.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_348';
+  src: url({BASE_PATH}/quran_page_348.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_349';
+  src: url({BASE_PATH}/quran_page_349.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_350';
+  src: url({BASE_PATH}/quran_page_350.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_351';
+  src: url({BASE_PATH}/quran_page_351.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_352';
+  src: url({BASE_PATH}/quran_page_352.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_353';
+  src: url({BASE_PATH}/quran_page_353.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_354';
+  src: url({BASE_PATH}/quran_page_354.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_355';
+  src: url({BASE_PATH}/quran_page_355.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_356';
+  src: url({BASE_PATH}/quran_page_356.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_357';
+  src: url({BASE_PATH}/quran_page_357.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_358';
+  src: url({BASE_PATH}/quran_page_358.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_359';
+  src: url({BASE_PATH}/quran_page_359.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_360';
+  src: url({BASE_PATH}/quran_page_360.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_361';
+  src: url({BASE_PATH}/quran_page_361.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_362';
+  src: url({BASE_PATH}/quran_page_362.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_363';
+  src: url({BASE_PATH}/quran_page_363.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_364';
+  src: url({BASE_PATH}/quran_page_364.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_365';
+  src: url({BASE_PATH}/quran_page_365.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_366';
+  src: url({BASE_PATH}/quran_page_366.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_367';
+  src: url({BASE_PATH}/quran_page_367.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_368';
+  src: url({BASE_PATH}/quran_page_368.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_369';
+  src: url({BASE_PATH}/quran_page_369.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_370';
+  src: url({BASE_PATH}/quran_page_370.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_371';
+  src: url({BASE_PATH}/quran_page_371.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_372';
+  src: url({BASE_PATH}/quran_page_372.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_373';
+  src: url({BASE_PATH}/quran_page_373.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_374';
+  src: url({BASE_PATH}/quran_page_374.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_375';
+  src: url({BASE_PATH}/quran_page_375.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_376';
+  src: url({BASE_PATH}/quran_page_376.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_377';
+  src: url({BASE_PATH}/quran_page_377.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_378';
+  src: url({BASE_PATH}/quran_page_378.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_379';
+  src: url({BASE_PATH}/quran_page_379.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_380';
+  src: url({BASE_PATH}/quran_page_380.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_381';
+  src: url({BASE_PATH}/quran_page_381.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_382';
+  src: url({BASE_PATH}/quran_page_382.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_383';
+  src: url({BASE_PATH}/quran_page_383.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_384';
+  src: url({BASE_PATH}/quran_page_384.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_385';
+  src: url({BASE_PATH}/quran_page_385.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_386';
+  src: url({BASE_PATH}/quran_page_386.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_387';
+  src: url({BASE_PATH}/quran_page_387.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_388';
+  src: url({BASE_PATH}/quran_page_388.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_389';
+  src: url({BASE_PATH}/quran_page_389.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_390';
+  src: url({BASE_PATH}/quran_page_390.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_391';
+  src: url({BASE_PATH}/quran_page_391.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_392';
+  src: url({BASE_PATH}/quran_page_392.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_393';
+  src: url({BASE_PATH}/quran_page_393.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_394';
+  src: url({BASE_PATH}/quran_page_394.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_395';
+  src: url({BASE_PATH}/quran_page_395.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_396';
+  src: url({BASE_PATH}/quran_page_396.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_397';
+  src: url({BASE_PATH}/quran_page_397.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_398';
+  src: url({BASE_PATH}/quran_page_398.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_399';
+  src: url({BASE_PATH}/quran_page_399.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_400';
+  src: url({BASE_PATH}/quran_page_400.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_401';
+  src: url({BASE_PATH}/quran_page_401.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_402';
+  src: url({BASE_PATH}/quran_page_402.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_403';
+  src: url({BASE_PATH}/quran_page_403.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_404';
+  src: url({BASE_PATH}/quran_page_404.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_405';
+  src: url({BASE_PATH}/quran_page_405.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_406';
+  src: url({BASE_PATH}/quran_page_406.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_407';
+  src: url({BASE_PATH}/quran_page_407.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_408';
+  src: url({BASE_PATH}/quran_page_408.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_409';
+  src: url({BASE_PATH}/quran_page_409.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_410';
+  src: url({BASE_PATH}/quran_page_410.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_411';
+  src: url({BASE_PATH}/quran_page_411.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_412';
+  src: url({BASE_PATH}/quran_page_412.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_413';
+  src: url({BASE_PATH}/quran_page_413.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_414';
+  src: url({BASE_PATH}/quran_page_414.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_415';
+  src: url({BASE_PATH}/quran_page_415.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_416';
+  src: url({BASE_PATH}/quran_page_416.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_417';
+  src: url({BASE_PATH}/quran_page_417.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_418';
+  src: url({BASE_PATH}/quran_page_418.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_419';
+  src: url({BASE_PATH}/quran_page_419.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_420';
+  src: url({BASE_PATH}/quran_page_420.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_421';
+  src: url({BASE_PATH}/quran_page_421.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_422';
+  src: url({BASE_PATH}/quran_page_422.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_423';
+  src: url({BASE_PATH}/quran_page_423.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_424';
+  src: url({BASE_PATH}/quran_page_424.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_425';
+  src: url({BASE_PATH}/quran_page_425.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_426';
+  src: url({BASE_PATH}/quran_page_426.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_427';
+  src: url({BASE_PATH}/quran_page_427.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_428';
+  src: url({BASE_PATH}/quran_page_428.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_429';
+  src: url({BASE_PATH}/quran_page_429.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_430';
+  src: url({BASE_PATH}/quran_page_430.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_431';
+  src: url({BASE_PATH}/quran_page_431.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_432';
+  src: url({BASE_PATH}/quran_page_432.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_433';
+  src: url({BASE_PATH}/quran_page_433.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_434';
+  src: url({BASE_PATH}/quran_page_434.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_435';
+  src: url({BASE_PATH}/quran_page_435.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_436';
+  src: url({BASE_PATH}/quran_page_436.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_437';
+  src: url({BASE_PATH}/quran_page_437.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_438';
+  src: url({BASE_PATH}/quran_page_438.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_439';
+  src: url({BASE_PATH}/quran_page_439.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_440';
+  src: url({BASE_PATH}/quran_page_440.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_441';
+  src: url({BASE_PATH}/quran_page_441.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_442';
+  src: url({BASE_PATH}/quran_page_442.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_443';
+  src: url({BASE_PATH}/quran_page_443.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_444';
+  src: url({BASE_PATH}/quran_page_444.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_445';
+  src: url({BASE_PATH}/quran_page_445.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_446';
+  src: url({BASE_PATH}/quran_page_446.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_447';
+  src: url({BASE_PATH}/quran_page_447.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_448';
+  src: url({BASE_PATH}/quran_page_448.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_449';
+  src: url({BASE_PATH}/quran_page_449.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_450';
+  src: url({BASE_PATH}/quran_page_450.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_451';
+  src: url({BASE_PATH}/quran_page_451.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_452';
+  src: url({BASE_PATH}/quran_page_452.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_453';
+  src: url({BASE_PATH}/quran_page_453.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_454';
+  src: url({BASE_PATH}/quran_page_454.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_455';
+  src: url({BASE_PATH}/quran_page_455.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_456';
+  src: url({BASE_PATH}/quran_page_456.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_457';
+  src: url({BASE_PATH}/quran_page_457.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_458';
+  src: url({BASE_PATH}/quran_page_458.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_459';
+  src: url({BASE_PATH}/quran_page_459.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_460';
+  src: url({BASE_PATH}/quran_page_460.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_461';
+  src: url({BASE_PATH}/quran_page_461.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_462';
+  src: url({BASE_PATH}/quran_page_462.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_463';
+  src: url({BASE_PATH}/quran_page_463.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_464';
+  src: url({BASE_PATH}/quran_page_464.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_465';
+  src: url({BASE_PATH}/quran_page_465.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_466';
+  src: url({BASE_PATH}/quran_page_466.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_467';
+  src: url({BASE_PATH}/quran_page_467.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_468';
+  src: url({BASE_PATH}/quran_page_468.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_469';
+  src: url({BASE_PATH}/quran_page_469.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_470';
+  src: url({BASE_PATH}/quran_page_470.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_471';
+  src: url({BASE_PATH}/quran_page_471.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_472';
+  src: url({BASE_PATH}/quran_page_472.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_473';
+  src: url({BASE_PATH}/quran_page_473.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_474';
+  src: url({BASE_PATH}/quran_page_474.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_475';
+  src: url({BASE_PATH}/quran_page_475.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_476';
+  src: url({BASE_PATH}/quran_page_476.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_477';
+  src: url({BASE_PATH}/quran_page_477.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_478';
+  src: url({BASE_PATH}/quran_page_478.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_479';
+  src: url({BASE_PATH}/quran_page_479.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_480';
+  src: url({BASE_PATH}/quran_page_480.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_481';
+  src: url({BASE_PATH}/quran_page_481.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_482';
+  src: url({BASE_PATH}/quran_page_482.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_483';
+  src: url({BASE_PATH}/quran_page_483.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_484';
+  src: url({BASE_PATH}/quran_page_484.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_485';
+  src: url({BASE_PATH}/quran_page_485.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_486';
+  src: url({BASE_PATH}/quran_page_486.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_487';
+  src: url({BASE_PATH}/quran_page_487.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_488';
+  src: url({BASE_PATH}/quran_page_488.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_489';
+  src: url({BASE_PATH}/quran_page_489.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_490';
+  src: url({BASE_PATH}/quran_page_490.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_491';
+  src: url({BASE_PATH}/quran_page_491.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_492';
+  src: url({BASE_PATH}/quran_page_492.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_493';
+  src: url({BASE_PATH}/quran_page_493.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_494';
+  src: url({BASE_PATH}/quran_page_494.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_495';
+  src: url({BASE_PATH}/quran_page_495.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_496';
+  src: url({BASE_PATH}/quran_page_496.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_497';
+  src: url({BASE_PATH}/quran_page_497.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_498';
+  src: url({BASE_PATH}/quran_page_498.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_499';
+  src: url({BASE_PATH}/quran_page_499.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_500';
+  src: url({BASE_PATH}/quran_page_500.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_501';
+  src: url({BASE_PATH}/quran_page_501.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_502';
+  src: url({BASE_PATH}/quran_page_502.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_503';
+  src: url({BASE_PATH}/quran_page_503.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_504';
+  src: url({BASE_PATH}/quran_page_504.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_505';
+  src: url({BASE_PATH}/quran_page_505.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_506';
+  src: url({BASE_PATH}/quran_page_506.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_507';
+  src: url({BASE_PATH}/quran_page_507.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_508';
+  src: url({BASE_PATH}/quran_page_508.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_509';
+  src: url({BASE_PATH}/quran_page_509.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_510';
+  src: url({BASE_PATH}/quran_page_510.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_511';
+  src: url({BASE_PATH}/quran_page_511.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_512';
+  src: url({BASE_PATH}/quran_page_512.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_513';
+  src: url({BASE_PATH}/quran_page_513.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_514';
+  src: url({BASE_PATH}/quran_page_514.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_515';
+  src: url({BASE_PATH}/quran_page_515.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_516';
+  src: url({BASE_PATH}/quran_page_516.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_517';
+  src: url({BASE_PATH}/quran_page_517.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_518';
+  src: url({BASE_PATH}/quran_page_518.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_519';
+  src: url({BASE_PATH}/quran_page_519.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_520';
+  src: url({BASE_PATH}/quran_page_520.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_521';
+  src: url({BASE_PATH}/quran_page_521.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_522';
+  src: url({BASE_PATH}/quran_page_522.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_523';
+  src: url({BASE_PATH}/quran_page_523.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_524';
+  src: url({BASE_PATH}/quran_page_524.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_525';
+  src: url({BASE_PATH}/quran_page_525.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_526';
+  src: url({BASE_PATH}/quran_page_526.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_527';
+  src: url({BASE_PATH}/quran_page_527.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_528';
+  src: url({BASE_PATH}/quran_page_528.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_529';
+  src: url({BASE_PATH}/quran_page_529.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_530';
+  src: url({BASE_PATH}/quran_page_530.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_531';
+  src: url({BASE_PATH}/quran_page_531.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_532';
+  src: url({BASE_PATH}/quran_page_532.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_533';
+  src: url({BASE_PATH}/quran_page_533.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_534';
+  src: url({BASE_PATH}/quran_page_534.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_535';
+  src: url({BASE_PATH}/quran_page_535.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_536';
+  src: url({BASE_PATH}/quran_page_536.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_537';
+  src: url({BASE_PATH}/quran_page_537.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_538';
+  src: url({BASE_PATH}/quran_page_538.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_539';
+  src: url({BASE_PATH}/quran_page_539.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_540';
+  src: url({BASE_PATH}/quran_page_540.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_541';
+  src: url({BASE_PATH}/quran_page_541.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_542';
+  src: url({BASE_PATH}/quran_page_542.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_543';
+  src: url({BASE_PATH}/quran_page_543.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_544';
+  src: url({BASE_PATH}/quran_page_544.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_545';
+  src: url({BASE_PATH}/quran_page_545.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_546';
+  src: url({BASE_PATH}/quran_page_546.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_547';
+  src: url({BASE_PATH}/quran_page_547.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_548';
+  src: url({BASE_PATH}/quran_page_548.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_549';
+  src: url({BASE_PATH}/quran_page_549.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_550';
+  src: url({BASE_PATH}/quran_page_550.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_551';
+  src: url({BASE_PATH}/quran_page_551.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_552';
+  src: url({BASE_PATH}/quran_page_552.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_553';
+  src: url({BASE_PATH}/quran_page_553.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_554';
+  src: url({BASE_PATH}/quran_page_554.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_555';
+  src: url({BASE_PATH}/quran_page_555.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_556';
+  src: url({BASE_PATH}/quran_page_556.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_557';
+  src: url({BASE_PATH}/quran_page_557.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_558';
+  src: url({BASE_PATH}/quran_page_558.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_559';
+  src: url({BASE_PATH}/quran_page_559.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_560';
+  src: url({BASE_PATH}/quran_page_560.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_561';
+  src: url({BASE_PATH}/quran_page_561.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_562';
+  src: url({BASE_PATH}/quran_page_562.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_563';
+  src: url({BASE_PATH}/quran_page_563.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_564';
+  src: url({BASE_PATH}/quran_page_564.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_565';
+  src: url({BASE_PATH}/quran_page_565.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_566';
+  src: url({BASE_PATH}/quran_page_566.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_567';
+  src: url({BASE_PATH}/quran_page_567.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_568';
+  src: url({BASE_PATH}/quran_page_568.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_569';
+  src: url({BASE_PATH}/quran_page_569.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_570';
+  src: url({BASE_PATH}/quran_page_570.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_571';
+  src: url({BASE_PATH}/quran_page_571.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_572';
+  src: url({BASE_PATH}/quran_page_572.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_573';
+  src: url({BASE_PATH}/quran_page_573.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_574';
+  src: url({BASE_PATH}/quran_page_574.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_575';
+  src: url({BASE_PATH}/quran_page_575.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_576';
+  src: url({BASE_PATH}/quran_page_576.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_577';
+  src: url({BASE_PATH}/quran_page_577.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_578';
+  src: url({BASE_PATH}/quran_page_578.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_579';
+  src: url({BASE_PATH}/quran_page_579.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_580';
+  src: url({BASE_PATH}/quran_page_580.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_581';
+  src: url({BASE_PATH}/quran_page_581.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_582';
+  src: url({BASE_PATH}/quran_page_582.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_583';
+  src: url({BASE_PATH}/quran_page_583.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_584';
+  src: url({BASE_PATH}/quran_page_584.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_585';
+  src: url({BASE_PATH}/quran_page_585.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_586';
+  src: url({BASE_PATH}/quran_page_586.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_587';
+  src: url({BASE_PATH}/quran_page_587.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_588';
+  src: url({BASE_PATH}/quran_page_588.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_589';
+  src: url({BASE_PATH}/quran_page_589.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_590';
+  src: url({BASE_PATH}/quran_page_590.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_591';
+  src: url({BASE_PATH}/quran_page_591.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_592';
+  src: url({BASE_PATH}/quran_page_592.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_593';
+  src: url({BASE_PATH}/quran_page_593.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_594';
+  src: url({BASE_PATH}/quran_page_594.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_595';
+  src: url({BASE_PATH}/quran_page_595.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_596';
+  src: url({BASE_PATH}/quran_page_596.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_597';
+  src: url({BASE_PATH}/quran_page_597.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_598';
+  src: url({BASE_PATH}/quran_page_598.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_599';
+  src: url({BASE_PATH}/quran_page_599.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_600';
+  src: url({BASE_PATH}/quran_page_600.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_601';
+  src: url({BASE_PATH}/quran_page_601.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_602';
+  src: url({BASE_PATH}/quran_page_602.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_603';
+  src: url({BASE_PATH}/quran_page_603.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_page_604';
+  src: url({BASE_PATH}/quran_page_604.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'quran_chapter_titles';
+  src: url({BASE_PATH}/quran_chapter_titles.ttf) format('truetype');
+}
